@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My LogIn</string>
+    <string name="log_out">Log Out</string>
+    <string name="name">Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="save_info">Save Info</string>
+    <string name="view_saved_info">View Saved Info</string>
+</resources>

@@ -1,0 +1,3194 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=retainBy)(B9=daysToKeepHdrs)(BA=numHdrsToKeep)(BB=daysToKeepBodies)
+  (BC=useServerDefaults)(BD=cleanupBodies)(BE=applyToFlaggedMessages)
+  (BF=storeToken)(C0=account)(C1=dateReceived)(C2=ProtoThreadFlags)
+  (C3=dobayes.mailnews@mozilla.org#junk.empty)
+  (C4=dobayes.mailnews@mozilla.org#junk)(C5=indexingPriority)(C6=preview)
+  (C7=gloda-id)(C8=junkscore)(C9=gloda-dirty)(CA=keywords)(CB=imageSize)
+  (CC=sender_name)(CD=notAPhishMessage)(CE=replyTo)(CF=enigmail)
+  (D0=junkscoreorigin)(D1=junkpercent)(D2=remoteContentPolicy)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=numLines)(8C=ccList)(8D=bccList)(8E=msgThreadId)
+  (8F=threadId)(90=threadFlags)(91=threadNewestMsgDate)(92=children)
+  (93=unreadChildren)(94=threadSubject)(95=msgCharSet)
+  (96=ns:msg:db:table:kind:msgs)(97=ns:msg:db:table:kind:thread)
+  (98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=folderName)(AF=sortType)(B0=sortOrder)
+  (B1=viewFlags)(B2=viewType)(B3=columnStates)(B4=MRUTime)
+  (B5=sortColumns)(B6=customSortCol)(B7=useServerRetention)>
+<(449=64)(448=63)(510=63809fed)(81=0)(D1=5)>
+[40:m(^9B=64)(^8F=63)(^91^510)(^90=0)(^92=5)(^93=0)]
+<(44C=68)(519=63817525)(80=1)>[41:m(^9B=68)(^8F=68)(^91^519)(^90=0)
+    (^92=1)(^93=0)]
+<(44D=69)(522=6382c6a8)>[42:m(^9B=69)(^8F=69)(^91^522)(^90=0)(^92=1)
+    (^93=0)]
+<(44E=6a)(52A=6382e1c6)>[43:m(^9B=6a)(^8F=6a)(^91^52A)(^90=0)(^92=1)
+    (^93=0)]
+<(44F=6b)(532=63841827)>[44:m(^9B=6b)(^8F=6b)(^91^532)(^90=0)(^92=1)
+    (^93=0)]
+<(451=6e)(55F=63847bb3)(C9=4)>[45:m(^9B=6e)(^8F=6e)(^91^55F)(^90=0)
+    (^92=4)(^93=0)]
+<(455=72)(56E=63847bc6)(A9=2)>[46:m(^9B=72)(^8F=72)(^91^56E)(^90=0)
+    (^92=2)(^93=0)]
+<(456=74)(57F=63849116)>[47:m(^9B=74)(^8F=74)(^91^57F)(^90=0)(^92=2)
+    (^93=0)]
+<(457=76)(5FC=6385d92c)>[48:m(^9B=76)(^8F=76)(^91^5FC)(^90=0)(^92=1)
+    (^93=0)]
+<(458=77)(614=6385d99c)>[49:m(^9B=77)(^8F=77)(^91^614)(^90=0)(^92=2)
+    (^93=0)]
+<(45A=79)(620=6386bb2c)>[4A:m(^9B=79)(^8F=79)(^91^620)(^90=0)(^92=1)
+    (^93=0)]
+<(62C=7a)(62A=63870ec0)>[4B:m(^9B=7a)(^8F=7a)(^91^62A)(^90=0)(^92=1)
+    (^93=0)]
+<(45B=7b)(638=6388657a)>[4C:m(^9B=7b)(^8F=7b)(^91^638)(^90=0)(^92=1)
+    (^93=0)]
+<(45C=7c)(645=63895e28)>[4D:m(^9B=7c)(^8F=7c)(^91^645)(^90=0)(^92=1)
+    (^93=0)]
+<(45D=7d)(64D=638984d7)>[4E:m(^9B=7d)(^8F=7d)(^91^64D)(^90=0)(^92=1)
+    (^93=0)]
+<(663=7e)(66B=638cdc1a)>[4F:m(^9B=7e)(^8F=7e)(^91^66B)(^90=0)(^92=2)
+    (^93=0)]
+<(45F=80)(673=638d52e4)>[50:m(^9B=80)(^8F=80)(^91^673)(^90=0)(^92=1)
+    (^93=0)]
+<(67E=81)(67B=638d6b84)>[51:m(^9B=81)(^8F=81)(^91^67B)(^90=0)(^92=1)
+    (^93=0)]
+<(460=82)(686=638db8b0)>[52:m(^9B=82)(^8F=82)(^91^686)(^90=0)(^92=1)
+    (^93=0)]
+<(461=83)(697=638ef5fc)>[53:m(^9B=83)(^8F=83)(^91^697)(^90=0)(^92=1)
+    (^93=0)]
+<(6A6=84)(6A4=638efda6)>[54:m(^9B=84)(^8F=84)(^91^6A4)(^90=0)(^92=1)
+    (^93=0)]
+<(462=85)(6BE=63914766)>[55:m(^9B=85)(^8F=85)(^91^6BE)(^90=0)(^92=1)
+    (^93=0)]
+<(463=86)(6C8=6391a1a9)>[56:m(^9B=86)(^8F=86)(^91^6C8)(^90=0)(^92=1)
+    (^93=0)]
+<(6D3=87)(6CF=63929a19)>[57:m(^9B=87)(^8F=87)(^91^6CF)(^90=0)(^92=1)
+    (^93=0)]
+<(464=88)(6D9=63929c18)>[58:m(^9B=88)(^8F=88)(^91^6D9)(^90=0)(^92=1)
+    (^93=0)]
+<(465=89)(6E1=63929c2c)>[59:m(^9B=89)(^8F=89)(^91^6E1)(^90=0)(^92=1)
+    (^93=0)]
+<(466=8a)(6EA=63929e6e)>[5A:m(^9B=8a)(^8F=8a)(^91^6EA)(^90=0)(^92=1)
+    (^93=0)]
+<(467=8b)(6F4=639311df)>[5B:m(^9B=8b)(^8F=8b)(^91^6F4)(^90=0)(^92=1)
+    (^93=0)]
+<(6FC=8c)(6FA=6394e86d)>[5C:m(^9B=8c)(^8F=8c)(^91^6FA)(^90=0)(^92=1)
+    (^93=0)]
+<(468=8d)(70D=63968d61)>[5D:m(^9B=8d)(^8F=8d)(^91^70D)(^90=0)(^92=1)
+    (^93=0)]
+<(469=8e)(72D=63996fd6)>[5E:m(^9B=8e)(^8F=8e)(^91^72D)(^90=0)(^92=1)
+    (^93=0)]
+<(46A=8f)(735=639970ab)>[5F:m(^9B=8f)(^8F=8f)(^91^735)(^90=0)(^92=1)
+    (^93=0)]
+<(46B=90)(73B=639970d5)>[60:m(^9B=90)(^8F=90)(^91^73B)(^90=0)(^92=1)
+    (^93=0)]
+<(743=91)(742=639970fc)>[61:m(^9B=91)(^8F=91)(^91^742)(^90=0)(^92=1)
+    (^93=0)]
+<(46C=92)(754=639bd364)>[62:m(^9B=92)(^8F=92)(^91^754)(^90=0)(^92=1)
+    (^93=0)]
+<(46D=93)(762=63a26b19)>[63:m(^9B=93)(^8F=93)(^91^762)(^90=0)(^92=1)
+    (^93=0)]
+<(46E=94)(76C=63a43bee)>[64:m(^9B=94)(^8F=94)(^91^76C)(^90=0)(^92=1)
+    (^93=0)]
+<(46F=95)>[65:m(^9B=95)(^8F=95)(^91^762)(^90=0)(^92=1)(^93=0)]
+<(774=96)>[66:m(^9B=96)(^8F=96)(^91^76C)(^90=0)(^92=1)(^93=0)]
+<(470=97)(783=63a54ff2)>[67:m(^9B=97)(^8F=97)(^91^783)(^90=0)(^92=1)
+    (^93=0)]
+<(471=98)(790=63a90299)>[68:m(^9B=98)(^8F=98)(^91^790)(^90=0)(^92=1)
+    (^93=0)]
+<(472=99)(79D=63af9a1b)>[69:m(^9B=99)(^8F=99)(^91^79D)(^90=0)(^92=1)
+    (^93=0)]
+<(473=9a)(7A7=63b2a1a0)>[6A:m(^9B=9a)(^8F=9a)(^91^7A7)(^90=0)(^92=1)
+    (^93=0)]
+<(482=9b)(7B7=63b6b22d)>[6B:m(^9B=9b)(^8F=9b)(^91^7B7)(^90=0)(^92=1)
+    (^93=0)]
+<(7C8=9c)(7C6=63b7feb5)>[6C:m(^9B=9c)(^8F=9c)(^91^7C6)(^90=0)(^92=1)
+    (^93=0)]
+<(586=9d)(7D3=63bbf69b)>[6D:m(^9B=9d)(^8F=9d)(^91^7D3)(^90=0)(^92=1)
+    (^93=0)]
+<(587=9e)(7E7=63bd2ae3)>[6E:m(^9B=9e)(^8F=9e)(^91^7E7)(^90=0)(^92=2)
+    (^93=0)]
+<(588=a0)(802=63be7c73)>[6F:m(^9B=a0)(^8F=a0)(^91^802)(^90=0)(^92=2)
+    (^93=0)]
+<(819=a2)(820=63c4bbb8)>[70:m(^9B=a2)(^8F=a2)(^91^820)(^90=0)(^92=2)
+    (^93=0)]
+<(4FB=a4)(836=63c53fbd)>[71:m(^9B=a4)(^8F=a4)(^91^836)(^90=0)(^92=2)
+    (^93=0)]
+<(58B=a6)(83F=63c78c35)>[72:m(^9B=a6)(^8F=a6)(^91^83F)(^90=0)(^92=1)
+    (^93=0)]
+<(58C=a7)(855=63c7a796)>[73:m(^9B=a7)(^8F=a7)(^91^855)(^90=0)(^92=2)
+    (^93=0)]
+<(862=a9)(860=63c7e79e)>[74:m(^9B=a9)(^8F=a9)(^91^860)(^90=0)(^92=1)
+    (^93=0)]
+<(58E=aa)(896=63ca2629)>[75:m(^9B=aa)(^8F=aa)(^91^896)(^90=0)(^92=2)
+    (^93=0)]
+<(58F=ab)(877=63c9020a)>[76:m(^9B=ab)(^8F=ab)(^91^877)(^90=0)(^92=1)
+    (^93=0)]
+<(590=ac)(883=63c9026c)>[77:m(^9B=ac)(^8F=ac)(^91^883)(^90=0)(^92=1)
+    (^93=0)]
+<(591=ad)(88E=63c95922)>[78:m(^9B=ad)(^8F=ad)(^91^88E)(^90=0)(^92=1)
+    (^93=0)]
+<(593=af)(8A3=63ca7c2c)>[79:m(^9B=af)(^8F=af)(^91^8A3)(^90=0)(^92=1)
+    (^93=0)]
+<(594=b0)(8B1=63cd76cf)>[7A:m(^9B=b0)(^8F=b0)(^91^8B1)(^90=0)(^92=1)
+    (^93=0)]
+<(595=b1)(8B9=63ce21db)>[7B:m(^9B=b1)(^8F=b1)(^91^8B9)(^90=0)(^92=1)
+    (^93=0)]
+<(596=b2)(8C1=63ce5b52)>[7C:m(^9B=b2)(^8F=b2)(^91^8C1)(^90=0)(^92=1)
+    (^93=0)]
+<(597=b3)(8D1=63cfbb93)>[7D:m(^9B=b3)(^8F=b3)(^91^8D1)(^90=0)(^92=1)
+    (^93=0)]
+<(598=b4)(8F8=63d7a57d)(C0=3)>[7E:m(^9B=b4)(^8F=b4)(^91^8F8)(^90=0)
+    (^92=3)(^93=0)]
+<(59A=b7)(905=63dc94c3)>[7F:m(^9B=b7)(^8F=b7)(^91^905)(^90=0)(^92=1)
+    (^93=0)]
+<(923=b8)(921=63e307da)>[80:m(^9B=b8)(^8F=b8)(^91^921)(^90=0)(^92=1)
+    (^93=1)]
+<(59B=b9)(92A=63e4dea2)>[81:m(^9B=b9)(^8F=b9)(^91^92A)(^90=0)(^92=1)
+    (^93=0)]
+<(59C=ba)(931=63e60a13)>[82:m(^9B=ba)(^8F=ba)(^91^931)(^90=0)(^92=1)
+    (^93=0)]
+<(59D=bb)(942=63e80b55)>[83:m(^9B=bb)(^8F=bb)(^91^942)(^90=0)(^92=1)
+    (^93=0)]
+<(445=bc)(949=63e80bc7)>[84:m(^9B=bc)(^8F=bc)(^91^949)(^90=0)(^92=1)
+    (^93=1)]
+<(59E=bd)(951=63e9e4c3)>[85:m(^9B=bd)(^8F=bd)(^91^951)(^90=0)(^92=1)
+    (^93=1)]
+<(59F=be)(95E=63eff2ca)>[86:m(^9B=be)(^8F=be)(^91^95E)(^90=0)(^92=1)
+    (^93=1)]
+<(5A0=bf)(965=63eff353)>[87:m(^9B=bf)(^8F=bf)(^91^965)(^90=0)(^92=1)
+    (^93=1)]
+<(5A1=c0)(96C=63f06600)>[88:m(^9B=c0)(^8F=c0)(^91^96C)(^90=0)(^92=1)
+    (^93=1)]
+<(5A2=c1)(972=63f0662e)>[89:m(^9B=c1)(^8F=c1)(^91^972)(^90=0)(^92=1)
+    (^93=1)]
+<(43E=c2)(978=63f12ac8)>[8A:m(^9B=c2)(^8F=c2)(^91^978)(^90=0)(^92=1)
+    (^93=1)]
+<(9D=fffffffe)(98=635f3ce7)>[1:m(^9B=1)(^8F^9D)(^91^98)(^90=0)(^92=1)
+    (^93=0)]
+<(A6=6360fba8)>[2:m(^9B=2)(^8F=2)(^91^A6)(^90=0)(^92=1)(^93=0)]
+<(BD=6361f2c8)>[3:m(^9B=3)(^8F=3)(^91^BD)(^90=0)(^92=1)(^93=0)]
+<(C7=6361f2d1)>[4:m(^9B=4)(^8F=4)(^91^C7)(^90=0)(^92=1)(^93=0)]
+<(CF=6361f2de)>[5:m(^9B=5)(^8F=5)(^91^CF)(^90=0)(^92=1)(^93=0)]
+<(D9=6)(D7=6361f2ea)>[6:m(^9B=6)(^8F=6)(^91^D7)(^90=0)(^92=1)(^93=0)]
+<(F5=7)(F2=6361f512)>[7:m(^9B=7)(^8F=7)(^91^F2)(^90=0)(^92=1)(^93=0)]
+<(104=8)(101=63620dbb)>[8:m(^9B=8)(^8F=8)(^91^101)(^90=0)(^92=1)(^93=0)]
+<(10D=9)(10B=63620dbe)>[9:m(^9B=9)(^8F=9)(^91^10B)(^90=0)(^92=1)(^93=0)]
+<(123=a)(120=6368941b)>[A:m(^9B=a)(^8F=a)(^91^120)(^90=0)(^92=1)(^93=0)]
+<(132=b)(12F=6369c4c7)>[B:m(^9B=b)(^8F=b)(^91^12F)(^90=0)(^92=1)(^93=0)]
+<(148=d)(A8=c)(13E=6369f352)>[C:m(^9B=d)(^8F=c)(^91^13E)(^90=0)(^92=3)
+    (^93=0)]
+<(157=f)(155=6369ecc0)>[D:m(^9B=f)(^8F=f)(^91^155)(^90=0)(^92=1)(^93=0)]
+<(161=10)(15E=6369ef88)>[E:m(^9B=10)(^8F=10)(^91^15E)(^90=0)(^92=1)
+    (^93=0)]
+<(177=11)(175=636b5e40)>[F:m(^9B=11)(^8F=11)(^91^175)(^90=0)(^92=1)
+    (^93=0)]
+<(86=12)(186=636b5e78)>[10:m(^9B=12)(^8F=12)(^91^186)(^90=0)(^92=1)
+    (^93=0)]
+<(1A8=13)(1A6=636c8560)>[11:m(^9B=13)(^8F=13)(^91^1A6)(^90=0)(^92=1)
+    (^93=0)]
+<(1B8=14)(1B6=636c8588)>[12:m(^9B=14)(^8F=14)(^91^1B6)(^90=0)(^92=1)
+    (^93=0)]
+<(1C9=15)(1C6=636c84ef)>[13:m(^9B=15)(^8F=15)(^91^1C6)(^90=0)(^92=1)
+    (^93=0)]
+<(1CE=16)(1D4=636c84f2)>[14:m(^9B=16)(^8F=16)(^91^1D4)(^90=0)(^92=1)
+    (^93=0)]
+<(1E3=17)(1E0=636c9a7f)>[15:m(^9B=17)(^8F=17)(^91^1E0)(^90=0)(^92=1)
+    (^93=0)]
+<(1FB=18)(1F8=636dd580)>[16:m(^9B=18)(^8F=18)(^91^1F8)(^90=0)(^92=1)
+    (^93=0)]
+<(20A=19)(207=6371e136)>[17:m(^9B=19)(^8F=19)(^91^207)(^90=0)(^92=1)
+    (^93=0)]
+<(21A=1a)(217=6371ff3f)>[18:m(^9B=1a)(^8F=1a)(^91^217)(^90=0)(^92=1)
+    (^93=0)]
+<(228=1b)(225=6371ff7f)>[19:m(^9B=1b)(^8F=1b)(^91^225)(^90=0)(^92=1)
+    (^93=0)]
+<(233=1c)(231=6371fea9)>[1A:m(^9B=1c)(^8F=1c)(^91^231)(^90=0)(^92=1)
+    (^93=0)]
+<(23F=1d)(443=637df06c)>[1B:m(^9B=1d)(^8F=1d)(^91^443)(^90=0)(^92=3)
+    (^93=0)]
+<(249=1e)(246=6373506c)>[1C:m(^9B=1e)(^8F=1e)(^91^246)(^90=0)(^92=1)
+    (^93=0)]
+<(259=1f)(256=63748085)>[1D:m(^9B=1f)(^8F=1f)(^91^256)(^90=0)(^92=1)
+    (^93=0)]
+<(26A=20)(267=6375edde)>[1E:m(^9B=20)(^8F=20)(^91^267)(^90=0)(^92=1)
+    (^93=0)]
+<(BF=21)(272=6375ef2f)>[1F:m(^9B=21)(^8F=21)(^91^272)(^90=0)(^92=1)
+    (^93=0)]
+<(AD=22)(27B=6376ec67)>[20:m(^9B=22)(^8F=22)(^91^27B)(^90=0)(^92=1)
+    (^93=0)]
+<(AE=23)(284=637721bc)>[21:m(^9B=23)(^8F=23)(^91^284)(^90=0)(^92=1)
+    (^93=0)]
+<(296=24)(294=637b236f)>[22:m(^9B=24)(^8F=24)(^91^294)(^90=0)(^92=1)
+    (^93=0)]
+<(2A8=25)(2A6=637c6623)>[23:m(^9B=25)(^8F=25)(^91^2A6)(^90=0)(^92=1)
+    (^93=0)]
+<(2BA=26)(2C4=637c96da)>[24:m(^9B=26)(^8F=26)(^91^2C4)(^90=0)(^92=2)
+    (^93=0)]
+<(DD=28)(2E6=637d7e22)>[25:m(^9B=28)(^8F=28)(^91^2E6)(^90=0)(^92=3)
+    (^93=0)]
+<(E0=2b)(2F0=637d82fa)>[26:m(^9B=2b)(^8F=2b)(^91^2F0)(^90=0)(^92=1)
+    (^93=0)]
+<(FA=2c)(308=637d841f)>[27:m(^9B=2c)(^8F=2c)(^91^308)(^90=0)(^92=3)
+    (^93=0)]
+<(128=2f)(311=637dab58)>[28:m(^9B=2f)(^8F=2f)(^91^311)(^90=0)(^92=1)
+    (^93=0)]
+<(137=30)(318=637daeea)>[29:m(^9B=30)(^8F=30)(^91^318)(^90=0)(^92=1)
+    (^93=0)]
+<(F4=31)(320=637db124)>[2A:m(^9B=31)(^8F=31)(^91^320)(^90=0)(^92=1)
+    (^93=0)]
+<(32E=32)(32C=637db201)>[2B:m(^9B=32)(^8F=32)(^91^32C)(^90=0)(^92=1)
+    (^93=0)]
+<(166=33)(3A8=637dd300)>[2C:m(^9B=33)(^8F=33)(^91^3A8)(^90=0)(^92=5)
+    (^93=0)]
+<(358=37)(356=637db703)>[2D:m(^9B=37)(^8F=37)(^91^356)(^90=0)(^92=1)
+    (^93=0)]
+<(169=38)(367=637dbdec)>[2E:m(^9B=38)(^8F=38)(^91^367)(^90=0)(^92=2)
+    (^93=0)]
+<(372=3a)(379=637dbefb)>[2F:m(^9B=3a)(^8F=3a)(^91^379)(^90=0)(^92=2)
+    (^93=0)]
+<(17F=3c)(389=637dc01b)>[30:m(^9B=3c)(^8F=3c)(^91^389)(^90=0)(^92=2)
+    (^93=0)]
+<(394=3e)(3A2=637dc1d7)>[31:m(^9B=3e)(^8F=3e)(^91^3A2)(^90=0)(^92=3)
+    (^93=0)]
+<(1C0=42)(3C4=637dd9e0)>[32:m(^9B=42)(^8F=42)(^91^3C4)(^90=0)(^92=3)
+    (^93=0)]
+<(3CF=45)(3E7=637ddbdc)>[33:m(^9B=45)(^8F=45)(^91^3E7)(^90=0)(^92=3)
+    (^93=0)]
+<(160=46)(404=637ddcc8)>[34:m(^9B=46)(^8F=46)(^91^404)(^90=0)(^92=5)
+    (^93=0)]
+<(24C=4d)(414=637de191)>[35:m(^9B=4d)(^8F=4d)(^91^414)(^90=0)(^92=2)
+    (^93=0)]
+<(1FA=4f)(424=637deaa1)>[36:m(^9B=4f)(^8F=4f)(^91^424)(^90=0)(^92=2)
+    (^93=0)]
+<(140=51)(434=637dec08)>[37:m(^9B=51)(^8F=51)(^91^434)(^90=0)(^92=2)
+    (^93=0)]
+<(269=55)(479=637ed228)>[38:m(^9B=55)(^8F=55)(^91^479)(^90=0)(^92=1)
+    (^93=0)]
+<(28B=56)(489=637f1362)>[39:m(^9B=56)(^8F=56)(^91^489)(^90=0)(^92=1)
+    (^93=0)]
+<(28C=57)(491=638041d8)>[3A:m(^9B=57)(^8F=57)(^91^491)(^90=0)(^92=1)
+    (^93=0)]
+<(248=58)(4A2=6380502b)>[3B:m(^9B=58)(^8F=58)(^91^4A2)(^90=0)(^92=2)
+    (^93=0)]
+<(4AD=5a)(4AB=638075b8)>[3C:m(^9B=5a)(^8F=5a)(^91^4AB)(^90=0)(^92=1)
+    (^93=0)]
+<(29C=5b)(4CA=63807647)>[3D:m(^9B=5b)(^8F=5b)(^91^4CA)(^90=0)(^92=4)
+    (^93=0)]
+<(2BF=5f)(540=63844fcc)>[3E:m(^9B=5f)(^8F=5f)(^91^540)(^90=0)(^92=3)
+    (^93=0)]
+<(4E5=61)(2CA=60)(4EB=63808aaa)>
+[3F:m(^9B=61)(^8F=60)(^91^4EB)(^90=0)(^92=3)(^93=0)]
+
+<(8A5=40557a)(8AB=4216186)(22E=Samiun Sizan <samiunsizan@gmail.com>)
+  (8AC="Samiun Sizan (via Google Drive\)" <samiunsizan@gmail.com>)(A2
+    =samiun.rahman@bjitacademy.com)(8AD
+    =Item shared with you: "My News.zip")(8AE
+    =autogen-java-ce6727f5-c9e8-47bb-8168-dc6d5e14dfc1@google.com)(97
+    =account1)(8AF
+    =<5fa06658-c4a6-4b05-816f-fb401c8327b2@docs-share.google.com>)(8B0
+    =63cd76fc)(8B2=3340)(9C=ffffffff)(1AC=plugin)(87=)(8C5=10c)(8C8
+    =1|Samiun Sizan (via Google Drive\))>
+{B0:^80 {(k^97:c)(s=9)7A:m } [B0(^9C^8A5)(^BF^8AB)(^88=1)(^CE^22E)(^8A=0)
+    (^82^8AC)(^85^A2)(^81^8AD)(^83^8AE)(^C0^97)(^84^8AF)(^C1^8B0)(^86^8B1)
+    (^89=1)(^87^8B2)(^8B=61)(^9A^9C)(^8E=b0)(^C2=0)(^C8=0)(^D0^1AC)
+    (^D1=0)(^C6=)(^C7=10c)(^CC^8C8)(^C9=0)]}
+
+<(B4=10000001)(93="cPanel on bjitacademy.com" <cpanel@bjitacademy.com>)
+  (94=<samiun.rahman@bjitacademy.com>)(95
+    ==?UTF-8?B?W2JqaXRhY2FkZW15LmNvbV0gQ2xpZW50IGNvbmZpZ3VyYXRpb24g?= =?UTF-8?\
+B?c2V0dGluZ3MgZm9yIOKAnHNhbWl1bi5yYWhtYW5AYmppdGFjYWRlbXkuY29t?= =?UTF-8?B?4oC\
+dLg==?=)(96=1667185895.fUGj6BTRydHFxERb@cpanel.bjitgroup.com)(9A=1569a)
+  (9B=571)(AC
+    =Client Configuration settings for $E2$80$9Csamiun.rahman@bjitacademy.com$E2\
+$80$9D. Mail Client Manual Settings --------------------------- Secure SSL/TLS\
+ Settings (Recommended\) Username: samiun.rahman@bjitacademy.com Password: Use\
+ the email acco)(197=1|cPanel on bjitacademy.com)(9F=1569c)(A0=87708)
+  (A1=Samiun Sizan <samiunsizan0@gmail.com>)(A3=Test)(A4
+    =CAPpPgSc3JsYUnnRbURy0_BOkV_0+BeVv0R=vevd4G871E_uEFw@mail.gmail.com)
+  (A5=6360fbe0)(A7=144a)(196=1|Samiun Sizan)(AA=16ae8)(B7=92904)(B8
+    ="BJIT Limited" <catchall@bjitgroup.com>)(B9=nazmul.toha@bjitgroup.com)
+  (BA=Your asset request for "Mouse" has been approved by Nazmul Huda Toha)
+  (BB
+    =148259533541407.1667363526.574279069900513-openerp-private@erp-app-singap\
+ore)(BC=6361f2f5)(BE=12b3)(DC
+    =Dear Concern, Greetings. Your asset request for 'Mouse' on ERP has been a\
+pproved by Nazmul Huda Toha. Please click the below URL to check. Click Here [\
+1] Thanks [1] https://erp.bjitgroup.com/web#id=3729&view_type=form&model=asset\
+.request&menu_id=656&actio)(190=1|nazmul.toha@bjitgroup.com)(C2=17d9d)
+  (C3=97693)(C4
+    =Your asset request for "Mouse" has been allocated by Nazmul Huda Toha)
+  (C5
+    =945950801889948.1667363535.557201862335205-openerp-private@erp-app-singap\
+ore)(C6=6361f2fe)(C8=12b6)(DE=29)(CA=19055)(CB=102485)(CC
+    =Your asset request for "Headphone" has been approved by Nazmul Huda Toha)
+  (CD
+    =828389742975660.1667363548.339260339736938-openerp-private@erp-app-singap\
+ore)(CE=6361f30b)(D0=12c3)(DF=2a)(D2=1a31a)(D3=107290)(D4
+    =Your asset request for "Headphone" has been allocated by Nazmul Huda Toha)
+  (D5
+    =230959761613640.1667363559.762181282043457-openerp-private@erp-app-singap\
+ore)(D6=6361f316)(D8=12ce)(DA=1b5ea)(ED=112106)(EE
+    =Microsoft account team <account-security-noreply@accountprotection.micros\
+oft.com>)(EF=Verify your email address)(F0
+    =QXF5FA4JAIU4.R4S4JKN6B60M1@BY1PEPF00001EF3)(F1=6361f53e)(F3=2e86)
+  (195=1|Microsoft account team)(F7=1e472)(FD=124018)(FE
+    =Your asset request for "Laptop" has been approved by Nazmul Huda Toha)
+  (FF
+    =836609251352994.1667370426.933289527893066-openerp-private@erp-app-singap\
+ore)(100=63620de7)(103=12b5)(110
+    =Dear Concern, Greetings. Your asset request for 'Laptop' on ERP has been \
+approved by Nazmul Huda Toha. Please click the below URL to check. Click Here \
+[1] Thanks [1] https://erp.bjitgroup.com/web#id=3886&view_type=form&model=asse\
+t.request&menu_id=656&acti)(113=2d)(106=1f729)(107=128809)(108
+    =Your asset request for "Laptop" has been allocated by Nazmul Huda Toha)
+  (109
+    =016500646279644.1667370430.106562852859497-openerp-private@erp-app-singap\
+ore)(10A=63620dea)(10C=12c0)(114=2e)(10E=209eb)(11B=133611)(11C
+    =BJIT Redmine <redmine@bjitgroup.com>)(11D
+    =Your BJIT - Redmine account activation)(11E
+    =6368941bcf06c_70f3fc7baf7a2444054d@redmine.mail)(11F=6368a641)
+  (121=UTF-8)(122=1848)(191=1|BJIT Redmine)(125=22235)(12B=139829)(12C
+    =[BJIT - Redmine] Security notification)(12D
+    =6369c4c7209e5_52b13f8d09c2c7a452724@redmine.mail)(12E=6369c53f)
+  (130=17f4)(131=35)(136
+    =Your password has been changed. http://redmine.bjitgroup.com/redmine/my/p\
+assword User: samiun.rahman IP address: 202.53.168.66 Date: 08 Nov 2022 08:53 \
+AM -- You have received this auto-generated notification because you have been\
+ associated)(134=23a2b)(139=145963)(13A
+    =[ExpEng_Training_Activity - Story #420705] (Submitted\) fix the textfield\
+s)(13B
+    =redmine.journal-1174621.20221108061234.257625e01ec50565@bjitgroup.com)
+  (13C=<redmine.issue-420705.20221108060106@bjitgroup.com>)(13D=6369fbec)
+  (13F=190d)(164
+    =Issue #420705 has been updated by Nur Uddin. Status changed from In Progr\
+ess to Submitted Estimated time deleted (1.00 h\) ----------------------------\
+------------ Story #420705: fix the textfields http://redmine.bjitgroup.com/re\
+dmine/issues/42070)(142=2533a)(143=152378)(144
+    =[ExpEng_Training_Activity - Story #420705] (In Progress\) fix the textfie\
+lds)(145
+    =redmine.journal-1174605.20221108060918.d57feddb911415bf@bjitgroup.com)
+  (146=6369f28f)(147=1909)(167=34)(149=26c45)(14A=158789)(14B
+    =samiun.rahman@bjitacademy.com, mdnur.uddin@bjitacademy.com)(14C
+    =[ExpEng_Training_Activity - Story #420705] fix the textfields)
+  (14D
+    =redmine.journal-1174609.20221108061035.972a387b91224661@bjitgroup.com)
+  (14E=6369f2db)(14F=188b)(151=284d2)(152=165074)(153
+    =6369ecc05f06b_2a403fde9bf295907354c@redmine.mail)(154=6369ff6c)
+  (156=1269)(168=36)(158=2973d)(159=169789)(15A
+    =[ExpEng_Training_Activity - Story #420696] (Assigned\) fix scaling issue)
+  (15B=redmine.issue-420696.20221108055624.a81d64394cbb8d07@bjitgroup.com)
+  (15C=<redmine.issue-420696.20221108055624@bjitgroup.com>)(15D=636a01c5)
+  (15F=166c)(162=2adab)(170=175531)(171
+    ="Ihsan Md. Al-Aqib" <ihsan.alaqib@bjitacademy.com>)(172=tesiting)
+  (173=ac056dfc-81c8-b970-a371-b8948188bce5@bjitacademy.com)(174=636b5e41)
+  (176=5a6)(17B=testing on going)(192=1|Ihsan Md. Al-Aqib)(179=2b353)
+  (180=176979)(181=Saiful Islam <saiful.islam@bjitacademy.com>)(182
+    =Samiun Rahman Sizan <samiun.rahman@bjitacademy.com>)(183=Mail Test)
+  (184=19345f06-0929-6676-e130-05b62a2a04b2@bjitacademy.com)(185=636b5e79)
+  (187=5b3)(18B=Hello World!)(193=1|Saiful Islam)(18E=3d)(189=2b908)
+  (1A1=178440)(1A2=send test)(1A3
+    =b9c60807-3987-7949-ed59-0fbf4f9df09c@bjitacademy.com)(1A4
+    =<9bf1f80f-c4bf-465f-3e1c-94683c416490@bjitacademy.com>)(1A5=636c8562)
+  (1A7=685)(1AD
+    =test succesful On 11/10/2022 8:50 AM, Samiun Rahman Sizan wrote: >)
+  (1AE=41)(1AA=2bf8f)(1B2=180111)(1B3=Mail Text)(1B4
+    =7bb90e8d-0fb8-7aab-1afa-6f4c62ae3c88@bjitacademy.com)(1B5=636c8589)
+  (1B7=5b7)(1BC=Hi, I am Saiful)(1BA=2c548)(1C1=181576)(1C2
+    ="Jira" <noreply+6908450ebd83bf9558409733f868667d147ed12566f671f4be3e35fb@\
+am.atlassian.com>)(1C3=Verify your email for Jira)(1C4
+    =1d4531e0-1678-4c68-82ca-79a7c4bdb98c@am.atlassian.com)(1C5=636c89e6)
+  (1C7=41d9)(1C8=a1)(1CD=1|Jira)(1CF=43)(1CB=30723)(1D1=198435)(1D2
+    =dc114372-e9d9-40ff-992d-401d39e583cf@am.atlassian.com)(1D3=636c935f)
+  (1D5=4315)(1D9=44)(1D7=34a3a)(1DA=215610)(1DB
+    =nani.gopal@bjitgroup.com, samiun.rahman@bjitacademy.com)(1DC
+    =[YSD_Training_Android_Nov2022 - Task #421277] (New\) Kotlin Classes, obje\
+ct instances and Conditional behavior)(1DD
+    =redmine.issue-421277.20221110063023.cebca8677582c032@bjitgroup.com)
+  (1DE=<redmine.issue-421277.20221110063023@bjitgroup.com>)(1DF=636c9ad1)
+  (1E1=1813)(1E2=4a)(1E7
+    =Issue #421277 has been reported by Nani Gopal. --------------------------\
+-------------- Task #421277: Kotlin Classes, object instances and Conditional \
+behavior http://redmine.bjitgroup.com/redmine/issues/421277 * Author: Nani Gop\
+al * Status: New)(1E4=3624f)(1F3=221775)(1F4
+    =[YSD_Training_Android_Nov2022 - Task #421579] (New\) Create an interactiv\
+e Dice Roller app with Kotlin-Android)(1F5
+    =redmine.issue-421579.20221111045424.850218c69a2ee474@bjitgroup.com)
+  (1F6=<redmine.issue-421579.20221111045424@bjitgroup.com>)(1F7=636dd5d6)
+  (1F9=191b)(1FF
+    =Issue #421579 has been reported by Nani Gopal. --------------------------\
+-------------- Task #421579: Create an interactive Dice Roller app with Kotlin\
+-Android http://redmine.bjitgroup.com/redmine/issues/421579 * Author: Nani Gop\
+al * Status: New)(201=48)(1FD=37b6c)(202=228204)(203
+    =[YSD_Training_Android_Nov2022 - Task #421892] (New\) Unit Testing in Andr\
+oid-Kotlin)(204
+    =redmine.issue-421892.20221114063326.12f8aee65f5a577c@bjitgroup.com)
+  (205=<redmine.issue-421892.20221114063326@bjitgroup.com>)(206=6371e191)
+  (208=18a9)(209=4c)(20E
+    =Issue #421892 has been reported by Md Nakibul Hassan. -------------------\
+--------------------- Task #421892: Unit Testing in Android-Kotlin http://redm\
+ine.bjitgroup.com/redmine/issues/421892 * Author: Md Nakibul Hassan * Status: \
+New * Priority:)(20C=39417)(211=234519)(212=GitHub <noreply@github.com>)
+  (213=SamiunRahman <samiun.rahman@bjitacademy.com>)(214
+    ==?UTF-8?Q?=F0=9F=9A=80_Your_GitHub_launch_code?=)(215
+    =6371ff3f9c5f9_3909c6707778@github-highworker-1dda831.ash1-iad.github.net.\
+mail)(216=6371ff6a)(218=8afb)(219=100)(21E=1|GitHub)(220=4b)(21C=41f14)
+  (221=270100)(222=[GitHub] Welcome to GitHub, @SamiunRahman!)(223
+    =6371ff7f8e516_5744d55c3688a@github-highworker-792a6d3.ac4-iad.github.net.\
+mail)(224=6371ffaa)(226=ff61)(227=1f1)(22A=51e77)(22D=335479)(22F
+    =CAEVGNDChzzUKA4KqLUVFVvckK7tpahLduhKvMt7NJBdhZecPJw@mail.gmail.com)
+  (230=63720e90)(232=1412)(235=5328b)(236=340619)(237
+    =ujjal.kumer@bjitgroup.com, samiun.rahman@bjitacademy.com)(238
+    =[YSD_Common_Training_Nov 2022 - Task #422163] (Assigned\) [Samiun Rahman]\
+ Git & GitHub Training and Practice)(239
+    =redmine.issue-422163.20221114133942.fc95860a96351c99@bjitgroup.com)
+  (23A=<redmine.issue-422163.20221114133942@bjitgroup.com>)(23B=6372457b)
+  (23C=6372451e)(23D=1db0)(23E=5c)(240=5503d)(241=348221)(242
+    =[YSD_Training_Android_Nov2022 - Task #422240] (New\) Intro to debugging i\
+n Android-Kotlin)(243
+    =redmine.issue-422240.20221115084012.52e0fa4d12696b27@bjitgroup.com)
+  (244=<redmine.issue-422240.20221115084012@bjitgroup.com>)(245=637350cb)
+  (247=191c)(24A=5695b)(251=354651)(252
+    =[YSD_Training_Android_Nov2022 - Task #422534] (New\) Project: Lemonade ap\
+p)(253=redmine.issue-422534.20221116061741.877736099e949ac2@bjitgroup.com)
+  (254=<redmine.issue-422534.20221116061741@bjitgroup.com>)(255=637480e5)
+  (257=19cd)(258=59)(25D
+    =Issue #422534 has been reported by Md Nakibul Hassan. -------------------\
+--------------------- Task #422534: Project: Lemonade app http://redmine.bjitg\
+roup.com/redmine/issues/422534 * Author: Md Nakibul Hassan * Status: New * Pri\
+ority: Normal *)(25E=53)(25B=5832a)(262=361258)(263
+    =[YSD_Training_Android_Nov2022 - Task #422885] (New\) Classes and inherita\
+nce in Kotlin)(264
+    =redmine.issue-422885.20221117081630.b90fc31c3ad2eba4@bjitgroup.com)
+  (265=<redmine.issue-422885.20221117081630@bjitgroup.com>)(266=6375ee40)
+  (268=18ae)(288
+    =Issue #422885 has been reported by Md Nakibul Hassan. -------------------\
+--------------------- Task #422885: Classes and inheritance in Kotlin http://r\
+edmine.bjitgroup.com/redmine/issues/422885 * Author: Md Nakibul Hassan * Statu\
+s: New * Priorit)(26C=59bda)(26D=367578)(26E
+    ="Ujjal K. Saha" <noreply@github.com>)(26F
+    =uksaha77 invited you to uksaha77/ysd-training-b01)(270
+    =6375ef2f9d491_93c67068457@lowworker-569469fcd6-zwvpw.mail)(271
+    =6375ef5a)(273=64e3)(274=ef)(289=1|Ujjal K. Saha)(275=600bf)(276
+    =393407)(277=Saiful Islam <noreply@github.com>)(278
+    =Saifulislam-BJIT invited you to Saifulislam-BJIT/collaborator-in-project)
+  (279=6376ec67c1201_6dc670477fe@lowworker-74bd8746cb-n65g6.mail)(27A
+    =6376ec93)(27C=668f)(27D=f0)(27E=66750)(27F=419664)(280
+    =[YSD_Training_Android_Nov2022 - Task #423185] (New\) Create XML layouts f\
+or Android)(281
+    =redmine.issue-423185.20221118061004.5e3cb86a5154959f@bjitgroup.com)
+  (282=<redmine.issue-423185.20221118061004@bjitgroup.com>)(283=63772220)
+  (285=18ce)(286=68020)(28F=426016)(290
+    =[YSD_Training_Android_Nov2022 - Task #423503] (New\) Calculate the tip)
+  (291=redmine.issue-423503.20221121070623.52d1ba5a8963a3f9@bjitgroup.com)
+  (292=<redmine.issue-423503.20221121070623@bjitgroup.com>)(293=637b23da)
+  (295=1890)(29A
+    =Issue #423503 has been reported by Md Nakibul Hassan. -------------------\
+--------------------- Task #423503: Calculate the tip http://redmine.bjitgroup\
+.com/redmine/issues/423503 * Author: Md Nakibul Hassan * Status: New * Priorit\
+y: Normal * Ass)(298=698b2)(2A1=432306)(2A2
+    =[YSD_Training_Android_Nov2022 - Task #423872] (New\) Calculate the tip - \
+2)(2A3=redmine.issue-423872.20221122060315.98921870e872a88c@bjitgroup.com)
+  (2A4=<redmine.issue-423872.20221122060315@bjitgroup.com>)(2A5=637c6690)
+  (2A7=17fc)(2AC
+    =Issue #423872 has been reported by Md Nakibul Hassan. -------------------\
+--------------------- Task #423872: Calculate the tip - 2 http://redmine.bjitg\
+roup.com/redmine/issues/423872 * Author: Md Nakibul Hassan * Status: New * Pri\
+ority: Normal *)(2AD=5d)(2AA=6b0b0)(2AF=438448)(2B0
+    =uksaha77/ysd-training-b01 <reply+A4FRKZKCXINQCM67YT2TOK6BRHEOZEVBNHHFNNIC\
+KA@reply.github.com>)(2B1
+    =Mohammad Joynul Abedin <notifications@github.com>)(2B2
+    =uksaha77/ysd-training-b01 <ysd-training-b01@noreply.github.com>)
+  (2B3
+    =Samiun Rahman Sizan <samiun.rahman@bjitacademy.com>, Author <author@norep\
+ly.github.com>)(2B4
+    =[uksaha77/ysd-training-b01] Updated Ihasans file (PR #36\))(2B5
+    =uksaha77/ysd-training-b01/pull/36/review/1189681265@github.com)
+  (2B6=<uksaha77/ysd-training-b01/pull/36@github.com>)(2B7=637c9697)
+  (2B8=637c966c)(2B9=1bd4)(2BE=1|Mohammad Joynul Abedin)(2BC=6cc86)
+  (2C0=445574)(2C1
+    =uksaha77/ysd-training-b01 <reply+A4FRKZNGWEPOP3723MZU4PWBRHEVVEVBNHHFNNIC\
+KA@reply.github.com>)(2C2
+    =uksaha77/ysd-training-b01/pull/36/issue_event/7865829679@github.com)
+  (2C3=637c9704)(2C5=1e16)(2C7=6ea9e)(2CC=453278)(2CD
+    =uksaha77/ysd-training-b01 <reply+A4FRKZKM6R4KTPQMNDFLAZ6BRHH6FEVBNHHFN7R7\
+XM@reply.github.com>)(2CE=ihsan-bjit <notifications@github.com>)(2CF
+    =Samiun Rahman Sizan <samiun.rahman@bjitacademy.com>, Review requested <re\
+view_requested@noreply.github.com>)(2D0
+    =[uksaha77/ysd-training-b01] Ihsan bjit added new-File.txt with some text \
+(PR #48\))(2D1
+    =uksaha77/ysd-training-b01/pull/48/issue_event/7866093525@github.com)
+  (2D2=<uksaha77/ysd-training-b01/pull/48@github.com>)(2D3=637c9d8c)
+  (2D4=637c9d62)(2D5=1eca)(2D8=62)(3AB=1|ihsan-bjit)(2D6=7096a)(2DA=461162)
+  (2DB
+    =uksaha77/ysd-training-b01 <reply+A4FRKZP2XLK65IEWCHF445OBRKYJ3EVBNHHFN7R7\
+XM@reply.github.com>)(2DC
+    =uksaha77/ysd-training-b01/pull/48/review/1190964681@github.com)
+  (2DD=637d7e49)(2DE=637d7e1d)(2DF=1c20)(2E1=7258c)(2E2=468364)(2E3
+    =uksaha77/ysd-training-b01 <reply+A4FRKZM5BCEM4FHJZMVTEPWBRKYKFEVBNHHFN7R7\
+XM@reply.github.com>)(2E4
+    =uksaha77/ysd-training-b01/pull/48/issue_event/7872932244@github.com)
+  (2E5=637d7e4e)(2E7=1cfc)(2E8=7428a)(2E9=475786)(2EA
+    =Saifulislam-BJIT/collaborator-in-project <reply+A4FRKZNHY57HKIA6R37XJ3WBR\
+K2XVEVBNHHFNL5MR4@reply.github.com>)(2EB
+    =Saifulislam-BJIT/collaborator-in-project <collaborator-in-project@noreply\
+.github.com>)(2EC
+    =[Saifulislam-BJIT/collaborator-in-project] Txt file with my info created \
+(PR #2\))(2ED
+    =Saifulislam-BJIT/collaborator-in-project/pull/2/review/1190973431@github.\
+com)(2EE=<Saifulislam-BJIT/collaborator-in-project/pull/2@github.com>)
+  (2EF=637d8325)(2F1=1deb)(44A=66)(2F2=76077)(2F3=483447)(2F4
+    =Saifulislam-BJIT/collaborator-in-project <reply+A4FRKZNYWYHY7NL43VQFIAWBR\
+K3AFEVBNHHFOEVAFE@reply.github.com>)(2F5
+    =[Saifulislam-BJIT/collaborator-in-project] new text addded (PR #3\))
+  (2F6=Saifulislam-BJIT/collaborator-in-project/pull/3@github.com)(2F7
+    =637d83ac)(2F8=637d8382)(2F9=226c)(2FA=54)(44B=67)(2FB=782e5)(2FC
+    =492261)(2FD
+    =Saifulislam-BJIT/collaborator-in-project <reply+A4FRKZLELSL6EQ5YR2EODK6BR\
+K3AXEVBNHHFOEVAFE@reply.github.com>)(2FE
+    =Saifulislam-BJIT/collaborator-in-project/pull/3/issue_event/7873020350@gi\
+thub.com)(2FF=<Saifulislam-BJIT/collaborator-in-project/pull/3@github.com>)
+  (300=637d83b6)(301=637d838b)(302=2169)(303=7a450)(304=500816)(305
+    =Saifulislam-BJIT/collaborator-in-project <reply+A4FRKZJUS25SGT76OZXWU46BR\
+K3J7EVBNHHFOEVAFE@reply.github.com>)(306
+    =Saifulislam-BJIT/collaborator-in-project/pull/3/issue_event/7873030294@gi\
+thub.com)(307=637d844a)(309=1fac)(30A=40)(30B=7c3fe)(30C=508926)(30D
+    =Mohammad Joynul Abedin <noreply@github.com>)(30E
+    =abedinjoynul07 invited you to abedinjoynul07/Android_Group03)(30F
+    =637dab587db4b_7cc67088128@lowworker-55c65c87c-85mmx.mail)(310
+    =637dab83)(312=677e)(313=82b7e)(314=535422)(315
+    =abedinjoynul07 invited you to abedinjoynul07/practice-Group03)
+  (316=637daeeab928a_73c6707141@lowworker-55c65c87c-fps9f.mail)(317
+    =637daf15)(319=64f9)(31A=89079)(31B=561273)(31C
+    =Nur Uddin <noreply@github.com>)(31D
+    =nuruddin-bjitacademy invited you to nuruddin-bjitacademy/practice)
+  (31E=637db1245844e_81c67014098c@lowworker-55c65c87c-q8j7p.mail)(31F
+    =637db14f)(321=6772)(322=f1)(3AC=1|Nur Uddin)(450=6c)(323=8f7ed)
+  (324=587757)(325
+    =nuruddin-bjitacademy/practice <reply+A4FRKZKFS63FV5YXXVYRJU6BRLSIDEVBNHHF\
+OFPTOI@reply.github.com>)(326=Nur Uddin <notifications@github.com>)
+  (327=nuruddin-bjitacademy/practice <practice@noreply.github.com>)
+  (328
+    =[nuruddin-bjitacademy/practice] asraful.txt added by asraful (PR #2\))
+  (329
+    =nuruddin-bjitacademy/practice/pull/2/issue_event/7873762664@github.com)
+  (32A=<nuruddin-bjitacademy/practice/pull/2@github.com>)(32B=637db22b)
+  (32D=204a)(32F=91839)(330=596025)(331
+    =nuruddin-bjitacademy/practice <reply+A4FRKZJD3XEW573AYJFQLP6BRLTD3EVBNHHF\
+OFQ3C4@reply.github.com>)(332=Kamrul Hasan <notifications@github.com>)
+  (333=[nuruddin-bjitacademy/practice] commit from kamrul (PR #3\))
+  (334=nuruddin-bjitacademy/practice/pull/3@github.com)(335=637db3e8)
+  (336=637db3bd)(337=21a4)(3AA=1|Kamrul Hasan)(452=6f)(338=939df)(339
+    =604639)(33A
+    =nuruddin-bjitacademy/practice/pull/3/issue_event/7873791153@github.com)
+  (33B=<nuruddin-bjitacademy/practice/pull/3@github.com>)(33C=1ff0)
+  (453=70)(33E=959d1)(33F=612817)(340
+    =nuruddin-bjitacademy/practice <reply+A4FRKZJET4JM64E2J3WJ5TWBRLTJPEVBNHHF\
+OFQ3C4@reply.github.com>)(341
+    =nuruddin-bjitacademy/practice/pull/3/c1324580552@github.com)(342
+    =637db442)(343=637db417)(344=1d3d)(454=71)(345=97710)(346=620304)
+  (347=nuruddin-bjitacademy/practice <noreply@github.com>)(348
+    =abdullah-bjit <notifications@github.com>)(349
+    =Samiun Rahman Sizan <samiun.rahman@bjitacademy.com>, Push <push@noreply.g\
+ithub.com>)(34A
+    =nuruddin-bjitacademy/practice/pull/3/push/11757895103@github.com)
+  (34B=637db4f6)(34C=637db4ca)(34D=1e2d)(34E=9953f)(34F=628031)(350
+    =abedinjoynul07/practice-Group03 <reply+A4FRKZNPCVNELMCWR2BZ2O6BRLUYHEVBNH\
+HFOFSZ2Q@reply.github.com>)(351
+    =abedinjoynul07/practice-Group03 <practice-Group03@noreply.github.com>)
+  (352
+    =[abedinjoynul07/practice-Group03] Sizan txt added from Sizan Branch (PR #\
+6\))(353
+    =abedinjoynul07/practice-Group03/pull/6/review/1191074570@github.com)
+  (354=<abedinjoynul07/practice-Group03/pull/6@github.com>)(355=637db72e)
+  (357=1d7a)(359=9b2bb)(35A=635579)(35B
+    =abedinjoynul07/practice-Group03 <reply+A4FRKZMVLVKX6LMW4QH3VQOBRLYGREVBNH\
+HFOFXOSY@reply.github.com>)(35C
+    =[abedinjoynul07/practice-Group03] BJIT Info added (PR #8\))(35D
+    =abedinjoynul07/practice-Group03/pull/8/review/1191109230@github.com)
+  (35E=<abedinjoynul07/practice-Group03/pull/8@github.com>)(35F=637dbe13)
+  (360=637dbde8)(361=1d43)(362=9d000)(363=643072)(364
+    =abedinjoynul07/practice-Group03 <reply+A4FRKZMPZRLEXS67KJSUVJWBRLYGZEVBNH\
+HFOFXOSY@reply.github.com>)(365
+    =abedinjoynul07/practice-Group03/pull/8/issue_event/7874065863@github.com)
+  (366=637dbe17)(368=1e67)(36A=9ee69)(36B=650857)(36C
+    =abedinjoynul07/practice-Group03 <reply+A4FRKZMWGHLFIRO4XPPBTJOBRLYXVEVBNH\
+HFOFYJMY@reply.github.com>)(36D
+    =[abedinjoynul07/practice-Group03] Updating Sizan.txt from ihsan Branch (P\
+R #9\))(36E=abedinjoynul07/practice-Group03/pull/9@github.com)(36F
+    =637dbf25)(370=637dbefa)(371=21ae)(459=78)(373=a1019)(374=659481)
+  (375
+    =abedinjoynul07/practice-Group03 <reply+A4FRKZOMBKWXW7CBWKUOTJWBRLYXXEVBNH\
+HFOFYJMY@reply.github.com>)(376
+    =abedinjoynul07/practice-Group03/pull/9/issue_event/7874086003@github.com)
+  (377=<abedinjoynul07/practice-Group03/pull/9@github.com>)(378=637dbf26)
+  (37A=205a)(37C=a3075)(37D=667765)(37E
+    =[YSD_Training_Android_Nov2022 - Task #424178] (New\) Change the app theme)
+  (37F=redmine.issue-424178.20221123063914.2d631603570236a1@bjitgroup.com)
+  (380=<redmine.issue-424178.20221123063914@bjitgroup.com>)(381=637dc082)
+  (382=637dc012)(383=17e1)(384=a4858)(385=673880)(386
+    =[YSD_Training_Android_Nov2022 - Task #424178] Change the app theme)
+  (387
+    =redmine.journal-1182727.20221123063923.ef60e8f66f4d69c7@bjitgroup.com)
+  (388=637dc08a)(38A=19e0)(38B=a623a)(38C=680506)(38D
+    =abedinjoynul07/practice-Group03 <reply+A4FRKZKIB6VYNVBUEOE32JGBRL2ANEVBNH\
+HFOFZWHM@reply.github.com>)(38E
+    =[abedinjoynul07/practice-Group03] New Line by Sizan (PR #12\))
+  (38F
+    =abedinjoynul07/practice-Group03/pull/12/review/1191119231@github.com)
+  (390=<abedinjoynul07/practice-Group03/pull/12@github.com>)(391=637dc1b1)
+  (392=637dc187)(393=1d8b)(395=a7fc7)(396=688071)(397
+    =abedinjoynul07/practice-Group03 <noreply@github.com>)(398
+    =abedinjoynul07/practice-Group03/pull/12/push/11758309475@github.com)
+  (399=637dc1cc)(39A=637dc1a2)(39B=1fe5)(39D=a9fae)(39E=696238)(39F
+    =abedinjoynul07/practice-Group03 <reply+A4FRKZLUJWOCWHYMXG5MT5WBRL2FPEVBNH\
+HFOFZWHM@reply.github.com>)(3A0
+    =abedinjoynul07/practice-Group03/pull/12/issue_event/7874142991@github.com)
+  (3A1=637dc202)(3A3=1e86)(3A4=abe36)(3A5=704054)(3A6
+    =nuruddin-bjitacademy/practice/pull/3/push/11758937874@github.com)
+  (3A7=637dd32b)(3A9=1e40)(3AD=adc78)(3AE=711800)(3AF
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZM6YVSV7JLELY5GCAWBRMGADEVBNHH\
+FOGJTYA@reply.github.com>)(3B0
+    =abedinjoynul07/Android_Group03 <Android_Group03@noreply.github.com>)
+  (3B1
+    =[abedinjoynul07/Android_Group03] Added JoynylAbedin.txtt file to JoynulAb\
+edin Branch. (PR #1\))(3B2
+    =abedinjoynul07/Android_Group03/pull/1/issue_event/7874738309@github.com)
+  (3B3=<abedinjoynul07/Android_Group03/pull/1@github.com>)(3B4=637dd9ac)
+  (3B5=637dd981)(3B6=20c2)(3B7=afd3c)(3B8=720188)(3B9
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZKPJIFUYP4SB6QRNDOBRMGFREVBNHH\
+FOGJTYA@reply.github.com>)(3BA=Raian Ibn Faiz <notifications@github.com>)
+  (3BB=abedinjoynul07/Android_Group03/pull/1/review/1191215022@github.com)
+  (3BC=637dda04)(3BD=637dd9d8)(3BE=1c7e)(3D0=1|Raian Ibn Faiz)(3BF=b19bc)
+  (3C0=727484)(3C1
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZITGAHFIPUYHB7MOVWBRMGGBEVBNHH\
+FOGJTYA@reply.github.com>)(3C2
+    =abedinjoynul07/Android_Group03/pull/1/issue_event/7874748619@github.com)
+  (3C3=637dda0b)(3C5=1ea1)(3C6=b385f)(3C7=735327)(3C8
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZI36RQNAADU43EQMZGBRMHBREVBNHH\
+FOGKV54@reply.github.com>)(3C9
+    =[abedinjoynul07/Android_Group03] commiting (PR #3\))(3CA
+    =abedinjoynul07/Android_Group03/pull/3/issue_event/7874797194@github.com)
+  (3CB=<abedinjoynul07/Android_Group03/pull/3@github.com>)(3CC=637ddbc3)
+  (3CD=637ddb98)(3CE=2019)(3D1=b587a)(3D2=743546)(3D3
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZNYXXOYYJ55MY3KCXOBRMHB5EVBNHH\
+FOGKWAA@reply.github.com>)(3D4
+    =[abedinjoynul07/Android_Group03] Samiun rahman sizan (PR #4\))
+  (3D5=abedinjoynul07/Android_Group03/pull/4/review/1191224147@github.com)
+  (3D6=<abedinjoynul07/Android_Group03/pull/4@github.com>)(3D7=637ddbc8)
+  (3D8=637ddb9e)(3D9=1dd7)(3DA=b7653)(3DB=751187)(3DC
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZM5X7FLBPYOSFTJSGOBRMHFLEVBNHH\
+FOGKV54@reply.github.com>)(3DD
+    =abedinjoynul07/Android_Group03/pull/3/review/1191225254@github.com)
+  (3DE=637ddbff)(3DF=637ddbd5)(3E0=1dd5)(3E2=b942a)(3E3=758826)(3E4
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZIAZJQ5YQ5HWJFPV7WBRMHFZEVBNHH\
+FOGKV54@reply.github.com>)(3E5
+    =abedinjoynul07/Android_Group03/pull/3/issue_event/7874804876@github.com)
+  (3E6=637ddc07)(3E8=1e79)(3E9=bb2a5)(3EA=766629)(3EB
+    =abedinjoynul07/Android_Group03 <noreply@github.com>)(3EC
+    =abedinjoynul07/Android_Group03/pull/4/push/11759321704@github.com)
+  (3ED=637ddc7a)(3EE=637ddc4f)(3EF=1e7e)(3F1=bd125)(3F2=774437)(3F3
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZOXTZ53IUTZTW3OLGOBRMHPNEVBNHH\
+FOGKWAA@reply.github.com>)(3F4
+    =abedinjoynul07/Android_Group03/pull/4/review/1191228638@github.com)
+  (3F5=637ddca0)(3F6=637ddc76)(3F7=1d5f)(3F8=bee86)(3F9=781958)(3FA
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZOT57H2K65N5FTAABWBRMHSFEVBNHH\
+FOGKWAA@reply.github.com>)(3FB
+    =abedinjoynul07/Android_Group03/pull/4/issue_event/7874827849@github.com)
+  (3FC=637ddccd)(3FD=637ddca2)(3FE=1ce7)(3FF=c0b6f)(400=789359)(401
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZORHNBUZBDVMEHDDF6BRMHUREVBNHH\
+FOGKWAA@reply.github.com>)(402
+    =abedinjoynul07/Android_Group03/pull/4/review/1191230566@github.com)
+  (403=637ddcf2)(405=1d82)(406=c28f3)(407=796915)(408
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZITP6HI6XGD5XTNOP6BRMKAZEVBNHH\
+FOGPUDU@reply.github.com>)(409
+    =[abedinjoynul07/Android_Group03] Samiun Rahman Sizan Info added (PR #7\))
+  (40A=abedinjoynul07/Android_Group03/pull/7/review/1191258945@github.com)
+  (40B=<abedinjoynul07/Android_Group03/pull/7@github.com>)(40C=637de1b6)
+  (40D=637de18c)(40E=1d85)(40F=c467a)(410=804474)(411
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZKAG2X3KYDDFMVVDV6BRMKBDEVBNHH\
+FOGPUDU@reply.github.com>)(412
+    =abedinjoynul07/Android_Group03/pull/7/issue_event/7874997944@github.com)
+  (413=637de1bc)(416=c64e3)(417=812259)(418
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZPJOX3GIX5ELUVXT5OBRMORPEVBNHH\
+FOGWB7M@reply.github.com>)(419
+    =[abedinjoynul07/Android_Group03] Samiun.rahman (PR #11\))(41A
+    =abedinjoynul07/Android_Group03/pull/11/review/1191317509@github.com)
+  (41B=<abedinjoynul07/Android_Group03/pull/11@github.com>)(41C=637deac2)
+  (41D=637dea97)(41E=1d53)(41F=c8238)(420=819768)(421
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZIEN7XQEPRKO3525JGBRMOSDEVBNHH\
+FOGWB7M@reply.github.com>)(422
+    =abedinjoynul07/Android_Group03/pull/11/issue_event/7875344153@github.com)
+  (423=637deacb)(425=1e6a)(427=ca0a4)(428=827556)(429
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZKAAESDCUYTUEU4E6WBRMPIDEVBNHH\
+FOGZ2KE@reply.github.com>)(42A
+    =[abedinjoynul07/Android_Group03] New Line added from Sizan1 (PR #14\))
+  (42B=abedinjoynul07/Android_Group03/pull/14/review/1191326532@github.com)
+  (42C=<abedinjoynul07/Android_Group03/pull/14@github.com>)(42D=637dec2c)
+  (42E=637dec01)(42F=cbdf9)(430=835065)(431
+    =abedinjoynul07/Android_Group03 <reply+A4FRKZKHTLI2MAEQLV5KAQOBRMPIREVBNHH\
+FOGZ2KE@reply.github.com>)(432
+    =abedinjoynul07/Android_Group03/pull/14/issue_event/7875392555@github.com)
+  (433=637dec33)(435=1e7d)(45E=7f)(437=cdc78)(438=842872)(439
+    =[YSD_Common_Training_Nov 2022 - Task #422163] (Feedback\) [Samiun Rahman]\
+ Git & GitHub Training and Practice)(43A
+    =redmine.journal-1182900.20221123100520.2a2029cbff31a9f2@bjitgroup.com)
+  (43B=637df0d0)(43C=637df061)(43D=3635)(43F=d12af)(440=856751)(441
+    =redmine.journal-1182901.20221123100532.677c2a4458dae371@bjitgroup.com)
+  (442=637df0db)(444=348c)(446=d473d)(474=870205)(475
+    =Zoom <no-reply@zoom.us>)(476=Your code is: 890571)(477
+    =z3AE-3flSB-ik2HNjxXu1A@geopod-ismtpd-4-5)(478=637ed253)(47A
+    =iso-8859-1)(47B=797c)(47C=24d)(480=1|Zoom)(47E=dc0bb)(484=901307)
+  (485
+    =[YSD_Training_Android_Nov2022 - Task #424441] (New\) Change the app icon)
+  (486=redmine.issue-424441.20221124064658.0d00dce4189e7066@bjitgroup.com)
+  (487=<redmine.issue-424441.20221124064658@bjitgroup.com>)(488=637f13d4)
+  (48A=18af)(585
+    =Issue #424441 has been reported by Md Nakibul Hassan. -------------------\
+--------------------- Task #424441: Change the app icon http://redmine.bjitgro\
+up.com/redmine/issues/424441 * Author: Md Nakibul Hassan * Status: New * Prior\
+ity: Normal * A)(48C=dd96c)(48D=907628)(48E
+    =abedinjoynul07 invited you to abedinjoynul07/TeamAppBuilding)(48F
+    =638041d86b855_80c670792b6@lowworker-646fc6dd68-cqctx.mail)(490
+    =63804203)(492=672f)(493=e409d)(494=934045)(495
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZIWN5W4OD6RHHXK7XGBRWBKJEVBNHH\
+FOQ4RCY@reply.github.com>)(496
+    =abedinjoynul07/TeamAppBuilding <TeamAppBuilding@noreply.github.com>)
+  (497
+    =[abedinjoynul07/TeamAppBuilding] Icon of the application updated (PR #1\))
+  (498=abedinjoynul07/TeamAppBuilding/pull/1/review/1193835415@github.com)
+  (499=<abedinjoynul07/TeamAppBuilding/pull/1@github.com>)(49A=6380504f)
+  (49B=63805024)(49C=1d9c)(49D=e5e3b)(49E=941627)(49F
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZOCH7F3WXTUUTOHFPGBRWBKXEVBNHH\
+FOQ4RCY@reply.github.com>)(4A0
+    =abedinjoynul07/TeamAppBuilding/pull/1/issue_event/7890024053@github.com)
+  (4A1=63805056)(4A3=1e5b)(4A4=e7c98)(4A5=949400)(4A6
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZL4ENSR3F4MH3MIFVWBRWUDREVBNHH\
+FOQ6GFU@reply.github.com>)(4A7
+    =[abedinjoynul07/TeamAppBuilding] commiting from raian (PR #2\))
+  (4A8
+    =abedinjoynul07/TeamAppBuilding/pull/2/issue_event/7890711692@github.com)
+  (4A9=<abedinjoynul07/TeamAppBuilding/pull/2@github.com>)(4AA=638075e3)
+  (4AC=202d)(589=a3)(4AE=e9cc7)(4AF=957639)(4B0
+    =abedinjoynul07/TeamAppBuilding <noreply@github.com>)(4B1
+    =[abedinjoynul07/TeamAppBuilding] Clickable payment method added (PR #4\))
+  (4B2=abedinjoynul07/TeamAppBuilding/pull/4/push/11783053968@github.com)
+  (4B3=<abedinjoynul07/TeamAppBuilding/pull/4@github.com>)(4B4=6380762b)
+  (4B5=63807600)(4B6=1fdd)(58A=a5)(4B7=ebca6)(4B8=965798)(4B9
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZM3KW6NAKJOMN7ASLWBRWUJ7EVBNHH\
+FORLGJU@reply.github.com>)(4BA
+    =abedinjoynul07/TeamAppBuilding/pull/4/review/1193952405@github.com)
+  (4BB=6380764a)(4BC=6380761f)(4BD=1d60)(4BE=eda08)(4BF=973320)(4C0
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZNVEXH4UHD55UCITP6BRWULREVBNHH\
+FORLGJU@reply.github.com>)(4C1
+    =abedinjoynul07/TeamAppBuilding/pull/4/review/1193952816@github.com)
+  (4C2=63807663)(4C3=63807638)(4C4=1c3f)(4C5=ef649)(4C6=980553)(4C7
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZO6RPHFJ4YPHFOE646BRWUMPEVBNHH\
+FORLGJU@reply.github.com>)(4C8
+    =abedinjoynul07/TeamAppBuilding/pull/4/issue_event/7890724092@github.com)
+  (4C9=63807672)(4CB=1e54)(58D=a8)(4CD=f149f)(4CE=988319)(4CF
+    =[YSD_Training_Android_Nov2022 - Task #424786] (New\) Build an Android App\
+ - Team work -1)(4D0
+    =redmine.issue-424786.20221125091601.2000f8ea5908561d@bjitgroup.com)
+  (4D1=<redmine.issue-424786.20221125091601@bjitgroup.com>)(4D2=63808845)
+  (4D3=638087d1)(4D4=1b1c)(4D5=f2fbd)(4D6=995261)(4D7
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZN26JBBHE22WPZHTM6BRW5UFEVBNHH\
+FORVKI4@reply.github.com>)(4D8
+    =[abedinjoynul07/TeamAppBuilding] Shokal (PR #7\))(4D9
+    =abedinjoynul07/TeamAppBuilding/pull/7/issue_event/7891223405@github.com)
+  (4DA=<abedinjoynul07/TeamAppBuilding/pull/7@github.com>)(4DB=638088ed)
+  (4DC=638088c2)(4DD=1ea3)(4DF=f4e62)(4E0=1003106)(4E1
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZMTGUQH6E3IJ2SXDCOBRW5UDEVBNHH\
+FORVKI4@reply.github.com>)(4E2
+    =abedinjoynul07/TeamAppBuilding/pull/7@github.com)(4E3=638088ee)
+  (4E4=2a51)(4E6=f78b5)(4E7=1013941)(4E8
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZN2ZIONXIUNPWMZEFWBRW6SVEVBNHH\
+FORVKI4@reply.github.com>)(4E9
+    =abedinjoynul07/TeamAppBuilding/pull/7/issue_event/7891279787@github.com)
+  (4EA=63808ad5)(4EC=1d18)(4EE=f95cf)(4EF=1021391)(4F0
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZOBXR7BAUONFZGZSJGBRXHB3EVBNHH\
+FOSCDBQ@reply.github.com>)(4F1
+    =[abedinjoynul07/TeamAppBuilding] Shokal (PR #8\))(4F2
+    =abedinjoynul07/TeamAppBuilding/pull/8/issue_event/7891908206@github.com)
+  (4F3=<abedinjoynul07/TeamAppBuilding/pull/8@github.com>)(4F4=63809bc8)
+  (4F5=63809b9d)(4F6=1eaa)(4F7=fb47b)(4F8=1029243)(4F9
+    =abedinjoynul07/TeamAppBuilding/pull/8@github.com)(4FA=2f84)(592=ae)
+  (4FC=fe401)(4FD=1041409)(4FE
+    =abedinjoynul07/TeamAppBuilding/pull/8/push/11784772399@github.com)
+  (4FF=63809fe3)(500=63809fb9)(501=1e62)(503=100265)(504=1049189)(505
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZL5NJ4YRPDLJ4WDV4OBRXJGPEVBNHH\
+FOSCDBQ@reply.github.com>)(506
+    =abedinjoynul07/TeamAppBuilding/pull/8/review/1194222763@github.com)
+  (507=6380a012)(508=63809fe7)(509=1c2c)(50B=101e93)(50C=1056403)(50D
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZNSFTP5OUZGESLJ3U6BRXJG3EVBNHH\
+FOSCDBQ@reply.github.com>)(50E
+    =abedinjoynul07/TeamAppBuilding/pull/8/issue_event/7892091159@github.com)
+  (50F=6380a018)(511=1e74)(512=103d09)(513=1064201)(514
+    ="Zoom Video Communications, Inc" <reply-ff3410717065-13_HTML-351968272-51\
+4008514-6808@e.zoom.us>)(515
+    ="Zoom Video Communications" <teamzoom@e.zoom.us>)(516
+    =Samiun Rahman, welcome to Zoom Meetings!)(517
+    =87232a64-776e-41d4-9d4b-13ba26e8f6a1@atl1s11mta647.xt.local)(518
+    =63817551)(51A=b333)(51B=2bb)(5A4=1|Zoom Video Communications)(51C
+    =10f03e)(51D=1110078)(51E
+    ="Zoom Video Communications, Inc" <reply-ff3310717066-13_HTML-351968272-51\
+4008514-6898@e.zoom.us>)(51F=You're Invited: Join a Live Demo)(520
+    =6c9c8db6-9b3f-485c-9eed-30bec26f8597@atl1s11mta665.xt.local)(521
+    =6382c6d4)(523=bbcf)(524=2b4)(525=11ac0f)(526=1158159)(527
+    =[GitHub] Please verify your device)(528
+    =6382e1c6c528_73c670349b4@lowworker-555d45678-hxnzr.mail)(529=6382e1f2)
+  (52B=10bf)(52C=11bcd0)(52D=1162448)(52E
+    ="Zoom Video Communications, Inc" <reply-ff3210717067-13_HTML-351968272-51\
+4008514-7019@e.zoom.us>)(52F=How to Join, Schedule or Host a Meeting)
+  (530=e2a599e0-6f0c-4047-9870-b10777652534@atl1s11mta668.xt.local)
+  (531=63841853)(533=9fe5)(534=29a)(535=125cb7)(536=1203383)(537
+    =[YSD_Training_Android_Nov2022 - Task #424786] Build an Android App - Team\
+ work -1)(538
+    =redmine.journal-1185033.20221128060238.4c133455ae2ef22d@bjitgroup.com)
+  (539=63844f79)(53A=63844efe)(53B=1e94)(53C=127b4d)(53D=1211213)(53E
+    =redmine.journal-1185053.20221128060604.8493cbcd97dcd483@bjitgroup.com)
+  (53F=63845046)(541=1e8a)(543=1299d9)(544=1219033)(545
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZNVUU6P2TZLCM4SIEWBSGWTHEVBNHH\
+FOYSLSA@reply.github.com>)(546
+    =[abedinjoynul07/TeamAppBuilding] new methode on mobile banking only desig\
+n upgraded (PR #19\))(547
+    =abedinjoynul07/TeamAppBuilding/pull/19@github.com)(548=63847ade)
+  (549=63847ab3)(54A=24e5)(54C=12bec0)(54D=1228480)(54E
+    =abedinjoynul07/TeamAppBuilding/pull/19/issue_event/7900782572@github.com)
+  (54F=<abedinjoynul07/TeamAppBuilding/pull/19@github.com>)(550=63847adf)
+  (551=1f49)(552=12de0b)(553=1236491)(554
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZK4YPXJYPEHNAZEFBGBSGXC3EVBNHH\
+FOYSLSA@reply.github.com>)(555
+    =abedinjoynul07/TeamAppBuilding/pull/19/review/1195439880@github.com)
+  (556=63847bd8)(557=63847bad)(558=1d8c)(55A=12fb99)(55B=1244057)(55C
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZKDLFOZ3RKLMLPIDPOBSGXDFEVBNHH\
+FOYSLSA@reply.github.com>)(55D
+    =abedinjoynul07/TeamAppBuilding/pull/19/issue_event/7900820823@github.com)
+  (55E=63847bdd)(560=131a2f)(561=1251887)(562
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZN4OZ4OAGT42BKVV4OBSGXEBEVBNHH\
+FOYS4PQ@reply.github.com>)(563
+    =[abedinjoynul07/TeamAppBuilding] Class log (PR #20\))(564
+    =abedinjoynul07/TeamAppBuilding/pull/20/review/1195440332@github.com)
+  (565=<abedinjoynul07/TeamAppBuilding/pull/20@github.com>)(566=63847beb)
+  (567=63847bc0)(568=1d54)(569=133785)(56A=1259397)(56B
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZPQQHFARM3JV6Y5VGWBSGXELEVBNHH\
+FOYS4PQ@reply.github.com>)(56C
+    =abedinjoynul07/TeamAppBuilding/pull/20/issue_event/7900823397@github.com)
+  (56D=63847bf0)(56F=1e50)(571=1355d7)(572=1267159)(573
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZOFTCUWJU4VFL2FEAOBSHBZDEVBNHH\
+FOZC5NY@reply.github.com>)(574
+    =[abedinjoynul07/TeamAppBuilding] Class log (PR #22\))(575
+    =abedinjoynul07/TeamAppBuilding/pull/22/review/1195582286@github.com)
+  (576=<abedinjoynul07/TeamAppBuilding/pull/22@github.com>)(577=6384913c)
+  (578=63849111)(579=1d55)(57A=13732e)(57B=1274670)(57C
+    =abedinjoynul07/TeamAppBuilding <reply+A4FRKZNOA6PLAADTY44MCGGBSHBZNEVBNHH\
+FOZC5NY@reply.github.com>)(57D
+    =abedinjoynul07/TeamAppBuilding/pull/22/issue_event/7901612728@github.com)
+  (57E=63849141)(580=1e6b)(599=b6)(583=13919b)(5F9=1282459)(5FA
+    =CAEVGNDBF_nRN9tqY+uptvTkeXzNB2Z88oaCBx_U4MVVwjWpKsg@mail.gmail.com)
+  (5FB=6385d961)(5FD=14ce)(601=c3)(5FF=13a66b)(608=1287787)(609
+    =CAEVGNDAnTtWQcABBGZyqnETJVEcXLH9A0M5_=Ax0wYgL9BH-Ww@mail.gmail.com)
+  (60A=<9D702B81-C144-9045-980D-376937ADD85E@hxcore.ol>)(60B=6385d9bf)
+  (60C=6385d989)(60D=1914)(618=c5)(60F=13bf81)(610=1294209)(611
+    =CAEVGNDBZ8BZ86pt+R_u1Gc05qgWvK3E0abMUb75eJPh0tUXKmg@mail.gmail.com)
+  (612
+    =<9D702B81-C144-9045-980D-376937ADD85E@hxcore.ol> <CAEVGNDAnTtWQcABBGZyqnE\
+TJVEcXLH9A0M5_=Ax0wYgL9BH-Ww@mail.gmail.com>)(613=6385d9d2)(615=1bc8)
+  (619=c6)(616=13db4b)(61B=1301323)(61C
+    ="Zoom Video Communications, Inc" <reply-ff3110717060-13_HTML-351968272-51\
+4008514-7308@e.zoom.us>)(61D=Scheduling Made Simple)(61E
+    =6e7c2ddf-1d31-493f-80ce-0f542475b334@atl1s11mta652.xt.local)(61F
+    =6386bb58)(621=9b8e)(622=24b)(630=c7)(624=1476db)(625=1341147)(626
+    =[YSD_Training_Android_Nov2022 - Task #425662] (New\) Intro to Lists and M\
+utable Lists)(627
+    =redmine.issue-425662.20221130080520.2e5426c487a19a62@bjitgroup.com)
+  (628=<redmine.issue-425662.20221130080520@bjitgroup.com>)(629=63870f3e)
+  (62B=18f6)(631=c9)(62D=148fd3)(633=1347539)(634
+    =[YSD_Training_Android_Nov2022 - Task #426028] (New\) Use RecyclerView to \
+display a scrollable list part -1)(635
+    =redmine.issue-426028.20221201082738.1222e620bc9b7873@bjitgroup.com)
+  (636=<redmine.issue-426028.20221201082738@bjitgroup.com>)(637=638865fb)
+  (639=19e5)(63D
+    =Issue #426028 has been reported by Md Nakibul Hassan. -------------------\
+--------------------- Task #426028: Use RecyclerView to display a scrollable l\
+ist part -1 http://redmine.bjitgroup.com/redmine/issues/426028 * Author: Md Na\
+kibul Hassan * St)(63E=cb)(63B=14a9ba)(640=1354170)(641
+    ="Zoom Video Communications, Inc" <reply-ff3010717061-13_HTML-351968272-51\
+4008514-7576@e.zoom.us>)(642
+    ==?UTF-8?B?RG9u4oCZdCBiZSBDYW1lcmEgU2h5IC0gSG9zdCBhIFRlc3QgTWVl?= =?UTF-8?\
+B?dGluZw==?=)(643
+    =98d6fd88-e1e9-4059-acf4-dadc0bf8167b@atl1s11mta669.xt.local)(644
+    =63895e55)(646=abe7)(647=273)(656=cc)(649=1555a3)(64A=1398179)(64B
+    =CAEVGNDB_TVNWcGgGmY7k4pqUJFj4iN_iHQmC0Xuyp37YFzjWDA@mail.gmail.com)
+  (64C=6389850e)(64F=12134d)(650=3b38)(657=cd)(652=2768f2)(659=2582770)
+  (65A
+    =SamiunRahman/Affirmation_Google_Dev <reply+A4FRKZIVGTW7W5VU3TDJVHOBTIHJBE\
+VBNHHFP2ZCDE@reply.github.com>)(65B
+    =Samiun Rahman Sizan <notifications@github.com>)(65C
+    =SamiunRahman/Affirmation_Google_Dev <Affirmation_Google_Dev@noreply.githu\
+b.com>)(65D=Subscribed <subscribed@noreply.github.com>)(65E
+    =[SamiunRahman/Affirmation_Google_Dev] New textview added (PR #1\))
+  (65F=SamiunRahman/Affirmation_Google_Dev/pull/1@github.com)(660=638cdc3b)
+  (661=638cdc10)(662=28ca)(676=1|Samiun Rahman Sizan)(6B0=user)(68C=ce)
+  (665=2791be)(666=2593214)(667
+    =SamiunRahman/Affirmation_Google_Dev <reply+A4FRKZKUVPFR2Z6HMP5IQNOBTIHJVE\
+VBNHHFP2ZCDE@reply.github.com>)(668
+    =SamiunRahman/Affirmation_Google_Dev/pull/1/issue_event/7948863019@github.\
+com)(669=<SamiunRahman/Affirmation_Google_Dev/pull/1@github.com>)(66A
+    =638cdc45)(66C=1f14)(68D=cf)(66D=27b0d4)(66E=2601172)(66F
+    ="Zoom Video Communications, Inc" <reply-ff2f10717062-13_HTML-351968272-51\
+4008514-7916@e.zoom.us>)(670
+    =[Watch On-Demand] Connect Culture from Your Home Office)(671
+    =b2c4bd4e-8118-4131-9d7a-987f738e6380@atl1s11mta670.xt.local)(672
+    =638d5311)(674=94b7)(675=231)(68E=d0)(677=28458d)(678=2639245)(679
+    =CAEVGNDD7Y0vjycRrkYe9zk_LR6fa4yQGp_1nN5hcroiOPYVKmQ@mail.gmail.com)
+  (67A=638d6bbd)(67C=d17bf)(67D=2ac5)(68F=d1)(680=355d4e)(681=3497294)
+  (682=bjitacademytraining2021@gmail.com)(683
+    =Score released: Exam on Scrum_Dec'2022)(684
+    =000000000000645b9105ef113ffc@google.com)(685=638db8e0)(687=22a1)
+  (68A=1|bjitacademytraining2021@gmail.com)(690=d2)(688=357ff1)(692
+    =3506161)(693
+    =[YSD_Training_Android_Nov2022 - Task #426911] (New\) Use RecyclerView to \
+display a scrollable list part - 2)(694
+    =redmine.issue-426911.20221206075747.9fc632d22985220c@bjitgroup.com)
+  (695=<redmine.issue-426911.20221206075747@bjitgroup.com>)(696=638ef688)
+  (698=1a0a)(69C
+    =Issue #426911 has been reported by Md Nakibul Hassan. -------------------\
+--------------------- Task #426911: Use RecyclerView to display a scrollable l\
+ist part - 2 http://redmine.bjitgroup.com/redmine/issues/426911 * Author: Md N\
+akibul Hassan * S)(69E=d4)(69A=3599fd)(69F=3512829)(6A0
+    =Samiun Rahman Sizan <2018-2-60-124@std.ewubd.edu>)(6A1
+    =Samiun Rahman Sizan <samiunsizan@gmail.com>, samiun.rahman@bjitacademy.co\
+m)(6A2=CAJyjfuneuSQv1yZnvb4-sBci1Zu_RsvMiac_J=MVE9oNDSY8yw@mail.gmail.com)
+  (6A3=638efddd)(6A5=1aad)(6AA=d5)(6A8=35b4ac)(6B9=3519660)(6BA
+    ="Zoom Video Communications, Inc" <reply-ff2e10717063-13_HTML-351968272-51\
+4008514-8324@e.zoom.us>)(6BB=Stay Connected on the Go)(6BC
+    =756b5ca8-4259-4a53-8765-b7a2d0c1b614@atl1s11mta668.xt.local)(6BD
+    =63914793)(6BF=829b)(6C0=20c)(700=d6)(6C2=363749)(6C3=3553097)(6C4
+    =[YSD_Training_Android_Nov2022 - Task #427416] (New\) Android Default Anim\
+ation)(6C5
+    =redmine.issue-427416.20221208083449.66d0d09f8c08f7af@bjitgroup.com)
+  (6C6=<redmine.issue-427416.20221208083449@bjitgroup.com>)(6C7=6391a23a)
+  (6C9=196e)(701=d8)(6CA=3650b9)(6CB=3559609)(6CC
+    =Zoom password reset confirmation)(6CD
+    =KcAdtuSITeCaJFt-6zKVGg@geopod-ismtpd-2-2)(6CE=63929a45)(6D0=utf-8)
+  (6D1=4057)(6D2=c4)(702=d9)(6D4=369112)(6D5=3576082)(6D6
+    =Your Zoom password has been reset.)(6D7
+    =RI6zcYuRSpybHxbSrnj3-Q@geopod-ismtpd-3-4)(6D8=63929c44)(6DA=us-ascii)
+  (6DB=1baf)(703=da)(6DC=36acc3)(6DD=3583171)(6DE
+    =Code for signing in to Zoom)(6DF
+    =STCNQLGhRvm2ntWTBQ55SA@geopod-ismtpd-1-2)(6E0=63929c58)(6E2=8124)
+  (6E3=251)(704=db)(6E4=372de9)(6E5=3616233)(6E6
+    =Zoom App Marketplace <noreply-marketplace@zoom.us>)(6E7
+    =You have apps approved and ready to use with Zoom)(6E8
+    =euA5XlFZR5ScMssQ0TTmKg@geopod-ismtpd-3-5)(6E9=63929e99)(6EB=4459)
+  (6EC=188)(6ED=1|Zoom App Marketplace)(705=dc)(6EE=377244)(6EF=3633732)
+  (6F0
+    =[YSD_Training_Android_Nov2022 - Task #427681] (New\) Collections in Kotli\
+n)(6F1=redmine.issue-427681.20221209104551.d998bf2820a5ff65@bjitgroup.com)
+  (6F2=<redmine.issue-427681.20221209104551@bjitgroup.com>)(6F3=63931272)
+  (706=de)(6F5=378a27)(6F6=3639847)(6F7=MapOfCode)(6F8
+    =CAEVGNDA=AFBN9Syr5h6TqkGe6n3OanYW0T_Gb02JNidt_6XoDw@mail.gmail.com)
+  (6F9=63960f2e)(6FB=24d1)(707=df)(6FD=37aefa)(708=3649274)(709
+    ="Zoom Video Communications, Inc" <reply-ff2d1071706c-13_HTML-351968272-51\
+4008514-8728@e.zoom.us>)(70A=3 Ways to Secure Your Zoom Meetings)(70B
+    =d0c60f4b-bba2-4069-ad0f-6835ab1f5419@atl1s11mta669.xt.local)(70C
+    =63968d8f)(70E=af09)(70F=2a9)(712=e0)(710=385e05)(729=3694085)(72A
+    =Score released: Exam on Kotlin Collection: 12 Dec 2022)(72B
+    =000000000000bf72e205efc402a1@google.com)(72C=63997004)(72E=2312)
+  (74A=e1)(730=388119)(731=3703065)(732
+    =Score released: Exam on Kotlin_List_2: 30 Nov 22)(733
+    =00000000000079508905efc40fa4@google.com)(734=639970da)(736=22e0)
+  (74B=e2)(737=38a3fb)(738=3711995)(739
+    =000000000000f059b205efc41168@google.com)(73A=63997101)(73C=231a)
+  (74C=e3)(73D=38c717)(73E=3720983)(73F
+    =Score released: Exam on Android_Intent: 13 Dec22)(740
+    =000000000000444d4405efc41425@google.com)(741=6399712a)(74D=e4)
+  (744=38e9f9)(74F=3729913)(750
+    ="Zoom Video Communications, Inc" <reply-ff2c1071706d-13_HTML-351968272-51\
+4008514-9406@e.zoom.us>)(751=New Features to Enhance your Zoom Meetings)
+  (752=9e9263e8-ee92-47e0-ad6b-4cfba63f0345@atl1s11mta650.xt.local)
+  (753=639bd392)(755=afed)(756=2d3)(75A=e5)(758=3999e8)(75D=3774952)
+  (75E
+    ="Zoom Video Communications, Inc" <reply-ff3410717364-13_HTML-351968272-51\
+4008514-9816@e.zoom.us>)(75F=Tips to Successfully Work Remotely)(760
+    =2fd24b2f-8dd0-4191-8135-a4d7531a08ef@atl1s11mta657.xt.local)(761
+    =63a26b47)(763=8d9d)(764=22c)(77A=e6)(766=3a2787)(767=3811207)(768
+    =miral.trainer@gmail.com)(769
+    =Score released: Exam on Software Requirements Analysis)(76A
+    =0000000000007ceca005f068c313@google.com)(76B=63a43c1a)(76D=22fb)
+  (770=1|miral.trainer@gmail.com)(77B=e7)(76E=3a4a84)(771=3820164)(77C=e8)
+  (772=3ad823)(773=3856419)(77D=e9)(775=3afb20)(77E=3865376)(77F
+    =[YSD_Training_Android_Nov2022 - Task #430182] (New\) Navigation Component)
+  (780=redmine.issue-430182.20221223065130.1be1ec97ff1a728e@bjitgroup.com)
+  (781=<redmine.issue-430182.20221223065130@bjitgroup.com>)(782=63a550cd)
+  (784=2400)(788=eb)(786=3b1f22)(78B=3874594)(78C
+    ="Zoom Video Communications, Inc" <reply-ff3310717365-13_HTML-351968272-51\
+4008514-10401@e.zoom.us>)(78D
+    =Zoom Chat: The Secret to Keeping Your Team Aligned)(78E
+    =730d7d00-29a0-436c-a800-6c8c13fe7303@atl1s11mta656.xt.local)(78F
+    =63a902c6)(791=a102)(792=289)(796=ec)(794=3bc026)(798=3915814)(799
+    ="Zoom Video Communications, Inc" <reply-ff3210717366-13_HTML-351968272-51\
+4008514-11048@e.zoom.us>)(79A
+    =Organizing  your workday has never been easier)(79B
+    =12a9e113-e305-4ddc-b9b9-c0d86a4a1b0f@atl1s11mta667.xt.local)(79C
+    =63af9a49)(79E=9d94)(79F=290)(7AF=ed)(7A1=3c5dbc)(7A2=3956156)(7A3
+    =Google Forms <forms-receipts-noreply@google.com>)(7A4
+    =Exam on AWS Certified Cloud Practitioner :: 2nd Jan 2023)(7A5
+    =000000000000c25d8405f1447217@google.com)(7A6=63b2a1cc)(7A8=13199)
+  (7A9=4df)(7AC=1|Google Forms)(7B0=ee)(7AA=3d8f57)(7B2=4034391)(7B3
+    =[YSD_Training_Android_Nov2022 - Task #432915] (New\) SQL basics)
+  (7B4=redmine.issue-432915.20230105111909.829e057c3af92748@bjitgroup.com)
+  (7B5=<redmine.issue-432915.20230105111909@bjitgroup.com>)(7B6=63b6b325)
+  (7B8=20d0)(7BA=3db029)(7C1=4042793)(7C2=nakibhasan2711@gmail.com)
+  (7C3=Score released: Exam on SQL in Kotlin: 6 Jan 23)(7C4
+    =0000000000004ab15b05f1964af0@google.com)(7C5=63b7fee5)(7C7=231f)
+  (7CC=1|nakibhasan2711@gmail.com)(7CA=3dd34a)(7CF=4051786)(7D0
+    =Score released: Exam on Thread: 09 Jan 23)(7D1
+    =000000000000b0920205f1d2d7f4@google.com)(7D2=63bbf6c8)(7D4=22f7)
+  (7D9=f2)(7D6=3df643)(7DA=4060739)(7DB
+    =[YSD_Training_Android_Nov2022 - Task #433658] (New\) Introduction to Cour\
+otines)(7DC
+    =redmine.issue-433658.20230110090735.9dc33df29bb9e381@bjitgroup.com)
+  (7DD=<redmine.issue-433658.20230110090735@bjitgroup.com>)(7DE=63bd2b06)
+  (7DF=63bd2ad7)(7E0=22dc)(7EE=f4)(7E2=3e1921)(7E3=4069665)(7E4
+    =[YSD_Training_Android_Nov2022 - Task #433658] Introduction to Courotines)
+  (7E5
+    =redmine.journal-1207588.20230110090747.8b915e62d8f0330e@bjitgroup.com)
+  (7E6=63bd2b15)(7E8=2478)(7EF=f5)(7EA=3e3d9b)(7F3=4079003)(7F4
+    =nani.gopal@bjitgroup.com, homayun.kabir@bjitgroup.com, saleehin@bjitgroup\
+.com, nakibul.hassan@bjitgroup.com)(7F5
+    =[YSD_Training_Android_Nov2022 - Task #433929] (New\) API Integration with\
+ Retrofit)(7F6
+    =redmine.issue-433929.20230111090748.32511310a68b0b44@bjitgroup.com)
+  (7F7=<redmine.issue-433929.20230111090748@bjitgroup.com>)(7F8=63be7c95)
+  (7F9=63be7c64)(7FA=237f)(7FB=4e)(806=f7)(7FD=3e611c)(7FE=4088092)
+  (7FF
+    =[YSD_Training_Android_Nov2022 - Task #433929] API Integration with Retrof\
+it)(800
+    =redmine.journal-1208280.20230111090803.15a40634853a7457@bjitgroup.com)
+  (801=63be7ca4)(803=2528)(807=f8)(804=3e8646)(812=4097606)(813
+    =[YSD_Training_Android_Nov2022 - Task #434526] (New\) API Integration with\
+ Retrofit (Moshi, Internet Checking, Glide\))(814
+    =redmine.issue-434526.20230116025122.6c9042256d34ab43@bjitgroup.com)
+  (815=<redmine.issue-434526.20230116025122@bjitgroup.com>)(816=63c4bbd9)
+  (817=63c4bbaa)(818=249e)(824=fa)(81B=3eaae6)(81C=4106982)(81D
+    =[YSD_Training_Android_Nov2022 - Task #434526] API Integration with Retrof\
+it (Moshi, Internet Checking, Glide\))(81E
+    =redmine.journal-1210089.20230116025136.9f8a0f45f616f239@bjitgroup.com)
+  (81F=63c4bbe7)(821=2759)(825=fb)(822=3ed241)(829=4117057)(82A
+    =[YSD_Training_Android_Nov2022 - Task #434697] (New\) Introduction to Work\
+Manager)(82B
+    =redmine.issue-434697.20230116121444.0c4630b0b9978e70@bjitgroup.com)
+  (82C=<redmine.issue-434697.20230116121444@bjitgroup.com>)(82D=63c53fe4)
+  (82E=63c53fb4)(82F=2170)(845=fd)(831=3ef3b3)(832=4125619)(833
+    =[YSD_Training_Android_Nov2022 - Task #434697] Introduction to WorkManager)
+  (834
+    =redmine.journal-1210675.20230116121453.7dd38ddff1e12ec4@bjitgroup.com)
+  (835=63c53fed)(837=2311)(846=fe)(838=3f16c6)(839=4134598)(83A
+    =Office CEO <ceo.office@bjitgroup.com>)(83B
+    =rifah.nanjiba@bjitgroup.com, nusrat.alam@bjitgroup.com)(83C
+    =Notice for Annual Picnic 2023)(83D
+    =CAP4PPQi4BszbgzVWse4LetMDHhRbfY7ONbDtiQd_NppD_v-E9g@mail.gmail.com)
+  (83E=63c78c7c)(840=2a7d)(843=1|Office CEO)(847=ff)(841=3f4145)(848
+    =4145477)(849
+    =[YSD_Training_Android_Nov2022 - Task #435222] (New\) Chain your work, Cle\
+an your work, WorkRequest)(84A
+    =redmine.issue-435222.20230118080219.db25b28a650e8957@bjitgroup.com)
+  (84B=<redmine.issue-435222.20230118080219@bjitgroup.com>)(84C=63c7a7bf)
+  (84D=63c7a78c)(84E=2162)(85A=101)(850=3f62a9)(851=4154025)(852
+    =[YSD_Training_Android_Nov2022 - Task #435222] Chain your work, Clean your\
+ work, WorkRequest)(853
+    =redmine.journal-1211644.20230118080230.ce9e28b975b9a5c1@bjitgroup.com)
+  (854=63c7a7ca)(856=23f1)(85B=102)(857=3f869c)(85D=4163228)(85E
+    =63c7e79ecb2ca_74c5bc9509f@lowworker-59c846db6-q8jm2.mail)(85F
+    =63c7e7c9)(861=121b)(86D
+    =Hey SamiunRahman! A sign in attempt requires further verification because\
+ we did not recognize your device. To complete the sign in, enter the verifica\
+tion code on the unrecognized device. Device: Chrome on Windows Verification c\
+ode: 616811 If y)(86E=103)(864=3f98b9)(865=4167865)(866
+    =CAP4PPQhEmKUzfSexxdmmBpffE_yOrk0AGZj=tFBhjfMY-jhUVQ@mail.gmail.com)
+  (867
+    =<CAP4PPQh2W44+Ui9uQbT=v=Tk=NX2Q0uX3mrDaELj1hVbGqcGCg@mail.gmail.com>)
+  (868=63c8c7a0)(869=63c8c75a)(86A=369d)(86F=105)(86B=3fcf58)(873=4181848)
+  (874
+    =[GitHub] A third-party OAuth application has been added to your account)
+  (875=63c9020a5f8e3_6aac5bc37885@lowworker-59f458dbb4-456jz.mail)(876
+    =63c90235)(878=10f8)(879=e)(87D
+    =Hey SamiunRahman! A third-party OAuth application (JetBrains IDE Integrat\
+ion\) with gist, read:org, repo, and workflow scopes was recently authorized t\
+o access your account. Visit https://github.com/settings/connections/applicati\
+ons/58566862bd2a5ff)(87E=106)(87B=3fe052)(87F=4186194)(880
+    =[GitHub] A personal access token (classic\) has been added to your accoun\
+t)(881=63c9026cd2345_487c5bc73079@lowworker-59f458dbb4-7tgt9.mail)(882
+    =63c90297)(884=1085)(888
+    =Hey SamiunRahman! A personal access token (classic\) "Android Studio GitH\
+ub integration plugin" with admin:ssh_signing_key, gist, project, read:org, re\
+po, user, and workflow scopes was recently added to your account. Visit https:\
+//github.com/settings/to)(889=107)(885=3ff0d9)(88B=4190425)(88C
+    =63c9592290822_8f0c5bc423c6@lowworker-754966fd49-6ktwm.mail)(88D
+    =63c9594d)(88F=1137)(89A
+    =Hey SamiunRahman! A personal access token (classic\) "Android Studio GitH\
+ub Home Laptop" with admin:enterprise, admin:gpg_key, admin:org_hook, admin:pu\
+blic_key, admin:repo_hook, admin:ssh_signing_key, audit_log, codespace, delete\
+:packages, delete_repo,)(89C=108)(891=400212)(892=4194834)(893
+    =CAP4PPQggwDnD-Q_GXiD+yrZvnjdU+9qNFmOUzLhqhvv5PaQjbA@mail.gmail.com)
+  (894
+    =<CAP4PPQh2W44+Ui9uQbT=v=Tk=NX2Q0uX3mrDaELj1hVbGqcGCg@mail.gmail.com> <CAP\
+4PPQhEmKUzfSexxdmmBpffE_yOrk0AGZj=tFBhjfMY-jhUVQ@mail.gmail.com>)(895
+    =63ca266c)(897=4371)(89D=109)(898=404585)(89F=4212101)(8A0
+    =[GitHub] A new SSH authentication public key was added to your account)
+  (8A1=63ca7c2c4b2d3_6b9c5bc70564@lowworker-7cbc949667-rbnk4.mail)(8A2
+    =63ca7c57)(8A4=ff3)(8A8
+    =The following SSH key was added to your account: test SHA256:GJO8YOhlou6C\
+7rMVsFozGehy7Pwu7yK28CX//zVndZc If you believe this key was added in error, yo\
+u can remove the key and disable access at the following location: https://git\
+hub.com/setting)(8A9=10a)(8B4=4088bc)(8B5=4229308)(8B6
+    =BJIT Annual Picnic'23 Announcement)(8B7
+    =CAP4PPQjpM2VkGhGVh=8aecU0jWioqWMGMSSFsc5p7uQ6ytUBBw@mail.gmail.com)
+  (8B8=63ce221e)(8BA=30d1)(8C6=10d)(8BB=40b98f)(8BC=4241807)(8BD
+    =BJITAcademy2021 <noreply@github.com>)(8BE
+    =BJITAcademy2021 invited you to BJITAcademy2021/Android_Saimun_MidTermProj\
+ect)(8BF=63ce5b52bf2e0_81c5bc24421@lowworker-canary-9c54dd45b-nlcbc.mail)
+  (8C0=63ce5b7e)(8C2=6597)(8C7=10e)(8C9=1|BJITAcademy2021)(8C3=411f28)
+  (8CE=4267816)(8CF
+    =CAEVGNDCP7Tz5rXUaK91qBipn+53-AKk=g+ba0rGgc7m5tXBtYA@mail.gmail.com)
+  (8D0=63cfbbca)(8D2=16dc)(8D6=10f)(8D4=413606)(8D9=4273670)(8DA
+    =Final RSVP for BJIT Annual Picnic'23)(8DB
+    =CAP4PPQhxg2qmRwLjG5Ox2+8QvacJd65z5XG3s+8zLYkwLNHs9w@mail.gmail.com)
+  (8DC=63d3c9ea)(8DD=63d3c9a6)(8DF=5c8947)(8E0=2f98)(8E5=110)(8E2=9dbf4f)
+  (8E7=10338127)(8E8
+    =CAP4PPQgzd+2R-pr6_K3=fu897+0-2KLjZ+Uq67y1QzS2S9EvzQ@mail.gmail.com)
+  (8E9
+    =<CAP4PPQhxg2qmRwLjG5Ox2+8QvacJd65z5XG3s+8zLYkwLNHs9w@mail.gmail.com>)
+  (8EA=63d730ea)(8EB=63d730a6)(8EC=3f38)(8F1=111)(8EF=9dfe89)(8F4=10354313)
+  (8F5=CAP4PPQjNpswGWf+ZmjX-cNAzRpo_iYDcYMgYkzyqD2+Pi8yXTA@mail.gmail.com)
+  (8F6
+    =<CAP4PPQhxg2qmRwLjG5Ox2+8QvacJd65z5XG3s+8zLYkwLNHs9w@mail.gmail.com> <CAP\
+4PPQgzd+2R-pr6_K3=fu897+0-2KLjZ+Uq67y1QzS2S9EvzQ@mail.gmail.com>)(8F7
+    =63d7a5c5)(8F9=4f09)(8ED=b5)(8FD=112)(8FB=9e4d94)(901=10374548)
+  (902=Final Reminder to RSVP for BJIT Picnic'23)(903
+    =CAP4PPQieEyd+ZPQeo+9S3UC2DMOQiWMgiyQZN-zdZ3kQmDjPAw@mail.gmail.com)
+  (904=63dc9677)(907=5c9214)(908=2fba)(90C=113)(90A=fadfaa)(91D=16441258)
+  (91E
+    =[GitHub] A first-party GitHub OAuth application has been added to your ac\
+count)(91F=63e307da767da_38ac5bc609ab@lowworker-7b894469b6-7px6v.mail)
+  (920=63e30806)(922=10e3)(937
+    =Hey SamiunRahman! A first-party GitHub OAuth application (Git Credential \
+Manager\) with gist, repo, and workflow scopes was recently authorized to acce\
+ss your account. Visit https://github.com/settings/connections/applications/01\
+20e057bd645470c1ed)(939=114)(925=faf08f)(926=16445583)(927
+    =BJIT Picnic Updates)(928
+    =CAP4PPQhRbwxUoeh9mjFLNV83RcoDOYWmsY0pVPFCGt34hP6FRQ@mail.gmail.com)
+  (929=63e4dee4)(92B=2563)(93A=115)(92C=fb15f4)(92D=16455156)(92E
+    =BJIT Ltd. Picnic'23 Schedule and Updates)(92F
+    =CAP4PPQhcGQV1+uZHZE3cR+8CccT3chUwRyutg2UjTRsZAcbL-Q@mail.gmail.com)
+  (930=63e60a54)(933=11c911)(934=3a3f)(93B=116)(935=10cdf07)(93E=17620743)
+  (93F=[GitHub] Your personal access token (classic\) is about to expire)
+  (940=63e80b55ce8ee_2164c5bc230e@lowworker-c5c9779d9-sj5zc.mail)(941
+    =63e80b85)(943=1043)(955
+    =Hi @SamiunRahman, We noticed your personal access token (classic\) "Andro\
+id Studio GitHub integration plugin" with admin:ssh_signing_key, gist, project\
+, read:org, repo, user, and workflow scopes will expire in 6 days. If this tok\
+en is still needed, v)(956=117)(945=10cef4c)(946=17624908)(947
+    =63e80bc72077c_12fc5bc836a1@lowworker-5b8d57d9cc-rs9nf.mail)(948
+    =63e80bf8)(94A=10ff)(957=118)(94B=10d004d)(94C=17629261)(94D
+    =BD_All <bd_all@bjitgroup.com>)(94E
+    =Thank you for attending BJIT Picnic 2023)(94F
+    =CAP4PPQjs4uWFNGg2A8_N56TU+4CRBmevj5fMz1qbQ2MjvRbCqw@mail.gmail.com)
+  (950=63e9e507)(952=2e93)(958=119)(953=10d2ee2)(95B=17641186)(95C
+    =63eff2ca4512e_2167c5bc9715b@lowworker-9785847b4-j4lvz.mail)(95D
+    =63eff2f6)(95F=1053)(961=10d3f37)(962=17645367)(963
+    =63eff35332173_216bc5bc668c8@lowworker-9785847b4-9n7h6.mail)(964
+    =63eff37d)(966=1106)(967=10d503f)(968=17649727)(969
+    =[GitHub] A personal access token (classic\) has been regenerated for your\
+ account)(96A=63f06600485ea_2ebac5bc1976d@lowworker-74c4c9dd96-wcvcp.mail)
+  (96B=63f0662b)(96D=107f)(96E=10d60c0)(96F=17653952)(970
+    =63f0662e763e9_2cffc5bc20297@lowworker-74c4c9dd96-rmb44.mail)(971
+    =63f06659)(973=1130)(974=10d71f2)(975=17658354)(976
+    =63f12ac85e36_2c30c5bc925fc@lowworker-594477fb9d-2fql6.mail)(977
+    =63f12af2)(979=101e)>
+{1:^80 {(k^96:c)(s=9)} 
+  [1(^9C=0)(^BF=0)(^88^B4)(^8A=0)(^82^93)(^85^94)(^81^95)(^83^96)(^C0^97)
+    (^C1^98)(^86^98)(^89=1)(^87^9A)(^8B^9B)(^9A^9C)(^8E^9D)(^C2=0)(^C6^AC)
+    (^C7=23)(^CC^197)(^C9=0)]
+  [2(^9C^9F)(^BF^A0)(^88=1)(^8A=0)(^82^A1)(^85^A2)(^81^A3)(^83^A4)(^C0^97)
+    (^C1^A5)(^86^A6)(^89=1)(^87^A7)(^8B=c)(^9A^9C)(^8E=2)(^C2=0)(^C7=22)
+    (^CC^196)(^C9=0)]
+  [3(^9C^AA)(^BF^B7)(^88=1)(^CE^B8)(^8A=0)(^82^B9)(^85^A2)(^81^BA)(^83^BB)
+    (^C0^97)(^C1^BC)(^86^BD)(^89=1)(^87^BE)(^8B=21)(^9A^9C)(^8E=3)(^C2=0)
+    (^C6^DC)(^C7=28)(^CC^190)(^C9=0)]
+  [4(^9C^C2)(^BF^C3)(^88=1)(^CE^B8)(^8A=0)(^82^B9)(^85^A2)(^81^C4)(^83^C5)
+    (^C0^97)(^C1^C6)(^86^C7)(^89=1)(^87^C8)(^8B=21)(^9A^9C)(^8E=4)(^C2=0)
+    (^C7=29)(^CC^190)(^C9=0)]
+  [5(^9C^CA)(^BF^CB)(^88=1)(^CE^B8)(^8A=0)(^82^B9)(^85^A2)(^81^CC)(^83^CD)
+    (^C0^97)(^C1^CE)(^86^CF)(^89=1)(^87^D0)(^8B=21)(^9A^9C)(^8E=5)(^C2=0)
+    (^C7=2a)(^CC^190)(^C9=0)]
+  [6(^9C^D2)(^BF^D3)(^88=1)(^CE^B8)(^8A=0)(^82^B9)(^85^A2)(^81^D4)(^83^D5)
+    (^C0^97)(^C1^D6)(^86^D7)(^89=1)(^87^D8)(^8B=21)(^9A^9C)(^8E=6)(^C2=0)
+    (^C7=2b)(^CC^190)(^C9=0)]
+  [7(^9C^DA)(^BF^ED)(^88=1)(^8A=0)(^82^EE)(^85^A2)(^81^EF)(^83^F0)(^C0^97)
+    (^C1^F1)(^86^F2)(^89=4)(^87^F3)(^8B=31)(^9A^9C)(^8E=7)(^C2=0)(^C6=)
+    (^CC^195)(^C7=2c)(^C9=0)]
+  [8(^9C^F7)(^BF^FD)(^88=1)(^CE^B8)(^8A=0)(^82^B9)(^85^A2)(^81^FE)(^83^FF)
+    (^C0^97)(^C1^100)(^86^101)(^89=1)(^87^103)(^8B=21)(^9A^9C)(^8E=8)
+    (^C2=0)(^CC^190)(^C6^110)(^C9=0)(^C7=2d)]
+  [9(^9C^106)(^BF^107)(^88=1)(^CE^B8)(^8A=0)(^82^B9)(^85^A2)(^81^108)
+    (^83^109)(^C0^97)(^C1^10A)(^86^10B)(^89=1)(^87^10C)(^8B=21)(^9A^9C)
+    (^8E=9)(^C2=0)(^CC^190)(^C9=0)(^C7=2e)]
+  [A(^9C^10E)(^BF^11B)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^11D)(^83^11E)
+    (^C0^97)(^C1^11F)(^86^120)(^89=1)(^95^121)(^87^122)(^8B=31)(^9A^9C)
+    (^8E=a)(^C2=0)(^CC^191)(^C7=2f)(^C9=0)]
+  [B(^9C^125)(^BF^12B)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^12C)(^83^12D)
+    (^C0^97)(^C1^12E)(^86^12F)(^89=1)(^95^121)(^87^130)(^8B=35)(^9A^9C)
+    (^8E=b)(^C2=0)(^C6^136)(^CC^191)(^C7=30)(^C9=0)]
+  [C(^9C^134)(^BF^139)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^13A)(^83^13B)
+    (^C0^97)(^84^13C)(^C1^13D)(^86^13E)(^89=1)(^95^121)(^87^13F)(^8B=51)
+    (^9A=d)(^8E=c)(^C2=0)(^C6^164)(^CC^191)(^C7=33)(^C9=0)]
+  [D(^9C^142)(^BF^143)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^144)(^83^145)
+    (^C0^97)(^84^13C)(^C1^13D)(^86^146)(^89=1)(^95^121)(^87^147)(^8B=51)
+    (^9A^9C)(^8E=c)(^C2=0)(^CC^191)(^C7=34)(^C9=0)]
+  [E(^9C^149)(^BF^14A)(^88=1)(^8A=0)(^82^11C)(^85^14B)(^81^14C)(^83^14D)
+    (^C0^97)(^84^13C)(^C1^13D)(^86^14E)(^89=1)(^95^121)(^87^14F)(^8B=51)
+    (^9A=d)(^8E=c)(^C2=0)(^CC^191)(^C7=35)(^C9=0)]
+  [F(^9C^151)(^BF^152)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^12C)(^83^153)
+    (^C0^97)(^C1^154)(^86^155)(^89=1)(^95^121)(^87^156)(^8B=35)(^9A^9C)
+    (^8E=f)(^C2=0)(^CC^191)(^C7=36)(^C9=0)]
+  [10(^9C^158)(^BF^159)(^88=1)(^8A=0)(^82^11C)(^85^14B)(^81^15A)(^83^15B)
+    (^C0^97)(^84^15C)(^C1^15D)(^86^15E)(^89=1)(^95^121)(^87^15F)(^8B=46)
+    (^9A^9C)(^8E=10)(^C2=0)(^CC^191)(^C7=38)(^C9=0)]
+  [11(^9C^162)(^BF^170)(^88=1)(^8A=0)(^82^171)(^85^A2)(^81^172)(^83^173)
+    (^C0^97)(^C1^174)(^86^175)(^89=1)(^95^121)(^87=5a6)(^8B=2)(^9A^9C)
+    (^8E=11)(^C2=0)(^C6^17B)(^CC^192)(^C9=0)(^C7=3c)]
+  [12(^9C^179)(^BF^180)(^88=3)(^8A=0)(^82^181)(^85^182)(^81^183)(^83^184)
+    (^C0^97)(^C1^185)(^86^186)(^89=1)(^95^121)(^87=5b3)(^8B=2)(^9A^9C)
+    (^8E=12)(^C2=0)(^C6^18B)(^CC^193)(^C9=0)(^C7=3d)]
+  [13(^9C^189)(^BF^1A1)(^88=11)(^8A=0)(^82^171)(^85^182)(^81^1A2)(^83^1A3)
+    (^C0^97)(^84^1A4)(^C1^1A5)(^86^1A6)(^89=1)(^95^121)(^87=685)(^8B=5)
+    (^9A^9C)(^8E=13)(^C2=0)(^CC^192)(^C8=0)(^D0^1AC)(^D1=2)(^C6^1AD)
+    (^C7=41)(^C9=0)]
+  [14(^9C^1AA)(^BF^1B2)(^88=1)(^8A=0)(^82^181)(^85^182)(^81^1B3)(^83^1B4)
+    (^C0^97)(^C1^1B5)(^86^1B6)(^89=1)(^95^121)(^87=5b7)(^8B=2)(^9A^9C)
+    (^8E=14)(^C2=0)(^CC^193)(^C8=0)(^D0^1AC)(^D1=3)(^C6^1BC)(^C9=0)
+    (^C7=42)]
+  [15(^9C^1BA)(^BF^1C1)(^88=1)(^8A=0)(^82^1C2)(^85^A2)(^81^1C3)(^83^1C4)
+    (^C0^97)(^C1^1C5)(^86^1C6)(^89=1)(^87^1C7)(^8B=a1)(^9A^9C)(^8E=15)
+    (^C2=0)(^CC^1CD)(^C8=0)(^D0^1AC)(^D1=16)(^C7=43)(^C9=0)(^D2=1)]
+  [16(^9C^1CB)(^BF^1D1)(^88=1)(^8A=0)(^82^1C2)(^85^A2)(^81^1C3)(^83^1D2)
+    (^C0^97)(^C1^1D3)(^86^1D4)(^89=1)(^87^1D5)(^8B=a1)(^9A^9C)(^8E=16)
+    (^C2=0)(^C8=0)(^D0^1AC)(^D1=16)(^C7=44)(^C9=0)(^CC^1CD)(^D2=1)]
+  [17(^9C^1D7)(^BF^1DA)(^88=1)(^8A=0)(^82^11C)(^85^1DB)(^81^1DC)(^83^1DD)
+    (^C0^97)(^84^1DE)(^C1^1DF)(^86^1E0)(^89=1)(^95^121)(^87^1E1)(^8B=4a)
+    (^9A^9C)(^8E=17)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C6^1E7)(^C7=46)
+    (^CC^191)(^C9=0)]
+  [18(^9C^1E4)(^BF^1F3)(^88=1)(^8A=0)(^82^11C)(^85^1DB)(^81^1F4)(^83^1F5)
+    (^C0^97)(^84^1F6)(^C1^1F7)(^86^1F8)(^89=1)(^95^121)(^87^1F9)(^8B=4f)
+    (^9A^9C)(^8E=18)(^C2=0)(^C8=0)(^D0^1AC)(^D1=5)(^C6^1FF)(^CC^191)
+    (^C9=0)(^C7=48)]
+  [19(^9C^1FD)(^BF^202)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^203)(^83^204)
+    (^C0^97)(^84^205)(^C1^206)(^86^207)(^89=1)(^95^121)(^87^208)(^8B=4c)
+    (^9A^9C)(^8E=19)(^C2=0)(^C8=0)(^D0^1AC)(^D1=5)(^C6^20E)(^CC^191)
+    (^C9=0)(^C7=4a)]
+  [1A(^9C^20C)(^BF^211)(^88=1)(^8A=0)(^82^212)(^85^213)(^81^214)(^83^215)
+    (^C0^97)(^C1^216)(^86^217)(^89=1)(^95^121)(^87^218)(^8B=100)(^9A^9C)
+    (^8E=1a)(^C2=0)(^CC^21E)(^C8=0)(^D0^1AC)(^D1=8)(^C9=0)(^D2=1)(^C7=4b)]
+  [1B(^9C^21C)(^BF^221)(^88=1)(^8A=0)(^82^212)(^85^213)(^81^222)(^83^223)
+    (^C0^97)(^C1^224)(^86^225)(^89=1)(^95^121)(^87^226)(^8B=1f1)(^9A^9C)
+    (^8E=1b)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C6=)(^C7=4c)(^CC^21E)(^C9=0)
+    (^D2=1)]
+  [1C(^9C^22A)(^BF^22D)(^88=1)(^8A=0)(^82^22E)(^85^A2)(^81=)(^83^22F)
+    (^C0^97)(^C1^230)(^86^231)(^89=1)(^87^232)(^8B=b)(^9A^9C)(^8E=1c)
+    (^C2=0)(^CC^196)(^C8=0)(^D0^1AC)(^D1=16)(^C6=)(^C7=4d)(^C9=0)]
+  [1D(^9C^235)(^BF^236)(^88=1)(^8A=0)(^82^11C)(^85^237)(^81^238)(^83^239)
+    (^C0^97)(^84^23A)(^C1^23B)(^86^23C)(^89=1)(^95^121)(^87^23D)(^8B=5c)
+    (^9A^9C)(^8E=1d)(^C2=0)(^CC^191)(^C8=0)(^D0^1AC)(^D1=8)(^C7=4f)
+    (^C9=0)]
+  [1E(^9C^240)(^BF^241)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^242)(^83^243)
+    (^C0^97)(^84^244)(^C1^245)(^86^246)(^89=1)(^95^121)(^87^247)(^8B=58)
+    (^9A^9C)(^8E=1e)(^C2=0)(^CC^191)(^C8=0)(^D0^1AC)(^D1=8)(^C7=51)
+    (^C9=0)]
+  [1F(^9C^24A)(^BF^251)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^252)(^83^253)
+    (^C0^97)(^84^254)(^C1^255)(^86^256)(^89=1)(^95^121)(^87^257)(^8B=59)
+    (^9A^9C)(^8E=1f)(^C2=0)(^CC^191)(^C8=0)(^D0^1AC)(^D1=8)(^C6^25D)
+    (^C7=53)(^C9=0)]
+  [20(^9C^25B)(^BF^262)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^263)(^83^264)
+    (^C0^97)(^84^265)(^C1^266)(^86^267)(^89=1)(^95^121)(^87^268)(^8B=55)
+    (^9A^9C)(^8E=20)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C6^288)(^CC^191)
+    (^C7=55)(^C9=0)]
+  [21(^9C^26C)(^BF^26D)(^88=1)(^8A=0)(^82^26E)(^85^A2)(^81^26F)(^83^270)
+    (^C0^97)(^C1^271)(^86^272)(^89=1)(^95^121)(^87^273)(^8B=ef)(^9A^9C)
+    (^8E=21)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^CC^289)(^C9=0)(^D2=1)(^C7=56)]
+  [22(^9C^275)(^BF^276)(^88=1)(^8A=0)(^82^277)(^85^A2)(^81^278)(^83^279)
+    (^C0^97)(^C1^27A)(^86^27B)(^89=1)(^95^121)(^87^27C)(^8B=f0)(^9A^9C)
+    (^8E=22)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^CC^193)(^C7=57)(^C9=0)(^D2=1)]
+  [23(^9C^27E)(^BF^27F)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^280)(^83^281)
+    (^C0^97)(^84^282)(^C1^283)(^86^284)(^89=1)(^95^121)(^87^285)(^8B=59)
+    (^9A^9C)(^8E=23)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^CC^191)(^C7=59)
+    (^C9=0)]
+  [24(^9C^286)(^BF^28F)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^290)(^83^291)
+    (^C0^97)(^84^292)(^C1^293)(^86^294)(^89=1)(^95^121)(^87^295)(^8B=57)
+    (^9A^9C)(^8E=24)(^C2=0)(^C8=0)(^D0^1AC)(^D1=5)(^C6^29A)(^CC^191)
+    (^C9=0)(^C7=5b)]
+  [25(^9C^298)(^BF^2A1)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^2A2)(^83^2A3)
+    (^C0^97)(^84^2A4)(^C1^2A5)(^86^2A6)(^89=1)(^95^121)(^87^2A7)(^8B=55)
+    (^9A^9C)(^8E=25)(^C2=0)(^C8=0)(^D0^1AC)(^D1=5)(^C6^2AC)(^C7=5d)
+    (^CC^191)(^C9=0)]
+  [26(^9C^2AA)(^BF^2AF)(^88=11)(^CE^2B0)(^8A=0)(^82^2B1)(^85^2B2)(^8C^2B3)
+    (^81^2B4)(^83^2B5)(^C0^97)(^84^2B6)(^C1^2B7)(^86^2B8)(^89=1)(^95^121)
+    (^87^2B9)(^8B=30)(^9A^9C)(^8E=26)(^C2=0)(^CC^2BE)(^C8=0)(^D0^1AC)
+    (^D1=8)(^C6=)(^C7=5f)(^C9=0)(^D2=1)]
+  [27(^9C^2BC)(^BF^2C0)(^88=11)(^CE^2C1)(^8A=0)(^82^2B1)(^85^2B2)(^8C^2B3)
+    (^81^2B4)(^83^2C2)(^C0^97)(^84^2B6)(^C1^2C3)(^86^2C4)(^89=1)(^95^121)
+    (^87^2C5)(^8B=2a)(^9A=26)(^8E=26)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C6=)(^C7=60)(^C9=0)(^CC^2BE)(^D2=1)]
+  [28(^9C^2C7)(^BF^2CC)(^88=11)(^CE^2CD)(^8A=0)(^82^2CE)(^85^2B2)(^8C^2CF)
+    (^81^2D0)(^83^2D1)(^C0^97)(^84^2D2)(^C1^2D3)(^86^2D4)(^89=1)(^95^121)
+    (^87^2D5)(^8B=2a)(^9A^9C)(^8E=28)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=62)(^CC^3AB)(^C9=0)(^D2=1)]
+  [29(^9C^2D6)(^BF^2DA)(^88=11)(^CE^2DB)(^8A=0)(^82^2B1)(^85^2B2)(^8C^2CF)
+    (^81^2D0)(^83^2DC)(^C0^97)(^84^2D2)(^C1^2DD)(^86^2DE)(^89=1)(^95^121)
+    (^87^2DF)(^8B=30)(^9A=28)(^8E=28)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C6=)(^C7=63)(^C9=0)(^CC^2BE)(^D2=1)]
+  [2A(^9C^2E1)(^BF^2E2)(^88=11)(^CE^2E3)(^8A=0)(^82^2B1)(^85^2B2)(^8C^2CF)
+    (^81^2D0)(^83^2E4)(^C0^97)(^84^2D2)(^C1^2E5)(^86^2E6)(^89=1)(^95^121)
+    (^87^2E7)(^8B=2a)(^9A=28)(^8E=28)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=64)(^C9=0)(^D2=1)]
+  [2B(^9C^2E8)(^BF^2E9)(^88=11)(^CE^2EA)(^8A=0)(^82^2CE)(^85^2EB)(^8C^2B3)
+    (^81^2EC)(^83^2ED)(^C0^97)(^84^2EE)(^C1^2EF)(^86^2F0)(^89=1)(^95^121)
+    (^87^2F1)(^8B=30)(^9A^9C)(^8E=2b)(^C2=0)(^CC^3AB)(^C8=0)(^D0^1AC)
+    (^D1=8)(^C7=66)(^C9=0)(^D2=1)]
+  [2C(^9C^2F2)(^BF^2F3)(^88=1)(^CE^2F4)(^8A=0)(^82^2CE)(^85^2EB)(^8C^2CF)
+    (^81^2F5)(^83^2F6)(^C0^97)(^C1^2F7)(^86^2F8)(^89=1)(^95^121)(^87^2F9)
+    (^8B=54)(^9A^9C)(^8E=2c)(^C2=0)(^CC^3AB)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=67)(^C9=0)(^D2=1)]
+  [2D(^9C^2FB)(^BF^2FC)(^88=11)(^CE^2FD)(^8A=0)(^82^2CE)(^85^2EB)(^8C^2CF)
+    (^81^2F5)(^83^2FE)(^C0^97)(^84^2FF)(^C1^300)(^86^301)(^89=1)(^95^121)
+    (^87^302)(^8B=44)(^9A=2c)(^8E=2c)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=68)(^C9=0)(^CC^3AB)(^D2=1)]
+  [2E(^9C^303)(^BF^304)(^88=11)(^CE^305)(^8A=0)(^82^2CE)(^85^2EB)(^8C^2CF)
+    (^81^2F5)(^83^306)(^C0^97)(^84^2FF)(^C1^307)(^86^308)(^89=1)(^95^121)
+    (^87^309)(^8B=40)(^9A=2c)(^8E=2c)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=69)(^C9=0)(^D2=1)]
+  [2F(^9C^30B)(^BF^30C)(^88=1)(^8A=0)(^82^30D)(^85^A2)(^81^30E)(^83^30F)
+    (^C0^97)(^C1^310)(^86^311)(^89=1)(^95^121)(^87^312)(^8B=f0)(^9A^9C)
+    (^8E=2f)(^C2=0)(^CC^2BE)(^C8=0)(^D0^1AC)(^D1=8)(^C7=6a)(^C9=0)(^D2=1)]
+  [30(^9C^313)(^BF^314)(^88=1)(^8A=0)(^82^30D)(^85^A2)(^81^315)(^83^316)
+    (^C0^97)(^C1^317)(^86^318)(^89=1)(^95^121)(^87^319)(^8B=ef)(^9A^9C)
+    (^8E=30)(^C2=0)(^CC^2BE)(^C8=0)(^D0^1AC)(^D1=8)(^C7=6b)(^C9=0)(^D2=1)]
+  [31(^9C^31A)(^BF^31B)(^88=1)(^8A=0)(^82^31C)(^85^A2)(^81^31D)(^83^31E)
+    (^C0^97)(^C1^31F)(^86^320)(^89=1)(^95^121)(^87^321)(^8B=f1)(^9A^9C)
+    (^8E=31)(^C2=0)(^CC^3AC)(^C8=0)(^D0^1AC)(^D1=8)(^C7=6c)(^C9=0)(^D2=1)]
+  [32(^9C^323)(^BF^324)(^88=11)(^CE^325)(^8A=0)(^82^326)(^85^327)(^8C^2CF)
+    (^81^328)(^83^329)(^C0^97)(^84^32A)(^C1^32B)(^86^32C)(^89=1)(^95^121)
+    (^87^32D)(^8B=2a)(^9A^9C)(^8E=32)(^C2=0)(^CC^3AC)(^C8=0)(^D0^1AC)
+    (^D1=8)(^C7=6e)(^C9=0)(^D2=1)]
+  [33(^9C^32F)(^BF^330)(^88=1)(^CE^331)(^8A=0)(^82^332)(^85^327)(^8C^2CF)
+    (^81^333)(^83^334)(^C0^97)(^C1^335)(^86^336)(^89=1)(^95^121)(^87^337)
+    (^8B=54)(^9A^9C)(^8E=33)(^C2=0)(^CC^3AA)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=6f)(^C9=0)(^D2=1)]
+  [34(^9C^338)(^BF^339)(^88=11)(^CE^331)(^8A=0)(^82^332)(^85^327)(^8C^2CF)
+    (^81^333)(^83^33A)(^C0^97)(^84^33B)(^C1^335)(^86^336)(^89=1)(^95^121)
+    (^87^33C)(^8B=2a)(^9A=33)(^8E=33)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=70)(^C9=0)(^CC^3AA)(^D2=1)]
+  [35(^9C^33E)(^BF^33F)(^88=11)(^CE^340)(^8A=0)(^82^332)(^85^327)(^8C^2CF)
+    (^81^333)(^83^341)(^C0^97)(^84^33B)(^C1^342)(^86^343)(^89=1)(^95^121)
+    (^87^344)(^8B=2a)(^9A=33)(^8E=33)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=71)(^C9=0)(^D2=1)]
+  [36(^9C^345)(^BF^346)(^88=11)(^CE^347)(^8A=0)(^82^348)(^85^327)(^8C^349)
+    (^81^333)(^83^34A)(^C0^97)(^84^33B)(^C1^34B)(^86^34C)(^89=1)(^95^121)
+    (^87^34D)(^8B=46)(^9A=33)(^8E=33)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=72)(^C9=0)(^D2=1)]
+  [37(^9C^34E)(^BF^34F)(^88=11)(^CE^350)(^8A=0)(^82^2CE)(^85^351)(^8C^2B3)
+    (^81^352)(^83^353)(^C0^97)(^84^354)(^C1^355)(^86^356)(^89=1)(^95^121)
+    (^87^357)(^8B=30)(^9A^9C)(^8E=37)(^C2=0)(^CC^3AB)(^C8=0)(^D0^1AC)
+    (^D1=8)(^C7=74)(^C9=0)(^D2=1)]
+  [38(^9C^359)(^BF^35A)(^88=11)(^CE^35B)(^8A=0)(^82^2CE)(^85^351)(^8C^2B3)
+    (^81^35C)(^83^35D)(^C0^97)(^84^35E)(^C1^35F)(^86^360)(^89=1)(^95^121)
+    (^87^361)(^8B=30)(^9A^9C)(^8E=38)(^C2=0)(^CC^3AB)(^C8=0)(^D0^1AC)
+    (^D1=8)(^C7=76)(^C9=0)(^D2=1)]
+  [39(^9C^362)(^BF^363)(^88=11)(^CE^364)(^8A=0)(^82^2CE)(^85^351)(^8C^2B3)
+    (^81^35C)(^83^365)(^C0^97)(^84^35E)(^C1^366)(^86^367)(^89=1)(^95^121)
+    (^87^368)(^8B=2a)(^9A=38)(^8E=38)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=77)(^C9=0)(^D2=1)]
+  [3A(^9C^36A)(^BF^36B)(^88=1)(^CE^36C)(^8A=0)(^82^2CE)(^85^351)(^8C^2CF)
+    (^81^36D)(^83^36E)(^C0^97)(^C1^36F)(^86^370)(^89=1)(^95^121)(^87^371)
+    (^8B=54)(^9A^9C)(^8E=3a)(^C2=0)(^CC^3AB)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=78)(^C9=0)(^D2=1)]
+  [3B(^9C^373)(^BF^374)(^88=11)(^CE^375)(^8A=0)(^82^2CE)(^85^351)(^8C^2CF)
+    (^81^36D)(^83^376)(^C0^97)(^84^377)(^C1^378)(^86^379)(^89=1)(^95^121)
+    (^87^37A)(^8B=2a)(^9A=3a)(^8E=3a)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=79)(^C9=0)(^CC^3AB)(^D2=1)]
+  [3C(^9C^37C)(^BF^37D)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^37E)(^83^37F)
+    (^C0^97)(^84^380)(^C1^381)(^86^382)(^89=1)(^95^121)(^87^383)(^8B=57)
+    (^9A^9C)(^8E=3c)(^C2=0)(^CC^191)(^C8=0)(^D0^1AC)(^D1=8)(^C7=7b)
+    (^C9=0)]
+  [3D(^9C^384)(^BF^385)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^386)(^83^387)
+    (^C0^97)(^84^380)(^C1^388)(^86^389)(^89=1)(^95^121)(^87^38A)(^8B=60)
+    (^9A=3c)(^8E=3c)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C7=9a)(^C9=0)(^CC^191)]
+  [3E(^9C^38B)(^BF^38C)(^88=11)(^CE^38D)(^8A=0)(^82^2B1)(^85^351)(^8C^2B3)
+    (^81^38E)(^83^38F)(^C0^97)(^84^390)(^C1^391)(^86^392)(^89=1)(^95^121)
+    (^87^393)(^8B=30)(^9A^9C)(^8E=3e)(^C2=0)(^CC^2BE)(^C8=0)(^D0^1AC)
+    (^D1=8)(^C7=99)(^C9=0)(^D2=1)]
+  [3F(^9C^395)(^BF^396)(^88=11)(^CE^397)(^8A=0)(^82^2B1)(^85^351)(^8C^349)
+    (^81^38E)(^83^398)(^C0^97)(^84^390)(^C1^399)(^86^39A)(^89=1)(^95^121)
+    (^87^39B)(^8B=46)(^9A=3e)(^8E=3e)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=98)(^C9=0)(^CC^2BE)(^D2=1)]
+  [40(^9C^39D)(^BF^39E)(^88=11)(^CE^39F)(^8A=0)(^82^2B1)(^85^351)(^8C^2B3)
+    (^81^38E)(^83^3A0)(^C0^97)(^84^390)(^C1^3A1)(^86^3A2)(^89=1)(^95^121)
+    (^87^3A3)(^8B=2a)(^9A=3e)(^8E=3e)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=97)(^C9=0)(^CC^2BE)(^D2=1)]
+  [41(^9C^3A4)(^BF^3A5)(^88=11)(^CE^347)(^8A=0)(^82^326)(^85^327)(^8C^349)
+    (^81^333)(^83^3A6)(^C0^97)(^84^33B)(^C1^3A7)(^86^3A8)(^89=1)(^95^121)
+    (^87^3A9)(^8B=46)(^9A=33)(^8E=33)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=95)(^C9=0)(^CC^3AC)(^D2=1)]
+  [42(^9C^3AD)(^BF^3AE)(^88=11)(^CE^3AF)(^8A=0)(^82^2B1)(^85^3B0)(^8C^2CF)
+    (^81^3B1)(^83^3B2)(^C0^97)(^84^3B3)(^C1^3B4)(^86^3B5)(^89=1)(^95^121)
+    (^87^3B6)(^8B=2a)(^9A^9C)(^8E=42)(^C2=0)(^CC^2BE)(^C8=0)(^D0^1AC)
+    (^D1=8)(^C7=94)(^C9=0)(^D2=1)]
+  [43(^9C^3B7)(^BF^3B8)(^88=11)(^CE^3B9)(^8A=0)(^82^3BA)(^85^3B0)(^8C^2CF)
+    (^81^3B1)(^83^3BB)(^C0^97)(^84^3B3)(^C1^3BC)(^86^3BD)(^89=1)(^95^121)
+    (^87^3BE)(^8B=30)(^9A=42)(^8E=42)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=93)(^C9=0)(^CC^3D0)(^D2=1)]
+  [44(^9C^3BF)(^BF^3C0)(^88=11)(^CE^3C1)(^8A=0)(^82^3BA)(^85^3B0)(^8C^2CF)
+    (^81^3B1)(^83^3C2)(^C0^97)(^84^3B3)(^C1^3C3)(^86^3C4)(^89=1)(^95^121)
+    (^87^3C5)(^8B=2a)(^9A=42)(^8E=42)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=92)(^C9=0)(^CC^3D0)(^D2=1)]
+  [45(^9C^3C6)(^BF^3C7)(^88=11)(^CE^3C8)(^8A=0)(^82^3BA)(^85^3B0)(^8C^2CF)
+    (^81^3C9)(^83^3CA)(^C0^97)(^84^3CB)(^C1^3CC)(^86^3CD)(^89=1)(^95^121)
+    (^87^3CE)(^8B=2a)(^9A^9C)(^8E=45)(^C2=0)(^CC^3D0)(^C8=0)(^D0^1AC)
+    (^D1=8)(^C7=90)(^C9=0)(^D2=1)]
+  [46(^9C^3D1)(^BF^3D2)(^88=11)(^CE^3D3)(^8A=0)(^82^2B1)(^85^3B0)(^8C^2B3)
+    (^81^3D4)(^83^3D5)(^C0^97)(^84^3D6)(^C1^3D7)(^86^3D8)(^89=1)(^95^121)
+    (^87^3D9)(^8B=30)(^9A^9C)(^8E=46)(^C2=0)(^CC^2BE)(^C8=0)(^D0^1AC)
+    (^D1=8)(^C7=8f)(^C9=0)(^D2=1)]
+  [47(^9C^3DA)(^BF^3DB)(^88=11)(^CE^3DC)(^8A=0)(^82^2B1)(^85^3B0)(^8C^2CF)
+    (^81^3C9)(^83^3DD)(^C0^97)(^84^3CB)(^C1^3DE)(^86^3DF)(^89=1)(^95^121)
+    (^87^3E0)(^8B=30)(^9A=45)(^8E=45)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=8e)(^C9=0)(^CC^2BE)(^D2=1)]
+  [48(^9C^3E2)(^BF^3E3)(^88=11)(^CE^3E4)(^8A=0)(^82^2B1)(^85^3B0)(^8C^2CF)
+    (^81^3C9)(^83^3E5)(^C0^97)(^84^3CB)(^C1^3E6)(^86^3E7)(^89=1)(^95^121)
+    (^87^3E8)(^8B=2a)(^9A=45)(^8E=45)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=8d)(^C9=0)(^CC^2BE)(^D2=1)]
+  [49(^9C^3E9)(^BF^3EA)(^88=11)(^CE^3EB)(^8A=0)(^82^2B1)(^85^3B0)(^8C^349)
+    (^81^3D4)(^83^3EC)(^C0^97)(^84^3D6)(^C1^3ED)(^86^3EE)(^89=1)(^95^121)
+    (^87^3EF)(^8B=46)(^9A=46)(^8E=46)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=8b)(^C9=0)(^CC^2BE)(^D2=1)]
+  [4A(^9C^3F1)(^BF^3F2)(^88=11)(^CE^3F3)(^8A=0)(^82^2CE)(^85^3B0)(^8C^2B3)
+    (^81^3D4)(^83^3F4)(^C0^97)(^84^3D6)(^C1^3F5)(^86^3F6)(^89=1)(^95^121)
+    (^87^3F7)(^8B=30)(^9A=46)(^8E=46)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=8a)(^C9=0)(^D2=1)]
+  [4B(^9C^3F8)(^BF^3F9)(^88=11)(^CE^3FA)(^8A=0)(^82^2CE)(^85^3B0)(^8C^2B3)
+    (^81^3D4)(^83^3FB)(^C0^97)(^84^3D6)(^C1^3FC)(^86^3FD)(^89=1)(^95^121)
+    (^87^3FE)(^8B=2a)(^9A=46)(^8E=46)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=89)(^C9=0)(^D2=1)]
+  [4C(^9C^3FF)(^BF^400)(^88=11)(^CE^401)(^8A=0)(^82^2B1)(^85^3B0)(^8C^2B3)
+    (^81^3D4)(^83^402)(^C0^97)(^84^3D6)(^C1^403)(^86^404)(^89=1)(^95^121)
+    (^87^405)(^8B=30)(^9A=46)(^8E=46)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=88)(^C9=0)(^CC^2BE)]
+  [4D(^9C^406)(^BF^407)(^88=11)(^CE^408)(^8A=0)(^82^2B1)(^85^3B0)(^8C^2B3)
+    (^81^409)(^83^40A)(^C0^97)(^84^40B)(^C1^40C)(^86^40D)(^89=1)(^95^121)
+    (^87^40E)(^8B=30)(^9A^9C)(^8E=4d)(^C2=0)(^CC^2BE)(^C8=0)(^D0^1AC)
+    (^D1=8)(^C7=86)(^C9=0)(^D2=1)]
+  [4E(^9C^40F)(^BF^410)(^88=11)(^CE^411)(^8A=0)(^82^2B1)(^85^3B0)(^8C^2B3)
+    (^81^409)(^83^412)(^C0^97)(^84^40B)(^C1^413)(^86^414)(^89=1)(^95^121)
+    (^87^368)(^8B=2a)(^9A=4d)(^8E=4d)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=85)(^C9=0)(^CC^2BE)(^D2=1)]
+  [4F(^9C^416)(^BF^417)(^88=11)(^CE^418)(^8A=0)(^82^2B1)(^85^3B0)(^8C^2B3)
+    (^81^419)(^83^41A)(^C0^97)(^84^41B)(^C1^41C)(^86^41D)(^89=1)(^95^121)
+    (^87^41E)(^8B=30)(^9A^9C)(^8E=4f)(^C2=0)(^CC^2BE)(^C8=0)(^D0^1AC)
+    (^D1=8)(^C7=83)(^C9=0)(^D2=1)]
+  [50(^9C^41F)(^BF^420)(^88=11)(^CE^421)(^8A=0)(^82^2B1)(^85^3B0)(^8C^2B3)
+    (^81^419)(^83^422)(^C0^97)(^84^41B)(^C1^423)(^86^424)(^89=1)(^95^121)
+    (^87^425)(^8B=2a)(^9A=4f)(^8E=4f)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=82)(^C9=0)(^CC^2BE)(^D2=1)]
+  [51(^9C^427)(^BF^428)(^88=11)(^CE^429)(^8A=0)(^82^2B1)(^85^3B0)(^8C^2B3)
+    (^81^42A)(^83^42B)(^C0^97)(^84^42C)(^C1^42D)(^86^42E)(^89=1)(^95^121)
+    (^87^41E)(^8B=30)(^9A^9C)(^8E=51)(^C2=0)(^CC^2BE)(^C8=0)(^D0^1AC)
+    (^D1=8)(^C7=80)(^C9=0)(^D2=1)]
+  [52(^9C^42F)(^BF^430)(^88=11)(^CE^431)(^8A=0)(^82^2B1)(^85^3B0)(^8C^2B3)
+    (^81^42A)(^83^432)(^C0^97)(^84^42C)(^C1^433)(^86^434)(^89=1)(^95^121)
+    (^87^435)(^8B=2a)(^9A=51)(^8E=51)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=7f)(^C9=0)(^CC^2BE)(^D2=1)]
+  [53(^9C^437)(^BF^438)(^88=1)(^8A=0)(^82^11C)(^85^237)(^81^439)(^83^43A)
+    (^C0^97)(^84^23A)(^C1^43B)(^86^43C)(^89=1)(^95^121)(^87^43D)(^8B=c2)
+    (^9A=1d)(^8E=1d)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C7=7d)(^C9=0)(^CC^191)]
+  [54(^9C^43F)(^BF^440)(^88=1)(^8A=0)(^82^11C)(^85^237)(^81^238)(^83^441)
+    (^C0^97)(^84^23A)(^C1^442)(^86^443)(^89=1)(^95^121)(^87^444)(^8B=bc)
+    (^9A=1d)(^8E=1d)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C7=7c)(^C9=0)(^CC^191)]
+  [55(^9C^446)(^BF^474)(^88=1)(^8A=0)(^82^475)(^85^A2)(^81^476)(^83^477)
+    (^C0^97)(^C1^478)(^86^479)(^89=1)(^95^47A)(^87^47B)(^8B=24d)(^9A^9C)
+    (^8E=55)(^C2=0)(^CC^480)(^C8=0)(^D0^1AC)(^D1=16)(^C9=0)(^D2=1)(^C7=9b)]
+  [56(^9C^47E)(^BF^484)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^485)(^83^486)
+    (^C0^97)(^84^487)(^C1^488)(^86^489)(^89=1)(^95^121)(^87^48A)(^8B=59)
+    (^9A^9C)(^8E=56)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C6^585)(^C7=9d)
+    (^CC^191)(^C9=0)]
+  [57(^9C^48C)(^BF^48D)(^88=1)(^8A=0)(^82^30D)(^85^A2)(^81^48E)(^83^48F)
+    (^C0^97)(^C1^490)(^86^491)(^89=1)(^95^121)(^87^492)(^8B=f0)(^9A^9C)
+    (^8E=57)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C7=9e)(^CC^2BE)(^C9=0)(^D2=1)]
+  [58(^9C^493)(^BF^494)(^88=11)(^CE^495)(^8A=0)(^82^2B1)(^85^496)(^8C^2B3)
+    (^81^497)(^83^498)(^C0^97)(^84^499)(^C1^49A)(^86^49B)(^89=1)(^95^121)
+    (^87^49C)(^8B=30)(^9A^9C)(^8E=58)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=a0)(^CC^2BE)(^C9=0)(^D2=1)]
+  [59(^9C^49D)(^BF^49E)(^88=11)(^CE^49F)(^8A=0)(^82^2B1)(^85^496)(^8C^2B3)
+    (^81^497)(^83^4A0)(^C0^97)(^84^499)(^C1^4A1)(^86^4A2)(^89=1)(^95^121)
+    (^87^4A3)(^8B=2a)(^9A=58)(^8E=58)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=a1)(^CC^2BE)]
+  [5A(^9C^4A4)(^BF^4A5)(^88=11)(^CE^4A6)(^8A=0)(^82^2B1)(^85^496)(^8C^2CF)
+    (^81^4A7)(^83^4A8)(^C0^97)(^84^4A9)(^C1^4AA)(^86^4AB)(^89=1)(^95^121)
+    (^87^4AC)(^8B=2a)(^9A^9C)(^8E=5a)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=a3)(^CC^2BE)(^C9=0)(^D2=1)]
+  [5B(^9C^4AE)(^BF^4AF)(^88=11)(^CE^4B0)(^8A=0)(^82^2B1)(^85^496)(^8C^349)
+    (^81^4B1)(^83^4B2)(^C0^97)(^84^4B3)(^C1^4B4)(^86^4B5)(^89=1)(^95^121)
+    (^87^4B6)(^8B=46)(^9A^9C)(^8E=5b)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=a5)(^CC^2BE)(^C9=0)(^D2=1)]
+  [5C(^9C^4B7)(^BF^4B8)(^88=11)(^CE^4B9)(^8A=0)(^82^2B1)(^85^496)(^8C^2B3)
+    (^81^4B1)(^83^4BA)(^C0^97)(^84^4B3)(^C1^4BB)(^86^4BC)(^89=1)(^95^121)
+    (^87^4BD)(^8B=30)(^9A=5b)(^8E=5b)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=a6)(^CC^2BE)(^C9=0)(^D2=1)]
+  [5D(^9C^4BE)(^BF^4BF)(^88=11)(^CE^4C0)(^8A=0)(^82^3BA)(^85^496)(^8C^2B3)
+    (^81^4B1)(^83^4C1)(^C0^97)(^84^4B3)(^C1^4C2)(^86^4C3)(^89=1)(^95^121)
+    (^87^4C4)(^8B=30)(^9A=5b)(^8E=5b)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=a7)(^C9=0)(^D2=1)]
+  [5E(^9C^4C5)(^BF^4C6)(^88=11)(^CE^4C7)(^8A=0)(^82^3BA)(^85^496)(^8C^2B3)
+    (^81^4B1)(^83^4C8)(^C0^97)(^84^4B3)(^C1^4C9)(^86^4CA)(^89=1)(^95^121)
+    (^87^4CB)(^8B=2a)(^9A=5b)(^8E=5b)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=a8)(^CC^3D0)(^C9=0)]
+  [5F(^9C^4CD)(^BF^4CE)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^4CF)(^83^4D0)
+    (^C0^97)(^84^4D1)(^C1^4D2)(^86^4D3)(^89=1)(^95^121)(^87^4D4)(^8B=5d)
+    (^9A^9C)(^8E=5f)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C7=aa)(^CC^191)]
+  [60(^9C^4D5)(^BF^4D6)(^88=11)(^CE^4D7)(^8A=0)(^82^2B1)(^85^496)(^8C^2CF)
+    (^81^4D8)(^83^4D9)(^C0^97)(^84^4DA)(^C1^4DB)(^86^4DC)(^89=1)(^95^121)
+    (^87^4DD)(^8B=2a)(^9A=61)(^8E=60)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=ac)(^CC^2BE)(^C9=0)(^D2=1)]
+  [61(^9C^4DF)(^BF^4E0)(^88=1)(^CE^4E1)(^8A=0)(^82^2B1)(^85^496)(^8C^2CF)
+    (^81^4D8)(^83^4E2)(^C0^97)(^C1^4E3)(^86^4DC)(^89=1)(^95^121)(^87^4E4)
+    (^8B=7c)(^9A^9C)(^8E=60)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C7=ab)(^CC^2BE)
+    (^C9=0)(^D2=1)]
+  [62(^9C^4E6)(^BF^4E7)(^88=11)(^CE^4E8)(^8A=0)(^82^2B1)(^85^496)(^8C^2CF)
+    (^81^4D8)(^83^4E9)(^C0^97)(^84^4DA)(^C1^4EA)(^86^4EB)(^89=1)(^95^121)
+    (^87^4EC)(^8B=2a)(^9A=61)(^8E=60)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=ad)(^CC^2BE)]
+  [63(^9C^4EE)(^BF^4EF)(^88=11)(^CE^4F0)(^8A=0)(^82^2B1)(^85^496)(^8C^2CF)
+    (^81^4F1)(^83^4F2)(^C0^97)(^84^4F3)(^C1^4F4)(^86^4F5)(^89=1)(^95^121)
+    (^87^4F6)(^8B=2a)(^9A=64)(^8E=63)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=af)(^CC^2BE)(^C9=0)(^D2=1)]
+  [64(^9C^4F7)(^BF^4F8)(^88=1)(^CE^4F0)(^8A=0)(^82^2B1)(^85^496)(^8C^2CF)
+    (^81^4F1)(^83^4F9)(^C0^97)(^C1^4F4)(^86^4F5)(^89=1)(^95^121)(^87^4FA)
+    (^8B=a4)(^9A^9C)(^8E=63)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C7=ae)(^CC^2BE)
+    (^C9=0)(^D2=1)]
+  [65(^9C^4FC)(^BF^4FD)(^88=11)(^CE^4B0)(^8A=0)(^82^2B1)(^85^496)(^8C^349)
+    (^81^4F1)(^83^4FE)(^C0^97)(^84^4F3)(^C1^4FF)(^86^500)(^89=1)(^95^121)
+    (^87^501)(^8B=46)(^9A=64)(^8E=63)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=b0)(^C9=0)(^D2=1)]
+  [66(^9C^503)(^BF^504)(^88=11)(^CE^505)(^8A=0)(^82^3BA)(^85^496)(^8C^2CF)
+    (^81^4F1)(^83^506)(^C0^97)(^84^4F3)(^C1^507)(^86^508)(^89=1)(^95^121)
+    (^87^509)(^8B=30)(^9A=64)(^8E=63)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=b1)(^C9=0)(^D2=1)]
+  [67(^9C^50B)(^BF^50C)(^88=11)(^CE^50D)(^8A=0)(^82^3BA)(^85^496)(^8C^2CF)
+    (^81^4F1)(^83^50E)(^C0^97)(^84^4F3)(^C1^50F)(^86^510)(^89=1)(^95^121)
+    (^87^511)(^8B=2a)(^9A=64)(^8E=63)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=b2)(^CC^3D0)(^C9=0)]
+  [68(^9C^512)(^BF^513)(^88=1)(^CE^514)(^8A=0)(^82^515)(^85^94)(^81^516)
+    (^83^517)(^C0^97)(^C1^518)(^86^519)(^89=1)(^87^51A)(^8B=2bb)(^9A^9C)
+    (^8E=68)(^C2=0)(^C8=0)(^D0^1AC)(^D1=16)(^C7=b3)(^CC^5A4)(^C9=0)
+    (^D2=1)]
+  [69(^9C^51C)(^BF^51D)(^88=1)(^CE^51E)(^8A=0)(^82^515)(^85^94)(^81^51F)
+    (^83^520)(^C0^97)(^C1^521)(^86^522)(^89=1)(^87^523)(^8B=2b4)(^9A^9C)
+    (^8E=69)(^C2=0)(^C8=0)(^D0^1AC)(^D1=16)(^C7=b4)(^CC^5A4)(^C9=0)
+    (^D2=1)]
+  [6A(^9C^525)(^BF^526)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^527)(^83^528)
+    (^C0^97)(^C1^529)(^86^52A)(^89=1)(^95^121)(^87^52B)(^8B=f)(^9A^9C)
+    (^8E=6a)(^C2=0)(^C8=0)(^D0^1AC)(^D1=5)(^C7=c2)(^CC^21E)(^C9=0)]
+  [6B(^9C^52C)(^BF^52D)(^88=1)(^CE^52E)(^8A=0)(^82^515)(^85^94)(^81^52F)
+    (^83^530)(^C0^97)(^C1^531)(^86^532)(^89=1)(^87^533)(^8B=29a)(^9A^9C)
+    (^8E=6b)(^C2=0)(^C8=0)(^D0^1AC)(^D1=16)(^C7=c1)(^CC^5A4)]
+  [6C(^9C^535)(^BF^536)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^537)(^83^538)
+    (^C0^97)(^84^4D1)(^C1^539)(^86^53A)(^89=1)(^95^121)(^87^53B)(^8B=6f)
+    (^9A=5f)(^8E=5f)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C7=c0)]
+  [6D(^9C^53C)(^BF^53D)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^537)(^83^53E)
+    (^C0^97)(^84^4D1)(^C1^53F)(^86^540)(^89=1)(^95^121)(^87^541)(^8B=6f)
+    (^9A=5f)(^8E=5f)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C7=bf)]
+  [6E(^9C^543)(^BF^544)(^88=1)(^CE^545)(^8A=0)(^82^2CE)(^85^496)(^8C^2CF)
+    (^81^546)(^83^547)(^C0^97)(^C1^548)(^86^549)(^89=1)(^95^121)(^87^54A)
+    (^8B=62)(^9A^9C)(^8E=6e)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C7=bb)(^CC^3AB)
+    (^C9=0)]
+  [6F(^9C^54C)(^BF^54D)(^88=11)(^CE^545)(^8A=0)(^82^2CE)(^85^496)(^8C^2CF)
+    (^81^546)(^83^54E)(^C0^97)(^84^54F)(^C1^550)(^86^549)(^89=1)(^95^121)
+    (^87^551)(^8B=2a)(^9A=6e)(^8E=6e)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=be)(^C9=0)]
+  [70(^9C^552)(^BF^553)(^88=11)(^CE^554)(^8A=0)(^82^2B1)(^85^496)(^8C^2CF)
+    (^81^546)(^83^555)(^C0^97)(^84^54F)(^C1^556)(^86^557)(^89=1)(^95^121)
+    (^87^558)(^8B=30)(^9A=6e)(^8E=6e)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=bd)(^C9=0)]
+  [71(^9C^55A)(^BF^55B)(^88=11)(^CE^55C)(^8A=0)(^82^2B1)(^85^496)(^8C^2CF)
+    (^81^546)(^83^55D)(^C0^97)(^84^54F)(^C1^55E)(^86^55F)(^89=1)(^95^121)
+    (^87^53B)(^8B=2a)(^9A=6e)(^8E=6e)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=bc)(^C9=0)]
+  [72(^9C^560)(^BF^561)(^88=11)(^CE^562)(^8A=0)(^82^2B1)(^85^496)(^8C^2B3)
+    (^81^563)(^83^564)(^C0^97)(^84^565)(^C1^566)(^86^567)(^89=1)(^95^121)
+    (^87^568)(^8B=30)(^9A^9C)(^8E=72)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=ba)(^CC^2BE)]
+  [73(^9C^569)(^BF^56A)(^88=11)(^CE^56B)(^8A=0)(^82^2B1)(^85^496)(^8C^2B3)
+    (^81^563)(^83^56C)(^C0^97)(^84^565)(^C1^56D)(^86^56E)(^89=1)(^95^121)
+    (^87^56F)(^8B=2a)(^9A=72)(^8E=72)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=b9)]
+  [74(^9C^571)(^BF^572)(^88=11)(^CE^573)(^8A=0)(^82^2B1)(^85^496)(^8C^2B3)
+    (^81^574)(^83^575)(^C0^97)(^84^576)(^C1^577)(^86^578)(^89=1)(^95^121)
+    (^87^579)(^8B=30)(^9A^9C)(^8E=74)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=b7)(^CC^2BE)(^C9=0)(^D2=1)]
+  [75(^9C^57A)(^BF^57B)(^88=11)(^CE^57C)(^8A=0)(^82^2B1)(^85^496)(^8C^2B3)
+    (^81^574)(^83^57D)(^C0^97)(^84^576)(^C1^57E)(^86^57F)(^89=1)(^95^121)
+    (^87^580)(^8B=2a)(^9A=74)(^8E=74)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)
+    (^C7=b6)(^CC^2BE)(^C9=0)]
+  [76(^9C^583)(^BF^5F9)(^88=1)(^8A=0)(^82^22E)(^85^A2)(^81^A3)(^83^5FA)
+    (^C0^97)(^C1^5FB)(^86^5FC)(^89=1)(^87^5FD)(^8B=b)(^9A^9C)(^8E=76)
+    (^C2=0)(^CC^196)(^C8=0)(^D0^1AC)(^D1=5)(^C6=)(^C7=c3)(^C9=0)(^C9=0)]
+  [77(^9C^5FF)(^BF^608)(^88=11)(^8A=0)(^82^22E)(^85^182)(^81^A3)(^83^609)
+    (^C0^97)(^84^60A)(^C1^60B)(^86^60C)(^89=1)(^87^60D)(^8B=1d)(^9A^9C)
+    (^8E=77)(^C2=0)(^CC^196)(^C8=0)(^D0^1AC)(^D1=5)(^C6=)(^C7=c5)(^C9=0)]
+  [78(^9C^60F)(^BF^610)(^88=11)(^8A=0)(^82^22E)(^85^182)(^81^A3)(^83^611)
+    (^C0^97)(^84^612)(^C1^613)(^86^614)(^89=1)(^87^615)(^8B=29)(^9A=77)
+    (^8E=77)(^C2=0)(^C8=0)(^D0^1AC)(^D1=5)(^C7=c6)(^CC^196)(^C9=0)]
+  [79(^9C^616)(^BF^61B)(^88=1)(^CE^61C)(^8A=0)(^82^515)(^85^94)(^81^61D)
+    (^83^61E)(^C0^97)(^C1^61F)(^86^620)(^89=1)(^87^621)(^8B=24b)(^9A^9C)
+    (^8E=79)(^C2=0)(^CC^5A4)(^C8=0)(^D0^1AC)(^D1=16)(^C6=)(^C7=c7)(^C9=0)]
+  [7A(^9C^624)(^BF^625)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^626)(^83^627)
+    (^C0^97)(^84^628)(^C1^629)(^86^62A)(^89=1)(^95^121)(^87^62B)(^8B=59)
+    (^9A^9C)(^8E=7a)(^C2=0)(^CC^191)(^C8=0)(^D0^1AC)(^D1=8)(^C9=0)(^C7=c9)]
+  [7B(^9C^62D)(^BF^633)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^634)(^83^635)
+    (^C0^97)(^84^636)(^C1^637)(^86^638)(^89=1)(^95^121)(^87^639)(^8B=5b)
+    (^9A^9C)(^8E=7b)(^C2=0)(^C8=0)(^D0^1AC)(^D1=8)(^C6^63D)(^C7=cb)
+    (^CC^191)(^C9=0)]
+  [7C(^9C^63B)(^BF^640)(^88=1)(^CE^641)(^8A=0)(^82^515)(^85^94)(^81^642)
+    (^83^643)(^C0^97)(^C1^644)(^86^645)(^89=1)(^87^646)(^8B=273)(^9A^9C)
+    (^8E=7c)(^C2=0)(^CC^5A4)(^C8=0)(^D0^1AC)(^D1=5)(^C7=cc)(^C9=0)]
+  [7D(^9C^649)(^BF^64A)(^88^B4)(^8A=0)(^82^22E)(^85^182)(^81=)(^83^64B)
+    (^C0^97)(^C1^64C)(^86^64D)(^89=1)(^87^64F)(^8B^650)(^9A^9C)(^8E=7d)
+    (^C2=0)(^C8=0)(^D0^1AC)(^D1=16)(^C6=)(^CC^196)(^C9=0)(^C7=cd)]
+  [7E(^9C^652)(^BF^659)(^88=1)(^CE^65A)(^8A=0)(^82^65B)(^85^65C)(^8C^65D)
+    (^81^65E)(^83^65F)(^C0^97)(^C1^660)(^86^661)(^89=1)(^95^121)(^87^662)
+    (^8B=78)(^9A^9C)(^8E=7e)(^C2=0)(^CC^676)(^C8=0)(^D0^6B0)(^D1=8)
+    (^C7=ce)(^C9=0)]
+  [7F(^9C^665)(^BF^666)(^88=11)(^CE^667)(^8A=0)(^82^65B)(^85^65C)(^8C^65D)
+    (^81^65E)(^83^668)(^C0^97)(^84^669)(^C1^66A)(^86^66B)(^89=1)(^95^121)
+    (^87^66C)(^8B=40)(^9A=7e)(^8E=7e)(^C2=0)(^C8=0)(^D0^6B0)(^D1=8)
+    (^C7=cf)(^C9=0)]
+  [80(^9C^66D)(^BF^66E)(^88=1)(^CE^66F)(^8A=0)(^82^515)(^85^94)(^81^670)
+    (^83^671)(^C0^97)(^C1^672)(^86^673)(^89=1)(^87^674)(^8B=231)(^9A^9C)
+    (^8E=80)(^C2=0)(^CC^5A4)(^C8=0)(^D0^1AC)(^D1=16)(^C7=d0)(^C9=0)]
+  [81(^9C^677)(^BF^678)(^88^B4)(^8A=0)(^82^22E)(^85^182)(^81=)(^83^679)
+    (^C0^97)(^C1^67A)(^86^67B)(^89=1)(^87^67C)(^8B^67D)(^9A^9C)(^8E=81)
+    (^C2=0)(^CC^196)(^C8=0)(^D0^1AC)(^D1=16)(^C6=)(^C7=d1)(^C9=0)]
+  [82(^9C^680)(^BF^681)(^88=1)(^8A=0)(^82^682)(^85^A2)(^81^683)(^83^684)
+    (^C0^97)(^C1^685)(^86^686)(^89=1)(^87^687)(^8B=41)(^9A^9C)(^8E=82)
+    (^C2=0)(^CC^68A)(^C8=0)(^D0^1AC)(^D1=16)(^C9=0)(^D2=1)(^C7=d2)]
+  [83(^9C^688)(^BF^692)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^693)(^83^694)
+    (^C0^97)(^84^695)(^C1^696)(^86^697)(^89=1)(^95^121)(^87^698)(^8B=5a)
+    (^9A^9C)(^8E=83)(^C2=0)(^CC^191)(^C8=0)(^D0^1AC)(^D1=8)(^C6^69C)
+    (^C9=0)(^C7=d4)]
+  [84(^9C^69A)(^BF^69F)(^88=1)(^8A=0)(^82^6A0)(^85^6A1)(^81=)(^83^6A2)
+    (^C0^97)(^C1^6A3)(^86^6A4)(^89=1)(^87^6A5)(^8B=14)(^9A^9C)(^8E=84)
+    (^C2=0)(^C8=0)(^D0^1AC)(^D1=16)(^C7=d5)(^CC^676)(^C9=0)]
+  [85(^9C^6A8)(^BF^6B9)(^88=1)(^CE^6BA)(^8A=0)(^82^515)(^85^94)(^81^6BB)
+    (^83^6BC)(^C0^97)(^C1^6BD)(^86^6BE)(^89=1)(^87^6BF)(^8B=20c)(^9A^9C)
+    (^8E=85)(^C2=0)(^CC^5A4)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C7=d6)(^C9=0)]
+  [86(^9C^6C2)(^BF^6C3)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^6C4)(^83^6C5)
+    (^C0^97)(^84^6C6)(^C1^6C7)(^86^6C8)(^89=1)(^95^121)(^87^6C9)(^8B=59)
+    (^9A^9C)(^8E=86)(^C2=0)(^CC^191)(^C8=0)(^D0^1AC)(^D1=0)(^C7=d8)
+    (^C9=0)]
+  [87(^9C^6CA)(^BF^6CB)(^88=1)(^8A=0)(^82^475)(^85^A2)(^81^6CC)(^83^6CD)
+    (^C0^97)(^C1^6CE)(^86^6CF)(^89=1)(^95^6D0)(^87^6D1)(^8B=c4)(^9A^9C)
+    (^8E=87)(^C2=0)(^CC^480)(^C8=0)(^D0^1AC)(^D1=0)(^C7=d9)(^C9=0)]
+  [88(^9C^6D4)(^BF^6D5)(^88=1)(^8A=0)(^82^475)(^85^A2)(^81^6D6)(^83^6D7)
+    (^C0^97)(^C1^6D8)(^86^6D9)(^89=1)(^95^6DA)(^87^6DB)(^8B=f)(^9A^9C)
+    (^8E=88)(^C2=0)(^CC^480)(^C8=0)(^D0^1AC)(^D1=0)(^C7=da)(^C9=0)]
+  [89(^9C^6DC)(^BF^6DD)(^88=1)(^8A=0)(^82^475)(^85^A2)(^81^6DE)(^83^6DF)
+    (^C0^97)(^C1^6E0)(^86^6E1)(^89=1)(^95^47A)(^87^6E2)(^8B=251)(^9A^9C)
+    (^8E=89)(^C2=0)(^CC^480)(^C8=0)(^D0^1AC)(^D1=0)(^C7=db)(^C9=0)]
+  [8A(^9C^6E4)(^BF^6E5)(^88=1)(^8A=0)(^82^6E6)(^85^A2)(^81^6E7)(^83^6E8)
+    (^C0^97)(^C1^6E9)(^86^6EA)(^89=1)(^95^47A)(^87^6EB)(^8B=188)(^9A^9C)
+    (^8E=8a)(^C2=0)(^CC^6ED)(^C8=0)(^D0^1AC)(^D1=0)(^C7=dc)(^C9=0)]
+  [8B(^9C^6EE)(^BF^6EF)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^6F0)(^83^6F1)
+    (^C0^97)(^84^6F2)(^C1^6F3)(^86^6F4)(^89=1)(^95^121)(^87^383)(^8B=59)
+    (^9A^9C)(^8E=8b)(^C2=0)(^CC^191)(^C8=0)(^D0^1AC)(^D1=0)(^C7=de)
+    (^C9=0)]
+  [8C(^9C^6F5)(^BF^6F6)(^88=1)(^8A=0)(^82^22E)(^85^182)(^81^6F7)(^83^6F8)
+    (^C0^97)(^C1^6F9)(^86^6FA)(^89=1)(^87^6FB)(^8B=4f)(^9A^9C)(^8E=8c)
+    (^C2=0)(^CC^196)(^C8=0)(^D0^1AC)(^D1=0)(^C9=0)(^C7=df)]
+  [8D(^9C^6FD)(^BF^708)(^88=1)(^CE^709)(^8A=0)(^82^515)(^85^94)(^81^70A)
+    (^83^70B)(^C0^97)(^C1^70C)(^86^70D)(^89=1)(^87^70E)(^8B=2a9)(^9A^9C)
+    (^8E=8d)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C7=e0)(^CC^5A4)(^C9=0)]
+  [8E(^9C^710)(^BF^729)(^88=1)(^8A=0)(^82^682)(^85^A2)(^81^72A)(^83^72B)
+    (^C0^97)(^C1^72C)(^86^72D)(^89=1)(^87^72E)(^8B=41)(^9A^9C)(^8E=8e)
+    (^C2=0)(^CC^68A)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C9=0)(^D2=1)(^C7=e1)]
+  [8F(^9C^730)(^BF^731)(^88=1)(^8A=0)(^82^682)(^85^A2)(^81^732)(^83^733)
+    (^C0^97)(^C1^734)(^86^735)(^89=1)(^87^736)(^8B=41)(^9A^9C)(^8E=8f)
+    (^C2=0)(^CC^68A)(^C8=0)(^D0^1AC)(^D1=0)(^C9=0)(^D2=1)(^C7=e2)]
+  [90(^9C^737)(^BF^738)(^88=1)(^8A=0)(^82^682)(^85^A2)(^81^72A)(^83^739)
+    (^C0^97)(^C1^73A)(^86^73B)(^89=1)(^87^73C)(^8B=41)(^9A^9C)(^8E=90)
+    (^C2=0)(^CC^68A)(^C8=0)(^D0^1AC)(^D1=0)(^C9=0)(^D2=1)(^C7=e3)]
+  [91(^9C^73D)(^BF^73E)(^88=1)(^8A=0)(^82^682)(^85^A2)(^81^73F)(^83^740)
+    (^C0^97)(^C1^741)(^86^742)(^89=1)(^87^736)(^8B=41)(^9A^9C)(^8E=91)
+    (^C2=0)(^CC^68A)(^C8=0)(^D0^1AC)(^D1=0)(^C9=0)(^D2=1)(^C7=e4)]
+  [92(^9C^744)(^BF^74F)(^88=1)(^CE^750)(^8A=0)(^82^515)(^85^94)(^81^751)
+    (^83^752)(^C0^97)(^C1^753)(^86^754)(^89=1)(^87^755)(^8B=2d3)(^9A^9C)
+    (^8E=92)(^C2=0)(^CC^5A4)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C7=e5)(^C9=0)]
+  [93(^9C^758)(^BF^75D)(^88=1)(^CE^75E)(^8A=0)(^82^515)(^85^94)(^81^75F)
+    (^83^760)(^C0^97)(^C1^761)(^86^762)(^89=1)(^87^763)(^8B=22c)(^9A^9C)
+    (^8E=93)(^C2=0)(^CC^5A4)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C9=0)(^C7=e6)]
+  [94(^9C^766)(^BF^767)(^88=1)(^8A=0)(^82^768)(^85^A2)(^81^769)(^83^76A)
+    (^C0^97)(^C1^76B)(^86^76C)(^89=1)(^87^76D)(^8B=41)(^9A^9C)(^8E=94)
+    (^C2=0)(^CC^770)(^C8=0)(^D0^1AC)(^D1=0)(^C9=0)(^D2=1)(^C7=e7)]
+  [95(^9C^76E)(^BF^771)(^88=1)(^CE^75E)(^8A=0)(^82^515)(^85^94)(^81^75F)
+    (^83^760)(^C0^97)(^C1^761)(^86^762)(^89=1)(^87^763)(^8B=22c)(^9A^9C)
+    (^8E=95)(^C2=0)(^CC^5A4)(^C8=0)(^D0^1AC)(^D1=0)(^C7=e8)(^C9=0)]
+  [96(^9C^772)(^BF^773)(^88=1)(^8A=0)(^82^768)(^85^A2)(^81^769)(^83^76A)
+    (^C0^97)(^C1^76B)(^86^76C)(^89=1)(^87^76D)(^8B=41)(^9A^9C)(^8E=96)
+    (^C2=0)(^CC^770)(^C8=0)(^D0^1AC)(^D1=0)(^C9=0)(^D2=1)(^C7=e9)]
+  [97(^9C^775)(^BF^77E)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^77F)(^83^780)
+    (^C0^97)(^84^781)(^C1^782)(^86^783)(^89=1)(^95^121)(^87^784)(^8B=5d)
+    (^9A^9C)(^8E=97)(^C2=0)(^CC^191)(^C8=0)(^D0^1AC)(^D1=0)(^C7=eb)
+    (^C9=0)]
+  [98(^9C^786)(^BF^78B)(^88=1)(^CE^78C)(^8A=0)(^82^515)(^85^94)(^81^78D)
+    (^83^78E)(^C0^97)(^C1^78F)(^86^790)(^89=1)(^87^791)(^8B=289)(^9A^9C)
+    (^8E=98)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^CC^5A4)(^C7=ec)(^C9=0)]
+  [99(^9C^794)(^BF^798)(^88=1)(^CE^799)(^8A=0)(^82^515)(^85^94)(^81^79A)
+    (^83^79B)(^C0^97)(^C1^79C)(^86^79D)(^89=1)(^87^79E)(^8B=290)(^9A^9C)
+    (^8E=99)(^C2=0)(^CC^5A4)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C9=0)(^D2=1)
+    (^C7=ed)]
+  [9A(^9C^7A1)(^BF^7A2)(^88=1)(^8A=0)(^82^7A3)(^85^A2)(^81^7A4)(^83^7A5)
+    (^C0^97)(^C1^7A6)(^86^7A7)(^89=1)(^87^7A8)(^8B=4df)(^9A^9C)(^8E=9a)
+    (^C2=0)(^CC^7AC)(^C8=0)(^D0^1AC)(^D1=0)(^C9=0)(^D2=1)(^C7=ee)]
+  [9B(^9C^7AA)(^BF^7B2)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^7B3)(^83^7B4)
+    (^C0^97)(^84^7B5)(^C1^7B6)(^86^7B7)(^89=1)(^95^121)(^87^7B8)(^8B=51)
+    (^9A^9C)(^8E=9b)(^C2=0)(^CC^191)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C9=0)
+    (^C7=f0)]
+  [9C(^9C^7BA)(^BF^7C1)(^88=1)(^8A=0)(^82^7C2)(^85^A2)(^81^7C3)(^83^7C4)
+    (^C0^97)(^C1^7C5)(^86^7C6)(^89=1)(^87^7C7)(^8B=41)(^9A^9C)(^8E=9c)
+    (^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^CC^7CC)(^C9=0)(^D2=1)(^C7=f1)]
+  [9D(^9C^7CA)(^BF^7CF)(^88=1)(^8A=0)(^82^7C2)(^85^A2)(^81^7D0)(^83^7D1)
+    (^C0^97)(^C1^7D2)(^86^7D3)(^89=1)(^87^7D4)(^8B=41)(^9A^9C)(^8E=9d)
+    (^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^CC^7CC)(^C9=0)(^D2=1)(^C7=f2)]
+  [9E(^9C^7D6)(^BF^7DA)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^7DB)(^83^7DC)
+    (^C0^97)(^84^7DD)(^C1^7DE)(^86^7DF)(^89=1)(^95^121)(^87^7E0)(^8B=53)
+    (^9A^9C)(^8E=9e)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^CC^191)(^C9=0)
+    (^C7=f4)]
+  [9F(^9C^7E2)(^BF^7E3)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^81^7E4)(^83^7E5)
+    (^C0^97)(^84^7DD)(^C1^7E6)(^86^7E7)(^89=1)(^95^121)(^87^7E8)(^8B=5c)
+    (^9A=9e)(^8E=9e)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^CC^191)(^C9=0)(^C7=f5)]
+  [A0(^9C^7EA)(^BF^7F3)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^8C^7F4)(^81^7F5)
+    (^83^7F6)(^C0^97)(^84^7F7)(^C1^7F8)(^86^7F9)(^89=1)(^95^121)(^87^7FA)
+    (^8B=4e)(^9A^9C)(^8E=a0)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C7=f7)
+    (^CC^191)(^C9=0)]
+  [A1(^9C^7FD)(^BF^7FE)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^8C^7F4)(^81^7FF)
+    (^83^800)(^C0^97)(^84^7F7)(^C1^801)(^86^802)(^89=1)(^95^121)(^87^803)
+    (^8B=57)(^9A=a0)(^8E=a0)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C7=f8)(^CC^191)
+    (^C9=0)]
+  [A2(^9C^804)(^BF^812)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^8C^7F4)(^81^813)
+    (^83^814)(^C0^97)(^84^815)(^C1^816)(^86^817)(^89=1)(^95^121)(^87^818)
+    (^8B=53)(^9A^9C)(^8E=a2)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C7=fa)
+    (^CC^191)(^C9=0)]
+  [A3(^9C^81B)(^BF^81C)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^8C^7F4)(^81^81D)
+    (^83^81E)(^C0^97)(^84^815)(^C1^81F)(^86^820)(^89=1)(^95^121)(^87^821)
+    (^8B=5c)(^9A=a2)(^8E=a2)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C7=fb)(^C9=0)
+    (^CC^191)]
+  [A4(^9C^822)(^BF^829)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^8C^7F4)(^81^82A)
+    (^83^82B)(^C0^97)(^84^82C)(^C1^82D)(^86^82E)(^89=1)(^95^121)(^87^82F)
+    (^8B=4d)(^9A^9C)(^8E=a4)(^C2=0)(^CC^191)(^C8=0)(^D0^1AC)(^D1=0)
+    (^C6=)(^C7=fd)(^C9=0)]
+  [A5(^9C^831)(^BF^832)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^8C^7F4)(^81^833)
+    (^83^834)(^C0^97)(^84^82C)(^C1^835)(^86^836)(^89=1)(^95^121)(^87^837)
+    (^8B=56)(^9A=a4)(^8E=a4)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C7=fe)(^C9=0)
+    (^CC^191)]
+  [A6(^9C^838)(^BF^839)(^88=1)(^8A=0)(^82^83A)
+    (^85
+    =rofiqul.islam@bjitacademy.com, khondaker.reza@bjitacademy.com, minhazul.i\
+slam@bjitacademy.com, farhan.alam@bjitacademy.com, golam.mohabbat@bjitacademy.\
+com, sadia.afrose@bjitacademy.com, shadat.hosain@bjitacademy.com, fairuz.tanzi\
+m@bjitacademy.com, hasib.zadid@bjitacademy.com, toasin.habib@bjitacademy.com, \
+sakibul.utchas@bjitacademy.com, saruar.jahan@bjitacademy.com, tanjila.nur@bjit\
+academy.com, kazi.omar.faruk@bjitacademy.com, shafiul.alam@bjitacademy.com, sa\
+ifur.rahman@bjitacademy.com, rezaul.haque@bjitacademy.com, asif.nawaz@bjitacad\
+emy.com, salauddin.akash@bjitacademy.com, shahnewaz.mahmud@bjitacademy.com, ye\
+asir.arefin@bjitacademy.com, ashikur.rahman@bjitacademy.com, ruhul.roktim@bjit\
+academy.com, faiaz.rahman@bjitacademy.com, sazzad.rony@bjitacademy.com, shifat\
+.laskor@bjitacademy.com, absar.rahman@bjitacademy.com, fahim.abir@bjitacademy.\
+com, sm.jabbaruzzaman@bjitacademy.com, farjana.airin@bjitacademy.com, moinul.m\
+orshed@bjitacademy.com, asraful.alam@bjitacademy.com, fazle.rabbi@bjitacademy.\
+com, sheikh.mustafizur.rahman@bjitacademy.com, raian.faiz@bjitacademy.com, sam\
+iun.rahman@bjitacademy.com, minhaz.ahmed@bjitacademy.com, tamanna.afrose@bjita\
+cademy.com, mdnur.uddin@bjitacademy.com, joynul.abedin@bjitacademy.com, anoup.\
+ghosh@bjitacademy.com, sadman.abir@bjitacademy.com, hasan.shajib@bjitacademy.c\
+om, masrur.arefin@bjitacademy.com, syed.abdullah@bjitacademy.com, saiful.islam\
+@bjitacademy.com, arnab.shanta@bjitacademy.com, kamrul.hasan@bjitacademy.com, \
+ihsan.alaqib@bjitacademy.com, sadab.mostafa@bjitacademy.com, mahidun.nabi@bjit\
+group.com, naomi.nitee@bjitgroup.com, syedur.rahaman@bjitgroup.com)
+    (^8C^83B)(^81^83C)(^83^83D)(^C0^97)(^C1^83E)(^86^83F)(^89=1)(^87^840)
+    (^8B=41)(^9A^9C)(^8E=a6)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^CC^843)
+    (^C9=0)(^C7=ff)]
+  [A7(^9C^841)(^BF^848)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^8C^7F4)(^81^849)
+    (^83^84A)(^C0^97)(^84^84B)(^C1^84C)(^86^84D)(^89=1)(^95^121)(^87^84E)
+    (^8B=4d)(^9A^9C)(^8E=a7)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^CC^191)
+    (^C9=0)(^C7=101)]
+  [A8(^9C^850)(^BF^851)(^88=1)(^8A=0)(^82^11C)(^85^A2)(^8C^7F4)(^81^852)
+    (^83^853)(^C0^97)(^84^84B)(^C1^854)(^86^855)(^89=1)(^95^121)(^87^856)
+    (^8B=56)(^9A=a7)(^8E=a7)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^CC^191)
+    (^C7=102)(^C9=0)]
+  [A9(^9C^857)(^BF^85D)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^527)(^83^85E)
+    (^C0^97)(^C1^85F)(^86^860)(^89=1)(^95^121)(^87^861)(^8B=f)(^9A^9C)
+    (^8E=a9)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6^86D)(^CC^21E)(^C7=103)
+    (^C9=0)]
+  [AA(^9C^864)(^BF^865)(^88=11)(^8A=0)(^82^83A)
+    (^85
+    =BD_All <bd_all@bjitgroup.com>, rofiqul.islam@bjitacademy.com, khondaker.r\
+eza@bjitacademy.com, minhazul.islam@bjitacademy.com, farhan.alam@bjitacademy.c\
+om, golam.mohabbat@bjitacademy.com, sadia.afrose@bjitacademy.com, shadat.hosai\
+n@bjitacademy.com, fairuz.tanzim@bjitacademy.com, hasib.zadid@bjitacademy.com,\
+ toasin.habib@bjitacademy.com, sakibul.utchas@bjitacademy.com, saruar.jahan@bj\
+itacademy.com, tanjila.nur@bjitacademy.com, kazi.omar.faruk@bjitacademy.com, s\
+hafiul.alam@bjitacademy.com, saifur.rahman@bjitacademy.com, rezaul.haque@bjita\
+cademy.com, asif.nawaz@bjitacademy.com, salauddin.akash@bjitacademy.com, shahn\
+ewaz.mahmud@bjitacademy.com, yeasir.arefin@bjitacademy.com, ashikur.rahman@bji\
+tacademy.com, ruhul.roktim@bjitacademy.com, faiaz.rahman@bjitacademy.com, sazz\
+ad.rony@bjitacademy.com, shifat.laskor@bjitacademy.com, absar.rahman@bjitacade\
+my.com, fahim.abir@bjitacademy.com, sm.jabbaruzzaman@bjitacademy.com, farjana.\
+airin@bjitacademy.com, moinul.morshed@bjitacademy.com, asraful.alam@bjitacadem\
+y.com, fazle.rabbi@bjitacademy.com, sheikh.mustafizur.rahman@bjitacademy.com, \
+raian.faiz@bjitacademy.com, samiun.rahman@bjitacademy.com, minhaz.ahmed@bjitac\
+ademy.com, tamanna.afrose@bjitacademy.com, mdnur.uddin@bjitacademy.com, joynul\
+.abedin@bjitacademy.com, anoup.ghosh@bjitacademy.com, sadman.abir@bjitacademy.\
+com, hasan.shajib@bjitacademy.com, masrur.arefin@bjitacademy.com, syed.abdulla\
+h@bjitacademy.com, saiful.islam@bjitacademy.com, arnab.shanta@bjitacademy.com,\
+ kamrul.hasan@bjitacademy.com, ihsan.alaqib@bjitacademy.com, sadab.mostafa@bji\
+tacademy.com, mahidun.nabi@bjitgroup.com, naomi.nitee@bjitgroup.com, syedur.ra\
+haman@bjitgroup.com)(^81^83C)(^83^866)(^C0^97)(^84^867)(^C1^868)(^86^869)
+    (^89=1)(^87^86A)(^8B=74)(^9A^9C)(^8E=aa)(^C2=0)(^C8=0)(^D0^1AC)
+    (^D1=0)(^C7=105)(^CC^843)(^C9=0)]
+  [AB(^9C^86B)(^BF^873)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^874)(^83^875)
+    (^C0^97)(^C1^876)(^86^877)(^89=1)(^95^121)(^87^878)(^8B=e)(^9A^9C)
+    (^8E=ab)(^C2=0)(^CC^21E)(^C8=0)(^D0^1AC)(^D1=0)(^C6^87D)(^C7=106)
+    (^C9=0)]
+  [AC(^9C^87B)(^BF^87F)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^880)(^83^881)
+    (^C0^97)(^C1^882)(^86^883)(^89=1)(^95^121)(^87^884)(^8B=b)(^9A^9C)
+    (^8E=ac)(^C2=0)(^CC^21E)(^C8=0)(^D0^1AC)(^D1=0)(^C6^888)(^C7=107)
+    (^C9=0)]
+  [AD(^9C^885)(^BF^88B)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^880)(^83^88C)
+    (^C0^97)(^C1^88D)(^86^88E)(^89=1)(^95^121)(^87^88F)(^8B=b)(^9A^9C)
+    (^8E=ad)(^C2=0)(^CC^21E)(^C8=0)(^D0^1AC)(^D1=0)(^C6^89A)(^C7=108)
+    (^C9=0)]
+  [AE(^9C^891)(^BF^892)(^88=11)(^8A=0)(^82^83A)
+    (^85
+    =BD_All <bd_all@bjitgroup.com>, rofiqul.islam@bjitacademy.com, khondaker.r\
+eza@bjitacademy.com, minhazul.islam@bjitacademy.com, farhan.alam@bjitacademy.c\
+om, golam.mohabbat@bjitacademy.com, sadia.afrose@bjitacademy.com, shadat.hosai\
+n@bjitacademy.com, fairuz.tanzim@bjitacademy.com, hasib.zadid@bjitacademy.com,\
+ toasin.habib@bjitacademy.com, sakibul.utchas@bjitacademy.com, saruar.jahan@bj\
+itacademy.com, tanjila.nur@bjitacademy.com, kazi.omar.faruk@bjitacademy.com, s\
+hafiul.alam@bjitacademy.com, saifur.rahman@bjitacademy.com, rezaul.haque@bjita\
+cademy.com, asif.nawaz@bjitacademy.com, salauddin.akash@bjitacademy.com, shahn\
+ewaz.mahmud@bjitacademy.com, yeasir.arefin@bjitacademy.com, ashikur.rahman@bji\
+tacademy.com, ruhul.roktim@bjitacademy.com, faiaz.rahman@bjitacademy.com, sazz\
+ad.rony@bjitacademy.com, shifat.laskor@bjitacademy.com, absar.rahman@bjitacade\
+my.com, fahim.abir@bjitacademy.com, sm.jabbaruzzaman@bjitacademy.com, farjana.\
+airin@bjitacademy.com, moinul.morshed@bjitacademy.com, asraful.alam@bjitacadem\
+y.com, fazle.rabbi@bjitacademy.com, sheikh.mustafizur.rahman@bjitacademy.com, \
+raian.faiz@bjitacademy.com, samiun.rahman@bjitacademy.com, minhaz.ahmed@bjitac\
+ademy.com, tamanna.afrose@bjitacademy.com, mdnur.uddin@bjitacademy.com, joynul\
+.abedin@bjitacademy.com, anoup.ghosh@bjitacademy.com, sadman.abir@bjitacademy.\
+com, hasan.shajib@bjitacademy.com, masrur.arefin@bjitacademy.com, syed.abdulla\
+h@bjitacademy.com, saiful.islam@bjitacademy.com, arnab.shanta@bjitacademy.com,\
+ kamrul.hasan@bjitacademy.com, ihsan.alaqib@bjitacademy.com, sadab.mostafa@bji\
+tacademy.com, syedur.rahaman@bjitgroup.com)(^81^83C)(^83^893)(^C0^97)
+    (^84^894)(^C1^895)(^86^896)(^89=1)(^87^897)(^8B=ad)(^9A=aa)(^8E=aa)
+    (^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C7=109)(^C9=0)]
+  [AF(^9C^898)(^BF^89F)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^8A0)(^83^8A1)
+    (^C0^97)(^C1^8A2)(^86^8A3)(^89=1)(^95^121)(^87=ff3)(^8B=9)(^9A^9C)
+    (^8E=af)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6^8A8)(^C7=10a)(^CC^21E)
+    (^C9=0)]B0 
+  [B1(^9C^8B4)(^BF^8B5)(^88=1)(^8A=0)(^82^83A)
+    (^85
+    =BD_All <bd_all@bjitgroup.com>, rofiqul.islam@bjitacademy.com, khondaker.r\
+eza@bjitacademy.com, minhazul.islam@bjitacademy.com, farhan.alam@bjitacademy.c\
+om, golam.mohabbat@bjitacademy.com, sadia.afrose@bjitacademy.com, shadat.hosai\
+n@bjitacademy.com, fairuz.tanzim@bjitacademy.com, hasib.zadid@bjitacademy.com,\
+ toasin.habib@bjitacademy.com, sakibul.utchas@bjitacademy.com, saruar.jahan@bj\
+itacademy.com, tanjila.nur@bjitacademy.com, kazi.omar.faruk@bjitacademy.com, s\
+hafiul.alam@bjitacademy.com, saifur.rahman@bjitacademy.com, rezaul.haque@bjita\
+cademy.com, asif.nawaz@bjitacademy.com, salauddin.akash@bjitacademy.com, shahn\
+ewaz.mahmud@bjitacademy.com, yeasir.arefin@bjitacademy.com, ashikur.rahman@bji\
+tacademy.com, ruhul.roktim@bjitacademy.com, faiaz.rahman@bjitacademy.com, sazz\
+ad.rony@bjitacademy.com, shifat.laskor@bjitacademy.com, absar.rahman@bjitacade\
+my.com, fahim.abir@bjitacademy.com, sm.jabbaruzzaman@bjitacademy.com, farjana.\
+airin@bjitacademy.com, moinul.morshed@bjitacademy.com, asraful.alam@bjitacadem\
+y.com, fazle.rabbi@bjitacademy.com, sheikh.mustafizur.rahman@bjitacademy.com, \
+raian.faiz@bjitacademy.com, samiun.rahman@bjitacademy.com, minhaz.ahmed@bjitac\
+ademy.com, tamanna.afrose@bjitacademy.com, mdnur.uddin@bjitacademy.com, joynul\
+.abedin@bjitacademy.com, anoup.ghosh@bjitacademy.com, sadman.abir@bjitacademy.\
+com, hasan.shajib@bjitacademy.com, masrur.arefin@bjitacademy.com, syed.abdulla\
+h@bjitacademy.com, saiful.islam@bjitacademy.com, arnab.shanta@bjitacademy.com,\
+ kamrul.hasan@bjitacademy.com, ihsan.alaqib@bjitacademy.com, sadab.mostafa@bji\
+tacademy.com, syedur.rahaman@bjitgroup.com)(^81^8B6)(^83^8B7)(^C0^97)
+    (^C1^8B8)(^86^8B9)(^89=1)(^87^8BA)(^8B=5c)(^9A^9C)(^8E=b1)(^C2=0)
+    (^C8=0)(^D0^1AC)(^D1=0)(^C7=10d)(^CC^843)(^C9=0)]
+  [B2(^9C^8BB)(^BF^8BC)(^88=1)(^8A=0)(^82^8BD)(^85^A2)(^81^8BE)(^83^8BF)
+    (^C0^97)(^C1^8C0)(^86^8C1)(^89=1)(^95^121)(^87^8C2)(^8B=ef)(^9A^9C)
+    (^8E=b2)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C7=10e)(^CC^8C9)(^C9=0)
+    (^D2=1)]
+  [B3(^9C^8C3)(^BF^8CE)(^88=1)(^8A=0)(^82^22E)(^85^182)(^81=)(^83^8CF)
+    (^C0^97)(^C1^8D0)(^86^8D1)(^89=1)(^87^8D2)(^8B=b)(^9A^9C)(^8E=b3)
+    (^C2=0)(^CC^196)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C7=10f)(^C9=0)]
+  [B4(^9C^8D4)(^BF^8D9)(^88^B4)(^8A=0)(^82^83A)
+    (^85
+    =BD_All <bd_all@bjitgroup.com>, rofiqul.islam@bjitacademy.com, khondaker.r\
+eza@bjitacademy.com, minhazul.islam@bjitacademy.com, farhan.alam@bjitacademy.c\
+om, golam.mohabbat@bjitacademy.com, sadia.afrose@bjitacademy.com, shadat.hosai\
+n@bjitacademy.com, fairuz.tanzim@bjitacademy.com, hasib.zadid@bjitacademy.com,\
+ toasin.habib@bjitacademy.com, sakibul.utchas@bjitacademy.com, saruar.jahan@bj\
+itacademy.com, tanjila.nur@bjitacademy.com, kazi.omar.faruk@bjitacademy.com, s\
+hafiul.alam@bjitacademy.com, saifur.rahman@bjitacademy.com, rezaul.haque@bjita\
+cademy.com, asif.nawaz@bjitacademy.com, salauddin.akash@bjitacademy.com, shahn\
+ewaz.mahmud@bjitacademy.com, yeasir.arefin@bjitacademy.com, ashikur.rahman@bji\
+tacademy.com, ruhul.roktim@bjitacademy.com, faiaz.rahman@bjitacademy.com, sazz\
+ad.rony@bjitacademy.com, shifat.laskor@bjitacademy.com, absar.rahman@bjitacade\
+my.com, fahim.abir@bjitacademy.com, sm.jabbaruzzaman@bjitacademy.com, farjana.\
+airin@bjitacademy.com, moinul.morshed@bjitacademy.com, asraful.alam@bjitacadem\
+y.com, fazle.rabbi@bjitacademy.com, sheikh.mustafizur.rahman@bjitacademy.com, \
+raian.faiz@bjitacademy.com, samiun.rahman@bjitacademy.com, minhaz.ahmed@bjitac\
+ademy.com, tamanna.afrose@bjitacademy.com, mdnur.uddin@bjitacademy.com, joynul\
+.abedin@bjitacademy.com, anoup.ghosh@bjitacademy.com, sadman.abir@bjitacademy.\
+com, hasan.shajib@bjitacademy.com, masrur.arefin@bjitacademy.com, syed.abdulla\
+h@bjitacademy.com, saiful.islam@bjitacademy.com, arnab.shanta@bjitacademy.com,\
+ kamrul.hasan@bjitacademy.com, ihsan.alaqib@bjitacademy.com, sadab.mostafa@bji\
+tacademy.com, syedur.rahaman@bjitgroup.com)(^81^8DA)(^83^8DB)(^C0^97)
+    (^C1^8DC)(^86^8DD)(^89=1)(^87^8DF)(^8B^8E0)(^9A^9C)(^8E=b4)(^C2=0)
+    (^CC^843)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C9=0)(^C7=110)]
+  [B5(^9C^8E2)(^BF^8E7)(^88=11)(^8A=0)(^82^83A)
+    (^85
+    =BD_All <bd_all@bjitgroup.com>, rofiqul.islam@bjitacademy.com, khondaker.r\
+eza@bjitacademy.com, minhazul.islam@bjitacademy.com, farhan.alam@bjitacademy.c\
+om, golam.mohabbat@bjitacademy.com, sadia.afrose@bjitacademy.com, shadat.hosai\
+n@bjitacademy.com, fairuz.tanzim@bjitacademy.com, hasib.zadid@bjitacademy.com,\
+ toasin.habib@bjitacademy.com, sakibul.utchas@bjitacademy.com, saruar.jahan@bj\
+itacademy.com, tanjila.nur@bjitacademy.com, kazi.omar.faruk@bjitacademy.com, s\
+hafiul.alam@bjitacademy.com, saifur.rahman@bjitacademy.com, rezaul.haque@bjita\
+cademy.com, asif.nawaz@bjitacademy.com, salauddin.akash@bjitacademy.com, shahn\
+ewaz.mahmud@bjitacademy.com, yeasir.arefin@bjitacademy.com, ashikur.rahman@bji\
+tacademy.com, ruhul.roktim@bjitacademy.com, faiaz.rahman@bjitacademy.com, sazz\
+ad.rony@bjitacademy.com, shifat.laskor@bjitacademy.com, absar.rahman@bjitacade\
+my.com, fahim.abir@bjitacademy.com, sm.jabbaruzzaman@bjitacademy.com, farjana.\
+airin@bjitacademy.com, moinul.morshed@bjitacademy.com, asraful.alam@bjitacadem\
+y.com, fazle.rabbi@bjitacademy.com, sheikh.mustafizur.rahman@bjitacademy.com, \
+raian.faiz@bjitacademy.com, samiun.rahman@bjitacademy.com, minhaz.ahmed@bjitac\
+ademy.com, tamanna.afrose@bjitacademy.com, mdnur.uddin@bjitacademy.com, joynul\
+.abedin@bjitacademy.com, anoup.ghosh@bjitacademy.com, sadman.abir@bjitacademy.\
+com, hasan.shajib@bjitacademy.com, masrur.arefin@bjitacademy.com, syed.abdulla\
+h@bjitacademy.com, saiful.islam@bjitacademy.com, arnab.shanta@bjitacademy.com,\
+ kamrul.hasan@bjitacademy.com, ihsan.alaqib@bjitacademy.com, sadab.mostafa@bji\
+tacademy.com, syedur.rahaman@bjitgroup.com)(^81^8DA)(^83^8E8)(^C0^97)
+    (^84^8E9)(^C1^8EA)(^86^8EB)(^89=1)(^87^8EC)(^8B=96)(^9A=b4)(^8E=b4)
+    (^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C7=111)(^CC^843)(^C9=0)]
+  [B6(^9C^8EF)(^BF^8F4)(^88=11)(^8A=0)(^82^83A)
+    (^85
+    =BD_All <bd_all@bjitgroup.com>, rofiqul.islam@bjitacademy.com, khondaker.r\
+eza@bjitacademy.com, minhazul.islam@bjitacademy.com, farhan.alam@bjitacademy.c\
+om, golam.mohabbat@bjitacademy.com, sadia.afrose@bjitacademy.com, shadat.hosai\
+n@bjitacademy.com, fairuz.tanzim@bjitacademy.com, hasib.zadid@bjitacademy.com,\
+ toasin.habib@bjitacademy.com, sakibul.utchas@bjitacademy.com, saruar.jahan@bj\
+itacademy.com, tanjila.nur@bjitacademy.com, kazi.omar.faruk@bjitacademy.com, s\
+hafiul.alam@bjitacademy.com, saifur.rahman@bjitacademy.com, rezaul.haque@bjita\
+cademy.com, asif.nawaz@bjitacademy.com, salauddin.akash@bjitacademy.com, shahn\
+ewaz.mahmud@bjitacademy.com, yeasir.arefin@bjitacademy.com, ashikur.rahman@bji\
+tacademy.com, ruhul.roktim@bjitacademy.com, faiaz.rahman@bjitacademy.com, sazz\
+ad.rony@bjitacademy.com, shifat.laskor@bjitacademy.com, absar.rahman@bjitacade\
+my.com, fahim.abir@bjitacademy.com, sm.jabbaruzzaman@bjitacademy.com, farjana.\
+airin@bjitacademy.com, moinul.morshed@bjitacademy.com, asraful.alam@bjitacadem\
+y.com, fazle.rabbi@bjitacademy.com, sheikh.mustafizur.rahman@bjitacademy.com, \
+raian.faiz@bjitacademy.com, samiun.rahman@bjitacademy.com, minhaz.ahmed@bjitac\
+ademy.com, tamanna.afrose@bjitacademy.com, mdnur.uddin@bjitacademy.com, joynul\
+.abedin@bjitacademy.com, anoup.ghosh@bjitacademy.com, sadman.abir@bjitacademy.\
+com, hasan.shajib@bjitacademy.com, masrur.arefin@bjitacademy.com, syed.abdulla\
+h@bjitacademy.com, saiful.islam@bjitacademy.com, arnab.shanta@bjitacademy.com,\
+ kamrul.hasan@bjitacademy.com, ihsan.alaqib@bjitacademy.com, sadab.mostafa@bji\
+tacademy.com, syedur.rahaman@bjitgroup.com)(^81^8DA)(^83^8F5)(^C0^97)
+    (^84^8F6)(^C1^8F7)(^86^8F8)(^89=1)(^87^8F9)(^8B=d9)(^9A=b5)(^8E=b4)
+    (^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C7=112)(^CC^843)(^C9=0)]
+  [B7(^9C^8FB)(^BF^901)(^88^B4)(^8A=0)(^82^83A)
+    (^85
+    =BD_All <bd_all@bjitgroup.com>, rofiqul.islam@bjitacademy.com, khondaker.r\
+eza@bjitacademy.com, minhazul.islam@bjitacademy.com, farhan.alam@bjitacademy.c\
+om, golam.mohabbat@bjitacademy.com, sadia.afrose@bjitacademy.com, shadat.hosai\
+n@bjitacademy.com, fairuz.tanzim@bjitacademy.com, hasib.zadid@bjitacademy.com,\
+ toasin.habib@bjitacademy.com, sakibul.utchas@bjitacademy.com, saruar.jahan@bj\
+itacademy.com, tanjila.nur@bjitacademy.com, kazi.omar.faruk@bjitacademy.com, s\
+hafiul.alam@bjitacademy.com, saifur.rahman@bjitacademy.com, rezaul.haque@bjita\
+cademy.com, asif.nawaz@bjitacademy.com, salauddin.akash@bjitacademy.com, shahn\
+ewaz.mahmud@bjitacademy.com, yeasir.arefin@bjitacademy.com, ashikur.rahman@bji\
+tacademy.com, ruhul.roktim@bjitacademy.com, faiaz.rahman@bjitacademy.com, sazz\
+ad.rony@bjitacademy.com, shifat.laskor@bjitacademy.com, absar.rahman@bjitacade\
+my.com, fahim.abir@bjitacademy.com, sm.jabbaruzzaman@bjitacademy.com, farjana.\
+airin@bjitacademy.com, moinul.morshed@bjitacademy.com, asraful.alam@bjitacadem\
+y.com, fazle.rabbi@bjitacademy.com, sheikh.mustafizur.rahman@bjitacademy.com, \
+raian.faiz@bjitacademy.com, samiun.rahman@bjitacademy.com, minhaz.ahmed@bjitac\
+ademy.com, tamanna.afrose@bjitacademy.com, mdnur.uddin@bjitacademy.com, joynul\
+.abedin@bjitacademy.com, anoup.ghosh@bjitacademy.com, sadman.abir@bjitacademy.\
+com, hasan.shajib@bjitacademy.com, masrur.arefin@bjitacademy.com, syed.abdulla\
+h@bjitacademy.com, saiful.islam@bjitacademy.com, arnab.shanta@bjitacademy.com,\
+ kamrul.hasan@bjitacademy.com, ihsan.alaqib@bjitacademy.com, sadab.mostafa@bji\
+tacademy.com, syedur.rahaman@bjitgroup.com)(^81^902)(^83^903)(^C0^97)
+    (^C1^904)(^86^905)(^89=1)(^87^907)(^8B^908)(^9A^9C)(^8E=b7)(^C2=0)
+    (^CC^843)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C7=113)(^C9=0)]
+  [B8(^9C^90A)(^BF^91D)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^91E)(^83^91F)
+    (^C0^97)(^C1^920)(^86^921)(^89=1)(^95^121)(^87^922)(^8B=e)(^9A^9C)
+    (^8E=b8)(^C2=0)(^CC^21E)(^C8=0)(^D0^1AC)(^D1=0)(^C9=0)(^C6^937)
+    (^C7=114)]
+  [B9(^9C^925)(^BF^926)(^88=1)(^8A=0)(^82^83A)
+    (^85
+    =BD_All <bd_all@bjitgroup.com>, rofiqul.islam@bjitacademy.com, khondaker.r\
+eza@bjitacademy.com, minhazul.islam@bjitacademy.com, farhan.alam@bjitacademy.c\
+om, golam.mohabbat@bjitacademy.com, sadia.afrose@bjitacademy.com, shadat.hosai\
+n@bjitacademy.com, fairuz.tanzim@bjitacademy.com, hasib.zadid@bjitacademy.com,\
+ toasin.habib@bjitacademy.com, sakibul.utchas@bjitacademy.com, saruar.jahan@bj\
+itacademy.com, tanjila.nur@bjitacademy.com, kazi.omar.faruk@bjitacademy.com, s\
+hafiul.alam@bjitacademy.com, saifur.rahman@bjitacademy.com, rezaul.haque@bjita\
+cademy.com, asif.nawaz@bjitacademy.com, salauddin.akash@bjitacademy.com, shahn\
+ewaz.mahmud@bjitacademy.com, yeasir.arefin@bjitacademy.com, ashikur.rahman@bji\
+tacademy.com, ruhul.roktim@bjitacademy.com, faiaz.rahman@bjitacademy.com, sazz\
+ad.rony@bjitacademy.com, shifat.laskor@bjitacademy.com, absar.rahman@bjitacade\
+my.com, fahim.abir@bjitacademy.com, sm.jabbaruzzaman@bjitacademy.com, farjana.\
+airin@bjitacademy.com, moinul.morshed@bjitacademy.com, asraful.alam@bjitacadem\
+y.com, fazle.rabbi@bjitacademy.com, sheikh.mustafizur.rahman@bjitacademy.com, \
+raian.faiz@bjitacademy.com, samiun.rahman@bjitacademy.com, minhaz.ahmed@bjitac\
+ademy.com, tamanna.afrose@bjitacademy.com, mdnur.uddin@bjitacademy.com, joynul\
+.abedin@bjitacademy.com, anoup.ghosh@bjitacademy.com, sadman.abir@bjitacademy.\
+com, hasan.shajib@bjitacademy.com, masrur.arefin@bjitacademy.com, syed.abdulla\
+h@bjitacademy.com, saiful.islam@bjitacademy.com, arnab.shanta@bjitacademy.com,\
+ kamrul.hasan@bjitacademy.com, ihsan.alaqib@bjitacademy.com, sadab.mostafa@bji\
+tacademy.com, syedur.rahaman@bjitgroup.com)(^81^927)(^83^928)(^C0^97)
+    (^C1^929)(^86^92A)(^89=1)(^87^92B)(^8B=36)(^9A^9C)(^8E=b9)(^C2=0)
+    (^CC^843)(^C8=0)(^D0^1AC)(^D1=0)(^C9=0)(^C7=115)]
+  [BA(^9C^92C)(^BF^92D)(^88^B4)(^8A=0)(^82^83A)
+    (^85
+    =BD_All <bd_all@bjitgroup.com>, rofiqul.islam@bjitacademy.com, khondaker.r\
+eza@bjitacademy.com, minhazul.islam@bjitacademy.com, farhan.alam@bjitacademy.c\
+om, golam.mohabbat@bjitacademy.com, sadia.afrose@bjitacademy.com, shadat.hosai\
+n@bjitacademy.com, fairuz.tanzim@bjitacademy.com, hasib.zadid@bjitacademy.com,\
+ toasin.habib@bjitacademy.com, sakibul.utchas@bjitacademy.com, saruar.jahan@bj\
+itacademy.com, tanjila.nur@bjitacademy.com, kazi.omar.faruk@bjitacademy.com, s\
+hafiul.alam@bjitacademy.com, saifur.rahman@bjitacademy.com, rezaul.haque@bjita\
+cademy.com, asif.nawaz@bjitacademy.com, salauddin.akash@bjitacademy.com, shahn\
+ewaz.mahmud@bjitacademy.com, yeasir.arefin@bjitacademy.com, ashikur.rahman@bji\
+tacademy.com, ruhul.roktim@bjitacademy.com, faiaz.rahman@bjitacademy.com, sazz\
+ad.rony@bjitacademy.com, shifat.laskor@bjitacademy.com, absar.rahman@bjitacade\
+my.com, fahim.abir@bjitacademy.com, sm.jabbaruzzaman@bjitacademy.com, farjana.\
+airin@bjitacademy.com, moinul.morshed@bjitacademy.com, asraful.alam@bjitacadem\
+y.com, fazle.rabbi@bjitacademy.com, sheikh.mustafizur.rahman@bjitacademy.com, \
+raian.faiz@bjitacademy.com, samiun.rahman@bjitacademy.com, minhaz.ahmed@bjitac\
+ademy.com, tamanna.afrose@bjitacademy.com, mdnur.uddin@bjitacademy.com, joynul\
+.abedin@bjitacademy.com, anoup.ghosh@bjitacademy.com, sadman.abir@bjitacademy.\
+com, hasan.shajib@bjitacademy.com, masrur.arefin@bjitacademy.com, syed.abdulla\
+h@bjitacademy.com, saiful.islam@bjitacademy.com, arnab.shanta@bjitacademy.com,\
+ kamrul.hasan@bjitacademy.com, ihsan.alaqib@bjitacademy.com, sadab.mostafa@bji\
+tacademy.com, syedur.rahaman@bjitgroup.com)(^81^92E)(^83^92F)(^C0^97)
+    (^C1^930)(^86^931)(^89=1)(^87^933)(^8B^934)(^9A^9C)(^8E=ba)(^C2=0)
+    (^C8=0)(^D0^1AC)(^D1=0)(^CC^843)(^C9=0)(^C7=116)]
+  [BB(^9C^935)(^BF^93E)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^93F)(^83^940)
+    (^C0^97)(^C1^941)(^86^942)(^89=1)(^95^121)(^87^943)(^8B=a)(^9A^9C)
+    (^8E=bb)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6^955)(^C7=117)(^CC^21E)
+    (^C9=0)]
+  [BC(^9C^945)(^BF^946)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^93F)(^83^947)
+    (^C0^97)(^C1^948)(^86^949)(^89=1)(^95^121)(^87^94A)(^8B=a)(^9A^9C)
+    (^8E=bc)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C7=118)(^CC^21E)]
+  [BD(^9C^94B)(^BF^94C)(^88=0)(^8A=0)(^82^83A)(^85^94D)
+    (^8C
+    =JM Akbar <jm.akbar@bjitgroup.com>, rofiqul.islam@bjitacademy.com, khondak\
+er.reza@bjitacademy.com, minhazul.islam@bjitacademy.com, farhan.alam@bjitacade\
+my.com, golam.mohabbat@bjitacademy.com, sadia.afrose@bjitacademy.com, shadat.h\
+osain@bjitacademy.com, fairuz.tanzim@bjitacademy.com, hasib.zadid@bjitacademy.\
+com, toasin.habib@bjitacademy.com, sakibul.utchas@bjitacademy.com, saruar.jaha\
+n@bjitacademy.com, tanjila.nur@bjitacademy.com, kazi.omar.faruk@bjitacademy.co\
+m, shafiul.alam@bjitacademy.com, saifur.rahman@bjitacademy.com, rezaul.haque@b\
+jitacademy.com, asif.nawaz@bjitacademy.com, salauddin.akash@bjitacademy.com, s\
+hahnewaz.mahmud@bjitacademy.com, yeasir.arefin@bjitacademy.com, ashikur.rahman\
+@bjitacademy.com, ruhul.roktim@bjitacademy.com, faiaz.rahman@bjitacademy.com, \
+sazzad.rony@bjitacademy.com, shifat.laskor@bjitacademy.com, absar.rahman@bjita\
+cademy.com, fahim.abir@bjitacademy.com, sm.jabbaruzzaman@bjitacademy.com, farj\
+ana.airin@bjitacademy.com, moinul.morshed@bjitacademy.com, asraful.alam@bjitac\
+ademy.com, fazle.rabbi@bjitacademy.com, sheikh.mustafizur.rahman@bjitacademy.c\
+om, raian.faiz@bjitacademy.com, samiun.rahman@bjitacademy.com, minhaz.ahmed@bj\
+itacademy.com, tamanna.afrose@bjitacademy.com, mdnur.uddin@bjitacademy.com, jo\
+ynul.abedin@bjitacademy.com, anoup.ghosh@bjitacademy.com, sadman.abir@bjitacad\
+emy.com, hasan.shajib@bjitacademy.com, masrur.arefin@bjitacademy.com, syed.abd\
+ullah@bjitacademy.com, saiful.islam@bjitacademy.com, arnab.shanta@bjitacademy.\
+com, kamrul.hasan@bjitacademy.com, ihsan.alaqib@bjitacademy.com, sadab.mostafa\
+@bjitacademy.com, syedur.rahaman@bjitgroup.com)(^81^94E)(^83^94F)(^C0^97)
+    (^C1^950)(^86^951)(^89=1)(^87^952)(^8B=56)(^9A^9C)(^8E=bd)(^C2=0)
+    (^C8=0)(^D0^1AC)(^D1=0)(^C7=119)(^CC^843)]
+  [BE(^9C^953)(^BF^95B)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^93F)(^83^95C)
+    (^C0^97)(^C1^95D)(^86^95E)(^89=1)(^95^121)(^87^95F)(^8B=a)(^9A^9C)
+    (^8E=be)(^C2=0)]
+  [BF(^9C^961)(^BF^962)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^93F)(^83^963)
+    (^C0^97)(^C1^964)(^86^965)(^89=1)(^95^121)(^87^966)(^8B=a)(^9A^9C)
+    (^8E=bf)(^C2=0)]
+  [C0(^9C^967)(^BF^968)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^969)(^83^96A)
+    (^C0^97)(^C1^96B)(^86^96C)(^89=1)(^95^121)(^87^96D)(^8B=b)(^9A^9C)
+    (^8E=c0)(^C2=0)]
+  [C1(^9C^96E)(^BF^96F)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^969)(^83^970)
+    (^C0^97)(^C1^971)(^86^972)(^89=1)(^95^121)(^87^973)(^8B=b)(^9A^9C)
+    (^8E=c1)(^C2=0)]
+  [C2(^9C^974)(^BF^975)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^880)(^83^976)
+    (^C0^97)(^C1^977)(^86^978)(^89=1)(^95^121)(^87^979)(^8B=b)(^9A^9C)
+    (^8E=c2)(^C2=0)]}
+{B1:^80 {(k^97:c)(s=9)7B:m } B1 }
+{2:^80 {(k^97:c)(s=9)2:m } 2 }
+{B2:^80 {(k^97:c)(s=9)7C:m } B2 }
+{3:^80 {(k^97:c)(s=9)3:m } 3 }
+{B3:^80 {(k^97:c)(s=9)7D:m } B3 }
+{4:^80 {(k^97:c)(s=9)4:m } 4 }
+{B4:^80 {(k^97:c)(s=9)7E:m } B4 B5 B6 }
+{5:^80 {(k^97:c)(s=9)5:m } 5 }
+{6:^80 {(k^97:c)(s=9)6:m } 6 }
+{B7:^80 {(k^97:c)(s=9)7F:m } B7 }
+{7:^80 {(k^97:c)(s=9)7:m } 7 }
+{B8:^80 {(k^97:c)(s=9)80:m } B8 }
+{8:^80 {(k^97:c)(s=9)8:m } 8 }
+{B9:^80 {(k^97:c)(s=9)81:m } B9 }
+{9:^80 {(k^97:c)(s=9)9:m } 9 }
+{BA:^80 {(k^97:c)(s=9)82:m } BA }
+{A:^80 {(k^97:c)(s=9)A:m } A }
+{BB:^80 {(k^97:c)(s=9)83:m } BB }
+{B:^80 {(k^97:c)(s=9)B:m } B }
+{BC:^80 {(k^97:c)(s=9)84:m } BC }
+{C:^80 {(k^97:c)(s=9)C:m } D E C }
+{BD:^80 {(k^97:c)(s=9)85:m } BD }
+{BE:^80 {(k^97:c)(s=9)86:m } BE }
+{BF:^80 {(k^97:c)(s=9)87:m } BF }
+{F:^80 {(k^97:c)(s=9)D:m } F }
+{C0:^80 {(k^97:c)(s=9)88:m } C0 }
+{10:^80 {(k^97:c)(s=9)E:m } 10 }
+{C1:^80 {(k^97:c)(s=9)89:m } C1 }
+{11:^80 {(k^97:c)(s=9)F:m } 11 }
+{C2:^80 {(k^97:c)(s=9)8A:m } C2 }
+{12:^80 {(k^97:c)(s=9)10:m } 12 }
+{13:^80 {(k^97:c)(s=9)11:m } 13 }
+{14:^80 {(k^97:c)(s=9)12:m } 14 }
+{15:^80 {(k^97:c)(s=9)13:m } 15 }
+{16:^80 {(k^97:c)(s=9)14:m } 16 }
+{17:^80 {(k^97:c)(s=9)15:m } 17 }
+{18:^80 {(k^97:c)(s=9)16:m } 18 }
+{19:^80 {(k^97:c)(s=9)17:m } 19 }
+{1A:^80 {(k^97:c)(s=9)18:m } 1A }
+{1B:^80 {(k^97:c)(s=9)19:m } 1B }
+{1C:^80 {(k^97:c)(s=9)1A:m } 1C }
+{1D:^80 {(k^97:c)(s=9)1B:m } 1D 53 54 }
+{1E:^80 {(k^97:c)(s=9)1C:m } 1E }
+{1F:^80 {(k^97:c)(s=9)1D:m } 1F }
+{20:^80 {(k^97:c)(s=9)1E:m } 20 }
+{21:^80 {(k^97:c)(s=9)1F:m } 21 }
+{22:^80 {(k^97:c)(s=9)20:m } 22 }
+{23:^80 {(k^97:c)(s=9)21:m } 23 }
+{24:^80 {(k^97:c)(s=9)22:m } 24 }
+{25:^80 {(k^97:c)(s=9)23:m } 25 }
+{26:^80 {(k^97:c)(s=9)24:m } 26 27 }
+{28:^80 {(k^97:c)(s=9)25:m } 28 29 2A }
+{2B:^80 {(k^97:c)(s=9)26:m } 2B }
+{2C:^80 {(k^97:c)(s=9)27:m } 2C 2D 2E }
+{FFFFFFFE:^80 {(k^97:c)(s=9)1:m } 1 }
+{2F:^80 {(k^97:c)(s=9)28:m } 2F }
+{30:^80 {(k^97:c)(s=9)29:m } 30 }
+{31:^80 {(k^97:c)(s=9)2A:m } 31 }
+{32:^80 {(k^97:c)(s=9)2B:m } 32 }
+{33:^80 {(k^97:c)(s=9)2C:m } 33 34 35 36 41 }
+{37:^80 {(k^97:c)(s=9)2D:m } 37 }
+{38:^80 {(k^97:c)(s=9)2E:m } 38 39 }
+{3A:^80 {(k^97:c)(s=9)2F:m } 3A 3B }
+{3C:^80 {(k^97:c)(s=9)30:m } 3C 3D }
+{3E:^80 {(k^97:c)(s=9)31:m } 3E 3F 40 }
+{42:^80 {(k^97:c)(s=9)32:m } 42 43 44 }
+{45:^80 {(k^97:c)(s=9)33:m } 45 47 48 }
+{46:^80 {(k^97:c)(s=9)34:m } 46 49 4A 4B 4C }
+{4D:^80 {(k^97:c)(s=9)35:m } 4D 4E }
+{4F:^80 {(k^97:c)(s=9)36:m } 4F 50 }
+{51:^80 {(k^97:c)(s=9)37:m } 51 52 }
+{55:^80 {(k^97:c)(s=9)38:m } 55 }
+{56:^80 {(k^97:c)(s=9)39:m } 56 }
+{57:^80 {(k^97:c)(s=9)3A:m } 57 }
+{58:^80 {(k^97:c)(s=9)3B:m } 58 59 }
+{5A:^80 {(k^97:c)(s=9)3C:m } 5A }
+{5B:^80 {(k^97:c)(s=9)3D:m } 5B 5C 5D 5E }
+{5F:^80 {(k^97:c)(s=9)3E:m } 5F 6C 6D }
+{60:^80 {(k^97:c)(s=9)3F:m } 61 60 62 }
+{63:^80 {(k^97:c)(s=9)40:m } 64 63 65 66 67 }
+{68:^80 {(k^97:c)(s=9)41:m } 68 }
+{69:^80 {(k^97:c)(s=9)42:m } 69 }
+{6A:^80 {(k^97:c)(s=9)43:m } 6A }
+{6B:^80 {(k^97:c)(s=9)44:m } 6B }
+{6E:^80 {(k^97:c)(s=9)45:m } 6E 6F 70 71 }
+{72:^80 {(k^97:c)(s=9)46:m } 72 73 }
+{74:^80 {(k^97:c)(s=9)47:m } 74 75 }
+{76:^80 {(k^97:c)(s=9)48:m } 76 }
+{77:^80 {(k^97:c)(s=9)49:m } 77 78 }
+{79:^80 {(k^97:c)(s=9)4A:m } 79 }
+{7A:^80 {(k^97:c)(s=9)4B:m } 7A }
+{7B:^80 {(k^97:c)(s=9)4C:m } 7B }
+{7C:^80 {(k^97:c)(s=9)4D:m } 7C }
+{7D:^80 {(k^97:c)(s=9)4E:m } 7D }
+{7E:^80 {(k^97:c)(s=9)4F:m } 7E 7F }
+{80:^80 {(k^97:c)(s=9)50:m } 80 }
+{81:^80 {(k^97:c)(s=9)51:m } 81 }
+{82:^80 {(k^97:c)(s=9)52:m } 82 }
+{83:^80 {(k^97:c)(s=9)53:m } 83 }
+{84:^80 {(k^97:c)(s=9)54:m } 84 }
+{85:^80 {(k^97:c)(s=9)55:m } 85 }
+{86:^80 {(k^97:c)(s=9)56:m } 86 }
+{87:^80 {(k^97:c)(s=9)57:m } 87 }
+{88:^80 {(k^97:c)(s=9)58:m } 88 }
+{89:^80 {(k^97:c)(s=9)59:m } 89 }
+{8A:^80 {(k^97:c)(s=9)5A:m } 8A }
+{8B:^80 {(k^97:c)(s=9)5B:m } 8B }
+{8C:^80 {(k^97:c)(s=9)5C:m } 8C }
+{8D:^80 {(k^97:c)(s=9)5D:m } 8D }
+{8E:^80 {(k^97:c)(s=9)5E:m } 8E }
+{8F:^80 {(k^97:c)(s=9)5F:m } 8F }
+{90:^80 {(k^97:c)(s=9)60:m } 90 }
+{91:^80 {(k^97:c)(s=9)61:m } 91 }
+{92:^80 {(k^97:c)(s=9)62:m } 92 }
+{93:^80 {(k^97:c)(s=9)63:m } 93 }
+{94:^80 {(k^97:c)(s=9)64:m } 94 }
+{95:^80 {(k^97:c)(s=9)65:m } 95 }
+{96:^80 {(k^97:c)(s=9)66:m } 96 }
+{97:^80 {(k^97:c)(s=9)67:m } 97 }
+{98:^80 {(k^97:c)(s=9)68:m } 98 }
+{99:^80 {(k^97:c)(s=9)69:m } 99 }
+{9A:^80 {(k^97:c)(s=9)6A:m } 9A }
+{9B:^80 {(k^97:c)(s=9)6B:m } 9B }
+{9C:^80 {(k^97:c)(s=9)6C:m } 9C }
+{9D:^80 {(k^97:c)(s=9)6D:m } 9D }
+{9E:^80 {(k^97:c)(s=9)6E:m } 9E 9F }
+{A0:^80 {(k^97:c)(s=9)6F:m } A0 A1 }
+{A2:^80 {(k^97:c)(s=9)70:m } A2 A3 }
+{A4:^80 {(k^97:c)(s=9)71:m } A4 A5 }
+{A6:^80 {(k^97:c)(s=9)72:m } A6 }
+{A7:^80 {(k^97:c)(s=9)73:m } A7 A8 }
+{A9:^80 {(k^97:c)(s=9)74:m } A9 }
+{AA:^80 {(k^97:c)(s=9)75:m } AA AE }
+{AB:^80 {(k^97:c)(s=9)76:m } AB }
+{AC:^80 {(k^97:c)(s=9)77:m } AC }
+{AD:^80 {(k^97:c)(s=9)78:m } AD }
+{AF:^80 {(k^97:c)(s=9)79:m } AF }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [FFFFFFFE(^94^95)]
+  [2(^94^A3)]
+  [3(^94^BA)]
+  [4(^94^C4)]
+  [5(^94^CC)]
+  [6(^94^D4)]
+  [7(^94^EF)]
+  [8(^94^FE)]
+  [9(^94^108)]
+  [A(^94^11D)]
+  [B(^94^12C)]
+  [C(^94^13A)]
+  [F(^94^12C)]
+  [10(^94^15A)]
+  [11(^94^172)]
+  [12(^94^183)]
+  [13(^94^1A2)]
+  [14(^94^1B3)]
+  [15(^94^1C3)]
+  [16(^94^1C3)]
+  [17(^94^1DC)]
+  [18(^94^1F4)]
+  [19(^94^203)]
+  [1A(^94^214)]
+  [1B(^94^222)]
+  [1C(^94=)]
+  [1D(^94^238)]
+  [1E(^94^242)]
+  [1F(^94^252)]
+  [20(^94^263)]
+  [21(^94^26F)]
+  [22(^94^278)]
+  [23(^94^280)]
+  [24(^94^290)]
+  [25(^94^2A2)]
+  [26(^94^2B4)]
+  [28(^94^2D0)]
+  [2B(^94^2EC)]
+  [2C(^94^2F5)]
+  [2F(^94^30E)]
+  [30(^94^315)]
+  [31(^94^31D)]
+  [32(^94^328)]
+  [33(^94^333)]
+  [37(^94^352)]
+  [38(^94^35C)]
+  [3A(^94^36D)]
+  [3C(^94^37E)]
+  [3E(^94^38E)]
+  [42(^94^3B1)]
+  [45(^94^3C9)]
+  [46(^94^3D4)]
+  [4D(^94^409)]
+  [4F(^94^419)]
+  [51(^94^42A)]
+  [55(^94^476)]
+  [56(^94^485)]
+  [57(^94^48E)]
+  [58(^94^497)]
+  [5A(^94^4A7)]
+  [5B(^94^4B1)]
+  [5F(^94^4CF)]
+  [60(^94^4D8)]
+  [63(^94^4F1)]
+  [68(^94^516)]
+  [69(^94^51F)]
+  [6A(^94^527)]
+  [6B(^94^52F)]
+  [6E(^94^546)]
+  [72(^94^563)]
+  [74(^94^574)]
+  [76(^94^A3)]
+  [77(^94^A3)]
+  [79(^94^61D)]
+  [7A(^94^626)]
+  [7B(^94^634)]
+  [7C(^94^642)]
+  [7D(^94=)]
+  [7E(^94^65E)]
+  [80(^94^670)]
+  [81(^94=)]
+  [82(^94^683)]
+  [83(^94^693)]
+  [84(^94=)]
+  [85(^94^6BB)]
+  [86(^94^6C4)]
+  [87(^94^6CC)]
+  [88(^94^6D6)]
+  [89(^94^6DE)]
+  [8A(^94^6E7)]
+  [8B(^94^6F0)]
+  [8C(^94^6F7)]
+  [8D(^94^70A)]
+  [8E(^94^72A)]
+  [8F(^94^732)]
+  [90(^94^72A)]
+  [91(^94^73F)]
+  [92(^94^751)]
+  [93(^94^75F)]
+  [94(^94^769)]
+  [95(^94^75F)]
+  [96(^94^769)]
+  [97(^94^77F)]
+  [98(^94^78D)]
+  [99(^94^79A)]
+  [9A(^94^7A4)]
+  [9B(^94^7B3)]
+  [9C(^94^7C3)]
+  [9D(^94^7D0)]
+  [9E(^94^7DB)]
+  [A0(^94^7F5)]
+  [A2(^94^813)]
+  [A4(^94^82A)]
+  [A6(^94^83C)]
+  [A7(^94^849)]
+  [A9(^94^527)]
+  [AA(^94^83C)]
+  [AB(^94^874)]
+  [AC(^94^880)]
+  [AD(^94^880)]
+  [AF(^94^8A0)]
+  [B0(^94^8AD)]
+  [B1(^94^8B6)]
+  [B2(^94^8BE)]
+  [B3(^94=)]
+  [B4(^94^8DA)]
+  [B7(^94^902)]
+  [B8(^94^91E)]
+  [B9(^94^927)]
+  [BA(^94^92E)]
+  [BB(^94^93F)]
+  [BC(^94^93F)]
+  [BD(^94^94E)]
+  [BE(^94^93F)]
+  [BF(^94^93F)]
+  [C0(^94^969)]
+  [C1(^94^969)]
+  [C2(^94^880)]}
+
+<(82=1004)(83=Inbox)(97A=10d8212)(97B=63f2e7a8)(960=1676863400)(80C=$121$132)
+  (89
+    ={"selectCol":{"visible":false,"ordinal":"1"},"threadCol":{"visible":true,\
+"ordinal":"3"},"flaggedCol":{"visible":true,"ordinal":"5"},"attachmentCol":{"v\
+isible":true,"ordinal":"7"},"subjectCol":{"visible":true,"ordinal":"15"},"unre\
+adButtonColHeader":{"visible":true,"ordinal":"9"},"senderCol":{"visible":false\
+,"ordinal":"17"},"recipientCol":{"visible":false,"ordinal":"19"},"corresponden\
+tCol":{"visible":true,"ordinal":"21"},"junkStatusCol":{"visible":true,"ordinal\
+":"11"},"receivedCol":{"visible":false,"ordinal":"23"},"dateCol":{"visible":tr\
+ue,"ordinal":"25"},"statusCol":{"visible":false,"ordinal":"27"},"sizeCol":{"vi\
+sible":false,"ordinal":"29"},"tagsCol":{"visible":false,"ordinal":"31"},"accou\
+ntCol":{"visible":false,"ordinal":"33"},"priorityCol":{"visible":false,"ordina\
+l":"35"},"unreadCol":{"visible":false,"ordinal":"37"},"totalCol":{"visible":fa\
+lse,"ordinal":"39"},"locationCol":{"visible":false,"ordinal":"41"},"idCol":{"v\
+isible":false,"ordinal":"43"},"deleteCol":{"visible":false,"ordinal":"13"}})>
+{1:^9E {(k^9F:c)(s=9)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^97A)(^A4^97B)(^B4^960)
+    (^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)(^B7=1)(^A0=c2)(^A1=8)
+    (^A5=c2)]}
+
+@$${595{@
+<(97C
+    =Hi @SamiunRahman, We noticed your personal access token (classic\) "Andro\
+id Studio GitHub integration plugin" with admin:ssh_signing_key, gist, project\
+, read:org, repo, user, and workflow scopes will expire in about 11 hours. If \
+this token is still n)>[-BE:^80(^9C^953)(^BF^95B)(^88=0)(^8A=0)(^82^212)
+    (^85^182)(^81^93F)(^83^95C)(^C0^97)(^C1^95D)(^86^95E)(^89=1)(^95^121)
+    (^87^95F)(^8B=a)(^9A^9C)(^8E=be)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6^97C)]
+[-BF:^80(^9C^961)(^BF^962)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^93F)
+    (^83^963)(^C0^97)(^C1^964)(^86^965)(^89=1)(^95^121)(^87^966)(^8B=a)
+    (^9A^9C)(^8E=bf)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)]
+[-C0:^80(^9C^967)(^BF^968)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^969)
+    (^83^96A)(^C0^97)(^C1^96B)(^86^96C)(^89=1)(^95^121)(^87^96D)(^8B=b)
+    (^9A^9C)(^8E=c0)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)]
+[-C1:^80(^9C^96E)(^BF^96F)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^969)
+    (^83^970)(^C0^97)(^C1^971)(^86^972)(^89=1)(^95^121)(^87^973)(^8B=b)
+    (^9A^9C)(^8E=c1)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)]
+[-C2:^80(^9C^974)(^BF^975)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^880)
+    (^83^976)(^C0^97)(^C1^977)(^86^978)(^89=1)(^95^121)(^87^979)(^8B=b)
+    (^9A^9C)(^8E=c2)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)]
+@$$}595}@
+
+@$${596{@
+@$$}596}@
+
+@$${597{@
+@$$}597}@
+
+@$${598{@
+@$$}598}@
+
+@$${599{@
+@$$}599}@
+
+@$${59A{@
+<(97D=11a)>[BE:^80(^C7=11a)]
+<(97E=11b)>[BF:^80(^C7=11b)]
+<(97F=11c)>[C0:^80(^C7=11c)]
+<(980=11d)>[C1:^80(^C7=11d)]
+<(981=11e)>[C2:^80(^C7=11e)]
+@$$}59A}@
+
+@$${59B{@
+<(985=63f2e98f)>[-8B:m(^9B=c3)(^8F=c3)(^91^985)(^90=0)(^92=1)(^93=1)]
+
+<(982=17662482)(983
+    =63f2e98fd3aa5_a66c5bc61188@lowworker-7754c76d87-zxsf9.mail)(984
+    =63f2e9bc)(986=103d)>
+{1:^80 {(k^96:c)(s=9)} 
+  [-C3(^9C^97A)(^BF^982)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^880)(^83^983)
+    (^C0^97)(^C1^984)(^86^985)(^89=1)(^95^121)(^87^986)(^8B=b)(^9A^9C)
+    (^8E=c3)(^C2=0)]}
+{-C3:^80 {(k^97:c)(s=9)8B:m } C3 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [-C3(^94^880)]}
+<(987=10d9251)(988=63f2e9c1)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)
+    (^A2^987)(^A4^988)(^B4^960)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)
+    (^B3^89)(^B7=1)(^A0=c3)(^A1=9)(^A5=c3)]
+@$$}59B}@
+
+@$${59C{@
+@$$}59C}@
+
+@$${59D{@
+[BE:^80(^C9=1)]
+[BF:^80(^C9=1)]
+[C0:^80(^C9=1)]
+[C1:^80(^C9=1)]
+[C2:^80(^C9=1)]
+[-C3:^80(^9C^97A)(^BF^982)(^88=0)(^8A=0)(^82^212)(^85^182)(^81^880)
+    (^83^983)(^C0^97)(^C1^984)(^86^985)(^89=1)(^95^121)(^87^986)(^8B=b)
+    (^9A^9C)(^8E=c3)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)]
+<(989=1676863937)>[1:^9E(^B4^989)]
+@$$}59D}@
+
+@$${59E{@
+<(98A
+    =Hey SamiunRahman! A personal access token (classic\) "Android Studio GitH\
+ub Office" with gist, read:org, repo, and workflow scopes was recently added t\
+o your account. Visit https://github.com/settings/tokens for more information.\
+ To see this and othe)>[C3:^80(^C6^98A)]
+@$$}59E}@
+
+@$${59F{@
+@$$}59F}@
+
+@$${5A0{@
+[BE:^80(^C9=0)]
+[BF:^80(^C9=0)]
+[C0:^80(^C9=0)]
+[C1:^80(^C9=0)]
+[C2:^80(^C9=0)]
+<(98B=11f)>[C3:^80(^C7=11f)]
+@$$}5A0}@
+
+@$${5A1{@
+@$$}5A1}@
+
+@$${5A2{@
+@$$}5A2}@
+
+@$${5A3{@
+@$$}5A3}@
+
+@$${5A4{@
+@$$}5A4}@
+
+@$${5A5{@
+@$$}5A5}@
+
+@$${5A6{@
+@$$}5A6}@
+
+@$${5A7{@
+@$$}5A7}@
+
+@$${5A9{@
+<(990=63f73f40)>[-8C:m(^9B=c4)(^8F=c4)(^91^990)(^90=0)(^92=1)(^93=1)]
+
+<(98C=17666641)(98D
+    =BJITAcademy2021 invited you to BJITAcademy2021/Android_Samiun_FinalProjec\
+t)(98E=63f73f403e1f4_60c5bc2165a@lowworker-5b7ff58bb-6qlxx.mail)(98F
+    =63f73f6b)(991=6562)>
+{1:^80 {(k^96:c)(s=9)} 
+  [-C4(^9C^987)(^BF^98C)(^88=0)(^8A=0)(^82^8BD)(^85^A2)(^81^98D)(^83^98E)
+    (^C0^97)(^C1^98F)(^86^990)(^89=1)(^95^121)(^87^991)(^8B=ef)(^9A^9C)
+    (^8E=c4)(^C2=0)]}
+{-C4:^80 {(k^97:c)(s=9)8C:m } C4 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [-C4(^94^98D)]}
+<(992=1677204471)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^987)
+    (^A4^988)(^B4^992)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c4)(^A1=a)(^A5=c4)]
+@$$}5A9}@
+
+@$${5AA{@
+<(993=10df7b5)(994=63f81bf7)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)
+    (^A2^993)(^A4^994)(^B4^992)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)
+    (^B3^89)(^B7=1)(^A0=c4)(^A1=a)(^A5=c4)]
+@$$}5AA}@
+
+@$${5AB{@
+@$$}5AB}@
+
+@$${5AC{@
+[-C4:^80(^9C^987)(^BF^98C)(^88=0)(^8A=0)(^82^8BD)(^85^A2)(^81^98D)
+    (^83^98E)(^C0^97)(^C1^98F)(^86^990)(^89=1)(^95^121)(^87^991)(^8B=ef)
+    (^9A^9C)(^8E=c4)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)]
+@$$}5AC}@
+
+@$${5AD{@
+@$$}5AD}@
+
+@$${5AE{@
+@$$}5AE}@
+
+@$${5AF{@
+@$$}5AF}@
+
+@$${5B0{@
+@$$}5B0}@
+
+@$${5B1{@
+<(995=120)>[C4:^80(^C7=120)]
+@$$}5B1}@
+
+@$${5B2{@
+<(99C=63f81c2a)>[-8D:m(^9B=c5)(^8F=c5)(^91^99C)(^90=0)(^92=1)(^93=1)]
+
+<(996=17692597)(997=valay@xobin.com)(998
+    =Valay from Xobin <valay@xobin.com>)(999
+    =Samiun Rahman Sizan | Your Xobin Access)(99A
+    =1677204522338.23fc7342-0b46-45f0-b860-b89ebeb36537@bf01.hubspotstarter.ne\
+t)(99B=63f81c57)(99D=4fe3)(99E=12b)>
+{1:^80 {(k^96:c)(s=9)} 
+  [-C5(^9C^993)(^BF^996)(^88=0)(^CE^997)(^8A=0)(^82^998)(^85^A2)(^81^999)
+    (^83^99A)(^C0^97)(^C1^99B)(^86^99C)(^89=1)(^87^99D)(^8B=12b)(^9A^9C)
+    (^8E=c5)(^C2=0)]}
+{-C5:^80 {(k^97:c)(s=9)8D:m } C5 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [-C5(^94^999)]}
+<(99F=10e479a)(9A0=63f81c6d)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)
+    (^A2^99F)(^A4^9A0)(^B4^992)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)
+    (^B3^89)(^B7=1)(^A0=c5)(^A1=b)(^A5=c5)]
+@$$}5B2}@
+
+@$${5B3{@
+@$$}5B3}@
+
+@$${5B4{@
+[C4:^80(^C9=1)]
+[-C5:^80(^9C^993)(^BF^996)(^88=0)(^CE^997)(^8A=0)(^82^998)(^85^A2)
+    (^81^999)(^83^99A)(^C0^97)(^C1^99B)(^86^99C)(^89=1)(^87^99D)(^8B=12b)
+    (^9A^9C)(^8E=c5)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)]
+<(9A1=1677204589)>[1:^9E(^B4^9A1)]
+@$$}5B4}@
+
+@$${5B5{@
+[C5:^80(^C6=)]
+@$$}5B5}@
+
+@$${5B6{@
+@$$}5B6}@
+
+@$${5B7{@
+@$$}5B7}@
+
+@$${5B8{@
+[C4:^80(^C9=0)]
+<(9A2=121)>[C5:^80(^C7=121)]
+@$$}5B8}@
+
+@$${5B9{@
+<(9A9=63f8210e)>[-8E:m(^9B=c6)(^8F=c6)(^91^9A9)(^90=0)(^92=1)(^93=1)]
+
+<(9A3=17713050)(9A4=Xobin <s.684b5480c4e6c800.i@mail.xobin.com>)(9A5
+    ="Amrit - Xobin" <amrit@mail.xobin.com>)(9A6
+    =How long will it take to get access in xobin)(9A7
+    =a59330c7-ad69-daae-4dbf-a2a8cef9e729@mail.xobin.com)(9A8=63f8213a)
+  (9AA=1ed7)(9AB=39)>
+{1:^80 {(k^96:c)(s=9)} 
+  [-C6(^9C^99F)(^BF^9A3)(^88=0)(^CE^9A4)(^8A=0)(^82^9A5)(^85^A2)(^81^9A6)
+    (^83^9A7)(^C0^97)(^C1^9A8)(^86^9A9)(^89=1)(^87^9AA)(^8B=39)(^9A^9C)
+    (^8E=c6)(^C2=0)]}
+{-C6:^80 {(k^97:c)(s=9)8E:m } C6 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [-C6(^94^9A6)]}
+<(9AC=10e6673)(9AD=63f82159)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)
+    (^A2^9AC)(^A4^9AD)(^B4^9A1)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)
+    (^B3^89)(^B7=1)(^A0=c6)(^A1=c)(^A5=c6)]
+@$$}5B9}@
+
+@$${5BA{@
+@$$}5BA}@
+
+@$${5BB{@
+[C4:^80(^C9=1)]
+[C5:^80(^C9=1)]
+[-C6:^80(^9C^99F)(^BF^9A3)(^88=0)(^CE^9A4)(^8A=0)(^82^9A5)(^85^A2)
+    (^81^9A6)(^83^9A7)(^C0^97)(^C1^9A8)(^86^9A9)(^89=1)(^87^9AA)(^8B=39)
+    (^9A^9C)(^8E=c6)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)]
+<(9AE=1677205849)>[1:^9E(^B4^9AE)]
+@$$}5BB}@
+
+@$${5BC{@
+[C6:^80(^C6=)]
+@$$}5BC}@
+
+@$${5BD{@
+@$$}5BD}@
+
+@$${5BE{@
+[C4:^80(^C9=0)]
+[C5:^80(^C9=0)]
+<(9AF=122)>[C6:^80(^C7=122)]
+@$$}5BE}@
+
+@$${5BF{@
+@$$}5BF}@
+
+@$${5C0{@
+<(9B5=63f82ea6)>[-8F:m(^9B=c7)(^8F=c7)(^91^9B5)(^90=0)(^92=1)(^93=1)]
+
+<(9B0=17720947)(9B1=Xobin <transcripts@mail.xobin.com>)(9B2
+    =Chat transcript (#852\))(9B3
+    =ae866078-7d6f-8bb9-18e8-80edf0949f1b@mail.xobin.com)(9B4=63f82ed3)
+  (9B6=e005)(9B7=30e)>
+{1:^80 {(k^96:c)(s=9)} 
+  [-C7(^9C^9AC)(^BF^9B0)(^88=0)(^CE^9A4)(^8A=0)(^82^9B1)(^85^A2)(^81^9B2)
+    (^83^9B3)(^C0^97)(^C1^9B4)(^86^9B5)(^89=1)(^87^9B6)(^8B=30e)(^9A^9C)
+    (^8E=c7)(^C2=0)]}
+{-C7:^80 {(k^97:c)(s=9)8F:m } C7 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [-C7(^94^9B2)]}
+<(9B8=10f467a)(9B9=63f82ef2)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)
+    (^A2^9B8)(^A4^9B9)(^B4^9AE)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)
+    (^B3^89)(^B7=1)(^A0=c7)(^A1=d)(^A5=c7)]
+@$$}5C0}@
+
+@$${5C1{@
+@$$}5C1}@
+
+@$${5C2{@
+[C4:^80(^C9=1)]
+[C5:^80(^C9=1)]
+[C6:^80(^C9=1)]
+[-C7:^80(^9C^9AC)(^BF^9B0)(^88=0)(^CE^9A4)(^8A=0)(^82^9B1)(^85^A2)
+    (^81^9B2)(^83^9B3)(^C0^97)(^C1^9B4)(^86^9B5)(^89=1)(^87^9B6)(^8B=30e)
+    (^9A^9C)(^8E=c7)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)]
+<(9BA=1677209330)>[1:^9E(^B4^9BA)]
+@$$}5C2}@
+
+@$${5C3{@
+[C4:^80(^C9=0)]
+@$$}5C3}@
+
+@$${5C4{@
+@$$}5C4}@
+
+@$${5C5{@
+@$$}5C5}@
+
+@$${5C6{@
+[C5:^80(^C9=0)]
+[C6:^80(^C9=0)]
+<(9BB=123)>[C7:^80(^C7=123)]
+@$$}5C6}@
+
+@$${5C7{@
+@$$}5C7}@
+
+@$${5C8{@
+@$$}5C8}@
+
+@$${5C9{@
+<(9BC=1677217172)>[1:^9E(^B4^9BC)]
+@$$}5C9}@
+
+@$${5CA{@
+@$$}5CA}@
+
+@$${5CB{@
+[BE:^80(^CC^21E)]
+[BF:^80(^CC^21E)]
+[C0:^80(^CC^21E)]
+[C1:^80(^CC^21E)]
+[C2:^80(^CC^21E)]
+[C3:^80(^CC^21E)]
+[C4:^80(^CC^8C9)]
+<(9BD=1|Valay from Xobin)>[C5:^80(^CC^9BD)]
+<(9BE=1|Amrit - Xobin)>[C6:^80(^CC^9BE)]
+<(9BF=1|Xobin)>[C7:^80(^CC^9BF)]
+@$$}5CB}@
+
+@$${5CC{@
+@$$}5CC}@
+
+@$${5CD{@
+@$$}5CD}@
+
+@$${5CE{@
+<(9C0=1677227736)>[1:^9E(^B4^9C0)]
+@$$}5CE}@
+
+@$${5CF{@
+[80:m(^93=0)]
+[-B8:^80(^9C^90A)(^BF^91D)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^91E)
+    (^83^91F)(^C0^97)(^C1^920)(^86^921)(^89=1)(^95^121)(^87^922)(^8B=e)
+    (^9A^9C)(^8E=b8)(^C2=0)(^CC^21E)(^C8=0)(^D0^1AC)(^D1=0)(^C9=1)(^C6^937)
+    (^C7=114)]
+<(9C1=63f87b3d)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9C1)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=c)(^A5=c7)]
+@$$}5CF}@
+
+@$${5D0{@
+@$$}5D0}@
+
+@$${5D1{@
+@$$}5D1}@
+
+@$${5D2{@
+[B8:^80(^C9=0)]
+@$$}5D2}@
+
+@$${5D3{@
+[84:m(^93=0)]
+[-BC:^80(^9C^945)(^BF^946)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^93F)
+    (^83^947)(^C0^97)(^C1^948)(^86^949)(^89=1)(^95^121)(^87^94A)(^8B=a)
+    (^9A^9C)(^8E=bc)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C7=118)(^CC^21E)
+    (^C9=1)]
+<(9C2=63f87b3f)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9C2)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=b)(^A5=c7)]
+@$$}5D3}@
+
+@$${5D4{@
+@$$}5D4}@
+
+@$${5D5{@
+@$$}5D5}@
+
+@$${5D6{@
+[85:m(^93=0)]
+[-BD:^80(^9C^94B)(^BF^94C)(^88=1)(^8A=0)(^82^83A)(^85^94D)
+    (^8C
+    =JM Akbar <jm.akbar@bjitgroup.com>, rofiqul.islam@bjitacademy.com, khondak\
+er.reza@bjitacademy.com, minhazul.islam@bjitacademy.com, farhan.alam@bjitacade\
+my.com, golam.mohabbat@bjitacademy.com, sadia.afrose@bjitacademy.com, shadat.h\
+osain@bjitacademy.com, fairuz.tanzim@bjitacademy.com, hasib.zadid@bjitacademy.\
+com, toasin.habib@bjitacademy.com, sakibul.utchas@bjitacademy.com, saruar.jaha\
+n@bjitacademy.com, tanjila.nur@bjitacademy.com, kazi.omar.faruk@bjitacademy.co\
+m, shafiul.alam@bjitacademy.com, saifur.rahman@bjitacademy.com, rezaul.haque@b\
+jitacademy.com, asif.nawaz@bjitacademy.com, salauddin.akash@bjitacademy.com, s\
+hahnewaz.mahmud@bjitacademy.com, yeasir.arefin@bjitacademy.com, ashikur.rahman\
+@bjitacademy.com, ruhul.roktim@bjitacademy.com, faiaz.rahman@bjitacademy.com, \
+sazzad.rony@bjitacademy.com, shifat.laskor@bjitacademy.com, absar.rahman@bjita\
+cademy.com, fahim.abir@bjitacademy.com, sm.jabbaruzzaman@bjitacademy.com, farj\
+ana.airin@bjitacademy.com, moinul.morshed@bjitacademy.com, asraful.alam@bjitac\
+ademy.com, fazle.rabbi@bjitacademy.com, sheikh.mustafizur.rahman@bjitacademy.c\
+om, raian.faiz@bjitacademy.com, samiun.rahman@bjitacademy.com, minhaz.ahmed@bj\
+itacademy.com, tamanna.afrose@bjitacademy.com, mdnur.uddin@bjitacademy.com, jo\
+ynul.abedin@bjitacademy.com, anoup.ghosh@bjitacademy.com, sadman.abir@bjitacad\
+emy.com, hasan.shajib@bjitacademy.com, masrur.arefin@bjitacademy.com, syed.abd\
+ullah@bjitacademy.com, saiful.islam@bjitacademy.com, arnab.shanta@bjitacademy.\
+com, kamrul.hasan@bjitacademy.com, ihsan.alaqib@bjitacademy.com, sadab.mostafa\
+@bjitacademy.com, syedur.rahaman@bjitgroup.com)(^81^94E)(^83^94F)(^C0^97)
+    (^C1^950)(^86^951)(^89=1)(^87^952)(^8B=56)(^9A^9C)(^8E=bd)(^C2=0)
+    (^C8=0)(^D0^1AC)(^D1=0)(^C7=119)(^CC^843)(^C9=1)]
+<(9C3=63f87b40)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9C3)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=a)(^A5=c7)]
+@$$}5D6}@
+
+@$${5D7{@
+@$$}5D7}@
+
+@$${5D8{@
+@$$}5D8}@
+
+@$${5D9{@
+[86:m(^93=0)]
+[-BE:^80(^9C^953)(^BF^95B)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^93F)
+    (^83^95C)(^C0^97)(^C1^95D)(^86^95E)(^89=1)(^95^121)(^87^95F)(^8B=a)
+    (^9A^9C)(^8E=be)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6^97C)(^C7=11a)
+    (^C9=1)(^CC^21E)]
+<(9C4=63f87b41)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9C4)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=9)(^A5=c7)]
+@$$}5D9}@
+
+@$${5DA{@
+@$$}5DA}@
+
+@$${5DB{@
+@$$}5DB}@
+
+@$${5DC{@
+[87:m(^93=0)]
+[-BF:^80(^9C^961)(^BF^962)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^93F)
+    (^83^963)(^C0^97)(^C1^964)(^86^965)(^89=1)(^95^121)(^87^966)(^8B=a)
+    (^9A^9C)(^8E=bf)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C7=11b)(^C9=1)(^CC^21E)]
+<(9C5=63f87b42)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9C5)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=8)(^A5=c7)]
+@$$}5DC}@
+
+@$${5DD{@
+@$$}5DD}@
+
+@$${5DE{@
+@$$}5DE}@
+
+@$${5DF{@
+[88:m(^93=0)]
+[-C0:^80(^9C^967)(^BF^968)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^969)
+    (^83^96A)(^C0^97)(^C1^96B)(^86^96C)(^89=1)(^95^121)(^87^96D)(^8B=b)
+    (^9A^9C)(^8E=c0)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C7=11c)(^C9=1)(^CC^21E)]
+<(9C6=63f87b43)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9C6)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=7)(^A5=c7)]
+@$$}5DF}@
+
+@$${5E0{@
+@$$}5E0}@
+
+@$${5E1{@
+@$$}5E1}@
+
+@$${5E2{@
+[89:m(^93=0)]
+[-C1:^80(^9C^96E)(^BF^96F)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^969)
+    (^83^970)(^C0^97)(^C1^971)(^86^972)(^89=1)(^95^121)(^87^973)(^8B=b)
+    (^9A^9C)(^8E=c1)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C7=11d)(^C9=1)(^CC^21E)]
+<(9C7=63f87b44)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9C7)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=6)(^A5=c7)]
+@$$}5E2}@
+
+@$${5E3{@
+@$$}5E3}@
+
+@$${5E4{@
+@$$}5E4}@
+
+@$${5E5{@
+[8A:m(^93=0)]
+[-C2:^80(^9C^974)(^BF^975)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^880)
+    (^83^976)(^C0^97)(^C1^977)(^86^978)(^89=1)(^95^121)(^87^979)(^8B=b)
+    (^9A^9C)(^8E=c2)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C7=11e)(^C9=1)(^CC^21E)]
+<(9C8=63f87b45)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9C8)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=5)(^A5=c7)]
+@$$}5E5}@
+
+@$${5E6{@
+@$$}5E6}@
+
+@$${5E7{@
+@$$}5E7}@
+
+@$${5E8{@
+[8B:m(^93=0)]
+[-C3:^80(^9C^97A)(^BF^982)(^88=1)(^8A=0)(^82^212)(^85^182)(^81^880)
+    (^83^983)(^C0^97)(^C1^984)(^86^985)(^89=1)(^95^121)(^87^986)(^8B=b)
+    (^9A^9C)(^8E=c3)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6^98A)(^C7=11f)
+    (^CC^21E)(^C9=1)]
+<(9C9=63f87b46)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9C9)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=4)(^A5=c7)]
+@$$}5E8}@
+
+@$${5E9{@
+@$$}5E9}@
+
+@$${5EA{@
+@$$}5EA}@
+
+@$${5EB{@
+[8B:m(^93=1)]
+[C3:^80(^88=0)]
+<(9CA=63f87b47)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9CA)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=5)(^A5=c7)]
+@$$}5EB}@
+
+@$${5EC{@
+@$$}5EC}@
+
+@$${5ED{@
+@$$}5ED}@
+
+@$${5EE{@
+[8B:m(^93=0)]
+[C3:^80(^88=1)]
+<(9CB=63f87b49)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9CB)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=4)(^A5=c7)]
+@$$}5EE}@
+
+@$${5EF{@
+@$$}5EF}@
+
+@$${5F0{@
+@$$}5F0}@
+
+@$${5F1{@
+[8D:m(^93=0)]
+[-C5:^80(^9C^993)(^BF^996)(^88=1)(^CE^997)(^8A=0)(^82^998)(^85^A2)
+    (^81^999)(^83^99A)(^C0^97)(^C1^99B)(^86^99C)(^89=1)(^87^99D)(^8B=12b)
+    (^9A^9C)(^8E=c5)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C7=121)(^C9=1)
+    (^CC^9BD)]
+<(9CC=63f87b4b)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9CC)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=3)(^A5=c7)]
+@$$}5F1}@
+
+@$${5F2{@
+@$$}5F2}@
+
+@$${5F3{@
+@$$}5F3}@
+
+@$${5F4{@
+[8D:m(^93=1)]
+[C5:^80(^88=0)]
+<(9CD=63f87b4c)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9CD)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=4)(^A5=c7)]
+@$$}5F4}@
+
+@$${5F5{@
+@$$}5F5}@
+
+@$${5F6{@
+@$$}5F6}@
+
+@$${5F7{@
+[8D:m(^93=0)]
+[C5:^80(^88=1)]
+<(9CE=63f87b4e)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9CE)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=3)(^A5=c7)]
+@$$}5F7}@
+
+@$${5F8{@
+[C5:^80(^D2=1)]
+@$$}5F8}@
+
+@$${5F9{@
+@$$}5F9}@
+
+@$${5FA{@
+[BC:^80(^C9=0)]
+[BD:^80(^C9=0)]
+[BE:^80(^C9=0)]
+[BF:^80(^C9=0)]
+[C0:^80(^C9=0)]
+[C1:^80(^C9=0)]
+[C2:^80(^C9=0)]
+[C3:^80(^C9=0)]
+[C5:^80(^C9=0)]
+@$$}5FA}@
+
+@$${5FB{@
+[8C:m(^93=0)]
+[-C4:^80(^9C^987)(^BF^98C)(^88=1)(^8A=0)(^82^8BD)(^85^A2)(^81^98D)
+    (^83^98E)(^C0^97)(^C1^98F)(^86^990)(^89=1)(^95^121)(^87^991)(^8B=ef)
+    (^9A^9C)(^8E=c4)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C7=120)(^C9=1)
+    (^CC^8C9)]
+<(9CF=63f87b5a)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9CF)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=2)(^A5=c7)]
+@$$}5FB}@
+
+@$${5FC{@
+@$$}5FC}@
+
+@$${5FD{@
+@$$}5FD}@
+
+@$${5FE{@
+[8E:m(^93=0)]
+[C6:^80(^88=1)]
+<(9D0=63f87b5e)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9D0)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=1)(^A5=c7)]
+@$$}5FE}@
+
+@$${5FF{@
+[8F:m(^93=0)]
+[-C7:^80(^9C^9AC)(^BF^9B0)(^88=1)(^CE^9A4)(^8A=0)(^82^9B1)(^85^A2)
+    (^81^9B2)(^83^9B3)(^C0^97)(^C1^9B4)(^86^9B5)(^89=1)(^87^9B6)(^8B=30e)
+    (^9A^9C)(^8E=c7)(^C2=0)(^C8=0)(^D0^1AC)(^D1=0)(^C7=123)(^CC^9BF)
+    (^C9=1)]
+<(9D1=63f87b5f)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9D1)(^B4^9C0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c7)(^A1=0)(^A5=c7)]
+@$$}5FF}@
+
+@$${600{@
+@$$}600}@
+
+@$${601{@
+@$$}601}@
+
+@$${602{@
+<(9D2=1677228898)>[1:^9E(^B4^9D2)]
+@$$}602}@
+
+@$${603{@
+[C4:^80(^C9=0)]
+[C7:^80(^C9=0)]
+@$$}603}@
+
+@$${604{@
+@$$}604}@
+
+@$${605{@
+<(9D3=1677229292)>[1:^9E(^B4^9D3)]
+@$$}605}@
+
+@$${606{@
+<(9D4=1677229406)>[1:^9E(^B4^9D4)]
+@$$}606}@
+
+@$${607{@
+<(9D5=1677229421)>[1:^9E(^B4^9D5)]
+@$$}607}@
+
+@$${608{@
+<(9D6=1677229462)>[1:^9E(^B4^9D6)]
+@$$}608}@
+
+@$${609{@
+<(9DF=c8)(9DD=63f87cd8)>[-90:m(^9B=c8)(^8F=c8)(^91^9DD)(^90=0)(^92=1)
+    (^93=1)]
+
+<(9D7=17778298)(9D8=support@xobin.com)(9D9
+    ="BJIT Group Hiring Team" <support@xobin.com>)(9DA
+    =Invite from "BJIT Group" for Technical Assessment Fresher 102)
+  (9DB
+    =30933376.20230224090112.63f87cd82593d7.10070389@mail132-28.atl131.mandril\
+lapp.com)(9DC=63f87d95)(9DE=4752)>
+{1:^80 {(k^96:c)(s=9)} 
+  [-C8(^9C^9B8)(^BF^9D7)(^88=0)(^CE^9D8)(^8A=0)(^82^9D9)(^85^182)(^81^9DA)
+    (^83^9DB)(^C0^97)(^C1^9DC)(^86^9DD)(^89=1)(^87^9DE)(^8B=10c)(^9A^9C)
+    (^8E=c8)(^C2=0)]}
+{-C8:^80 {(k^97:c)(s=9)90:m } C8 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [-C8(^94^9DA)]}
+<(9E0=1677229467)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9B8)
+    (^A4^9D1)(^B4^9E0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c8)(^A1=1)(^A5=c8)]
+@$$}609}@
+
+@$${60A{@
+<(9E1=10f8dce)(9E2=63f87d9b)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)
+    (^A2^9E1)(^A4^9E2)(^B4^9E0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)
+    (^B3^89)(^B7=1)(^A0=c8)(^A1=1)(^A5=c8)]
+@$$}60A}@
+
+@$${60B{@
+@$$}60B}@
+
+@$${60C{@
+[C4:^80(^C9=1)]
+[C5:^80(^C9=1)]
+[C6:^80(^C9=1)]
+[C7:^80(^C9=1)]
+<(9E3=1|BJIT Group Hiring Team)>
+[-C8:^80(^9C^9B8)(^BF^9D7)(^88=0)(^CE^9D8)(^8A=0)(^82^9D9)(^85^182)
+    (^81^9DA)(^83^9DB)(^C0^97)(^C1^9DC)(^86^9DD)(^89=1)(^87^9DE)(^8B=10c)
+    (^9A^9C)(^8E=c8)(^C2=0)(^CC^9E3)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)]
+@$$}60C}@
+
+@$${60D{@
+@$$}60D}@
+
+@$${60E{@
+[90:m(^93=0)]
+[-C8:^80(^9C^9B8)(^BF^9D7)(^88=1)(^CE^9D8)(^8A=0)(^82^9D9)(^85^182)
+    (^81^9DA)(^83^9DB)(^C0^97)(^C1^9DC)(^86^9DD)(^89=1)(^87^9DE)(^8B=10c)
+    (^9A^9C)(^8E=c8)(^C2=0)(^CC^9E3)(^C8=0)(^D0^1AC)(^D1=0)(^C6=)(^C9=1)]
+<(9E4=63f87da0)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^9E1)
+    (^A4^9E4)(^B4^9E0)(^AF=12)(^B0=1)(^B1=1)(^B2=0)(^B5^80C)(^B3^89)
+    (^B7=1)(^A0=c8)(^A1=0)(^A5=c8)]
+@$$}60E}@
+
+@$${60F{@
+[C8:^80(^D2=1)]
+@$$}60F}@
+
+@$${610{@
+@$$}610}@
+
+@$${611{@
+@$$}611}@
+
+@$${612{@
+[C4:^80(^C9=0)]
+[C5:^80(^C9=0)]
+[C6:^80(^C9=0)]
+[C7:^80(^C9=0)]
+<(9E5=124)>[-C8:^80(^9C^9B8)(^BF^9D7)(^88=1)(^CE^9D8)(^8A=0)(^82^9D9)
+    (^85^182)(^81^9DA)(^83^9DB)(^C0^97)(^C1^9DC)(^86^9DD)(^89=1)(^87^9DE)
+    (^8B=10c)(^9A^9C)(^8E=c8)(^C2=0)(^CC^9E3)(^C8=0)(^D0^1AC)(^D1=0)
+    (^C6=)(^C9=0)(^D2=1)(^C7=124)]
+@$$}612}@
+
+@$${613{@
+@$$}613}@
+
+@$${614{@
+@$$}614}@

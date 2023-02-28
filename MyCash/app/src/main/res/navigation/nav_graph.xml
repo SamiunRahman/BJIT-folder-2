@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/logInFragment">
+
+    <fragment
+        android:id="@+id/logInFragment"
+        android:name="com.samiun.mycash.LogInFragment"
+        android:label="Welcome to Mycash"
+        tools:layout="@layout/fragment_log_in">
+        <action
+            android:id="@+id/action_logInFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+        <action
+            android:id="@+id/action_logInFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.samiun.mycash.HomeFragment"
+        android:label="MyCash Home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_homeFragment_to_sendMoneyFragment"
+            app:destination="@id/sendMoneyFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_histoyFragment"
+            app:destination="@id/histoyFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_logInFragment"
+            app:destination="@id/logInFragment" />
+        <argument
+            android:name="account"
+            app:argType="com.samiun.mycash.model.AccountInfo"
+            app:nullable="true" />
+        <action
+            android:id="@+id/action_homeFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sendMoneyFragment"
+        android:name="com.samiun.mycash.SendMoneyFragment"
+        android:label="Send Money"
+        tools:layout="@layout/fragment_send_money">
+        <action
+            android:id="@+id/action_sendMoneyFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+        <argument
+            android:name="account"
+            app:argType="com.samiun.mycash.model.AccountInfo"
+            app:nullable="true" />
+        <action
+            android:id="@+id/action_sendMoneyFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/histoyFragment"
+        android:name="com.samiun.mycash.HistoyFragment"
+        android:label="Transaction History"
+        tools:layout="@layout/fragment_histoy">
+        <action
+            android:id="@+id/action_histoyFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+        <argument
+            android:name="account"
+            app:argType="com.samiun.mycash.model.AccountInfo"
+            app:nullable="true" />
+        <action
+            android:id="@+id/action_histoyFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.samiun.mycash.SettingsFragment"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

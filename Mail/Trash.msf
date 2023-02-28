@@ -1,0 +1,82 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=sortOrder)(B9=viewFlags)(BA=viewType)(BB=columnStates)(BC=MRUTime)
+  (BD=sortColumns)(BE=customSortCol)(80=ns:msg:db:row:scope:msgs:all)
+  (81=subject)(82=sender)(83=message-id)(84=references)(85=recipients)
+  (86=date)(87=size)(88=flags)(89=priority)(8A=label)(8B=numLines)
+  (8C=ccList)(8D=bccList)(8E=msgThreadId)(8F=threadId)(90=threadFlags)
+  (91=threadNewestMsgDate)(92=children)(93=unreadChildren)
+  (94=threadSubject)(95=msgCharSet)(96=ns:msg:db:table:kind:msgs)
+  (97=ns:msg:db:table:kind:thread)(98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=folderName)(AF=useServerRetention)
+  (B0=retainBy)(B1=daysToKeepHdrs)(B2=numHdrsToKeep)(B3=daysToKeepBodies)
+  (B4=useServerDefaults)(B5=cleanupBodies)(B6=applyToFlaggedMessages)
+  (B7=sortType)>
+
+<(80=1)(81=0)(82=104)(83=Trash)(84=6360f7de)(85=Deleted)(86=1667300273)
+  (87=12)(88=)(89
+    ={"selectCol":{"visible":false,"ordinal":"1"},"threadCol":{"visible":true,\
+"ordinal":"3"},"flaggedCol":{"visible":true,"ordinal":"5"},"attachmentCol":{"v\
+isible":true,"ordinal":"7"},"subjectCol":{"visible":true,"ordinal":"15"},"unre\
+adButtonColHeader":{"visible":true,"ordinal":"9"},"senderCol":{"visible":false\
+,"ordinal":"17"},"recipientCol":{"visible":false,"ordinal":"19"},"corresponden\
+tCol":{"visible":true,"ordinal":"21"},"junkStatusCol":{"visible":true,"ordinal\
+":"11"},"receivedCol":{"visible":false,"ordinal":"23"},"dateCol":{"visible":tr\
+ue,"ordinal":"25"},"statusCol":{"visible":false,"ordinal":"27"},"sizeCol":{"vi\
+sible":false,"ordinal":"29"},"tagsCol":{"visible":false,"ordinal":"31"},"accou\
+ntCol":{"visible":false,"ordinal":"33"},"priorityCol":{"visible":false,"ordina\
+l":"35"},"unreadCol":{"visible":false,"ordinal":"37"},"totalCol":{"visible":fa\
+lse,"ordinal":"39"},"locationCol":{"visible":false,"ordinal":"41"},"idCol":{"v\
+isible":false,"ordinal":"43"},"deleteCol":{"visible":false,"ordinal":"13"}})>
+{1:^9E {(k^9F:c)(s=9u)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2=0)(^A4^84)(^AE^85)(^AF=1)
+    (^BC^86)(^B7=12)(^B8=1)(^B9=1)(^BA=0)(^BD=)(^BB^89)]}
+
+@$${1{@
+{-1:^80 {(k^96:c)(s=9)} }
+{-FFFFFFFD:^99 {(k^98:c)(s=9)} }
+<(8A=1667300825)>[1:^9E(^BC^8A)]
+@$$}1}@
+
+@$${2{@
+@$$}2}@
+
+@$${4{@
+<(8B=1667355989)>[1:^9E(^BC^8B)]
+@$$}4}@
+
+@$${5{@
+@$$}5}@
+
+@$${7{@
+< <(a=c)> // (f=iso-8859-1)
+  (BF=indexingPriority)>
+@$$}7}@
+
+@$${9{@
+<(8C=1667381290)>[1:^9E(^BC^8C)]
+@$$}9}@
+
+@$${A{@
+@$$}A}@
+
+@$${C{@
+<(8D=1668078568)>[1:^9E(^BC^8D)]
+@$$}C}@
+
+@$${D{@
+@$$}D}@
+
+@$${F{@
+<(8E=1669716212)>[1:^9E(^BC^8E)]
+@$$}F}@
+
+@$${10{@
+@$$}10}@

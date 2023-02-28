@@ -1,0 +1,140 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=retainBy)(B9=daysToKeepHdrs)(BA=numHdrsToKeep)(BB=daysToKeepBodies)
+  (BC=useServerDefaults)(BD=cleanupBodies)(BE=applyToFlaggedMessages)
+  (BF=sortType)(C0=sortOrder)(C1=viewFlags)(C2=viewType)(C3=columnStates)
+  (C4=MRUTime)(C5=sortColumns)(C6=customSortCol)(C7=imageSize)
+  (C8=recipient_names)(C9=notAPhishMessage)(CA=replyTo)(CB=enigmail)
+  (CC=account)(80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)
+  (83=message-id)(84=references)(85=recipients)(86=date)(87=size)
+  (88=flags)(89=priority)(8A=label)(8B=numLines)(8C=ccList)(8D=bccList)
+  (8E=msgThreadId)(8F=threadId)(90=threadFlags)(91=threadNewestMsgDate)
+  (92=children)(93=unreadChildren)(94=threadSubject)(95=msgCharSet)
+  (96=ns:msg:db:table:kind:msgs)(97=ns:msg:db:table:kind:thread)
+  (98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=folderName)(AF=indexingPriority)
+  (B0=storeToken)(B1=dateReceived)(B2=ProtoThreadFlags)(B3=gloda-id)
+  (B4=gloda-dirty)(B5=junkscore)(B6=keywords)(B7=useServerRetention)>
+<(80=1)(8F=fffffffe)(8A=6361d6a4)(81=0)>
+[1:m(^9B=1)(^8F^8F)(^91^8A)(^90=0)(^92=1)]
+<(8D=2)(96=6361da1a)>[2:m(^9B=2)(^8F=2)(^91^96)(^90=0)(^92=1)]
+<(AC=3)(A9=6369f83f)>[3:m(^9B=3)(^8F=3)(^91^A9)(^90=0)(^92=1)]
+<(B5=4)(C1=636b5c43)>[4:m(^9B=4)(^8F=4)(^91^C1)(^90=0)(^92=2)]
+<(CF=6)(CD=636b5e9f)>[5:m(^9B=6)(^8F=6)(^91^CD)(^90=0)(^92=1)]
+<(DD=7)(DB=636b61c6)>[6:m(^9B=7)(^8F=7)(^91^DB)(^90=0)(^92=1)]
+<(E6=8)(E4=636c66f3)>[7:m(^9B=8)(^8F=8)(^91^E4)(^90=0)(^92=1)]
+
+<(85=800001)(86=Samiun Rahman Sizan <samiun.rahman@bjitacademy.com>)
+  (87=samiunsizan0@gmail.com)(88=test1)(89
+    =88646986-fe0e-7aad-6fba-c7c5c6ee8874@bjitacademy.com)(8B=UTF-8)
+  (8C=20a)(8E=ffffffff)(91=26)(D4=1|samiunsizan0@gmail.com)(90=20c)
+  (92=524)(93=ihsan.alaqid@bjitacademy.com)(94=test 2)(95
+    =ed755713-ca37-b13b-9fc3-ed76f6a16eec@bjitacademy.com)(97=211)(9A=27)
+  (D5=1|ihsan.alaqid@bjitacademy.com)(98=41f)(A5=1055)(A6
+    =saleehin@bjitgroup.com)(A7=Leave Application)(A8
+    =8978d049-74e3-d3a7-708c-652f5732363e@bjitacademy.com)(AA=384)(AB=e)
+  (AF=39)(D6=1|saleehin@bjitgroup.com)(AD=7a5)(B0=1957)(BB=800003)(B1=test)
+  (B2=dcee4a4f-d48f-9536-866f-98037cbf90ba@bjitacademy.com)(B3=636b5b16)
+  (B4=20f)(B8=3a)(B6=9b6)(BD=2486)(BE=testing reply Re: test)(BF
+    =f75d57c4-2b6a-3885-56b4-07526fe9b8bd@bjitacademy.com)(C0
+    =<dcee4a4f-d48f-9536-866f-98037cbf90ba@bjitacademy.com>)(C2=2f5)
+  (C3=5)(C6=3b)(C4=cad)(C7=3245)(C9=800011)(C8
+    =Saiful Islam <saiful.islam@bjitacademy.com>)(CA=Mail Test)(CB
+    =3edfa769-e8e8-22fe-1a85-33dc5865be42@bjitacademy.com)(CC
+    =<19345f06-0929-6676-e130-05b62a2a04b2@bjitacademy.com>)(CE=302)
+  (D2=3e)(D7=1|Saiful Islam)(D0=fb1)(D8=4017)(D9
+    =ihsan.alaqib@bjitacademy.com)(DA
+    =6b8cf042-b97e-7def-ab46-e47aa60c4130@bjitacademy.com)(DC=20d)(E0=3f)
+  (EB=1|ihsan.alaqib@bjitacademy.com)(DE=11c0)(E1=4544)(E2=send test)
+  (E3=9bf1f80f-c4bf-465f-3e1c-94683c416490@bjitacademy.com)(E5=213)
+  (E9=40)>
+{1:^80 {(k^96:c)(s=9)} 
+  [1(^9C=0)(^B0=0)(^88^85)(^8A=0)(^82^86)(^85^87)(^81^88)(^83^89)(^B1^8A)
+    (^86^8A)(^89=1)(^95^8B)(^87^8C)(^8B=2)(^9A^8E)(^8E^8F)(^B2=0)(^B3=26)
+    (^C8^D4)]
+  [2(^9C^90)(^B0^92)(^88^85)(^8A=0)(^82^86)(^85^93)(^81^94)(^83^95)
+    (^B1^96)(^86^96)(^89=1)(^95^8B)(^87^97)(^8B=2)(^9A^8E)(^8E=2)(^B2=0)
+    (^B3=27)(^C8^D5)]
+  [3(^9C^98)(^B0^A5)(^88^85)(^8A=0)(^82^86)(^85^A6)(^81^A7)(^83^A8)
+    (^B1^A9)(^86^A9)(^89=1)(^95^8B)(^87^AA)(^8B=e)(^9A^8E)(^8E=3)(^B2=0)
+    (^B3=39)(^C8^D6)]
+  [4(^9C^AD)(^B0^B0)(^88^BB)(^8A=0)(^82^86)(^85^93)(^81^B1)(^83^B2)
+    (^B1^B3)(^86^B3)(^89=1)(^95^8B)(^87^B4)(^8B=3)(^9A^8E)(^8E=4)(^B2=0)
+    (^B3=3a)(^C8^D5)(^B4=0)]
+  [5(^9C^B6)(^B0^BD)(^88^85)(^8A=0)(^82^86)(^85^93)(^81^BE)(^83^BF)
+    (^84^C0)(^B1^C1)(^86^C1)(^89=1)(^95^8B)(^87^C2)(^8B=5)(^9A=4)(^8E=4)
+    (^B2=0)(^B3=3b)]
+  [6(^9C^C4)(^B0^C7)(^88^C9)(^8A=0)(^82^86)(^85^C8)(^81^CA)(^83^CB)
+    (^84^CC)(^B1^CD)(^86^CD)(^89=1)(^95^8B)(^87^CE)(^8B=5)(^9A^8E)(^8E=6)
+    (^B2=0)(^B3=3e)(^C8^D7)]
+  [7(^9C^D0)(^B0^D8)(^88^85)(^8A=0)(^82^86)(^85^D9)(^81^B1)(^83^DA)
+    (^B1^DB)(^86^DB)(^89=1)(^95^8B)(^87^DC)(^8B=2)(^9A^8E)(^8E=7)(^B2=0)
+    (^B3=3f)(^C8^EB)]
+  [8(^9C^DE)(^B0^E1)(^88^85)(^8A=0)(^82^86)(^85^D9)(^81^E2)(^83^E3)
+    (^B1^E4)(^86^E4)(^89=1)(^95^8B)(^87^E5)(^8B=2)(^9A^8E)(^8E=8)(^B2=0)
+    (^B3=40)(^C8^EB)]}
+{2:^80 {(k^97:c)(s=9)2:m } 2 }
+{FFFFFFFE:^80 {(k^97:c)(s=9)1:m } 1 }
+{3:^80 {(k^97:c)(s=9)3:m } 3 }
+{4:^80 {(k^97:c)(s=9)4:m } 4 5 }
+{6:^80 {(k^97:c)(s=9)5:m } 6 }
+{7:^80 {(k^97:c)(s=9)6:m } 7 }
+{8:^80 {(k^97:c)(s=9)7:m } 8 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [FFFFFFFE(^94^88)]
+  [2(^94^94)]
+  [3(^94^A7)]
+  [4(^94^B1)]
+  [6(^94^CA)]
+  [7(^94^B1)]
+  [8(^94^E2)]}
+
+<(82=204)(83=Sent)(E7=13d5)(E8=636c66f4)(ED=1668415312)(9C=12)(9E=$121)
+  (EE
+    ={"selectCol":{"visible":false,"ordinal":"1"},"threadCol":{"visible":true,\
+"ordinal":"3"},"flaggedCol":{"visible":true,"ordinal":"5"},"attachmentCol":{"v\
+isible":true,"ordinal":"7"},"subjectCol":{"visible":true,"ordinal":"15"},"unre\
+adButtonColHeader":{"visible":true,"ordinal":"9"},"senderCol":{"visible":false\
+,"ordinal":"17"},"recipientCol":{"visible":false,"ordinal":"19"},"corresponden\
+tCol":{"visible":true,"ordinal":"21"},"junkStatusCol":{"visible":true,"ordinal\
+":"11"},"receivedCol":{"visible":false,"ordinal":"23"},"dateCol":{"visible":tr\
+ue,"ordinal":"25"},"statusCol":{"visible":false,"ordinal":"27"},"sizeCol":{"vi\
+sible":false,"ordinal":"29"},"tagsCol":{"visible":false,"ordinal":"31"},"accou\
+ntCol":{"visible":false,"ordinal":"33"},"priorityCol":{"visible":false,"ordina\
+l":"35"},"unreadCol":{"visible":false,"ordinal":"37"},"totalCol":{"visible":fa\
+lse,"ordinal":"39"},"locationCol":{"visible":false,"ordinal":"41"},"idCol":{"v\
+isible":false,"ordinal":"43"},"deleteCol":{"visible":false,"ordinal":"13"}})>
+{1:^9E {(k^9F:c)(s=9u)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^E7)(^A4^E8)(^A0=8)(^A5=8)
+    (^B7=1)(^C4^ED)(^BF=12)(^C0=1)(^C1=1)(^C2=0)(^C5^9E)(^C3^EE)]}
+
+@$${55{@
+@$$}55}@
+
+@$${56{@
+@$$}56}@
+
+@$${57{@
+@$$}57}@
+
+@$${59{@
+<(EF=1669716205)>[1:^9E(^C4^EF)]
+@$$}59}@
+
+@$${5A{@
+@$$}5A}@
+
+@$${5C{@
+<(F0=1669716212)>[1:^9E(^C4^F0)]
+@$$}5C}@
+
+@$${5D{@
+[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^E7)(^A4^E8)(^A0=8)
+    (^A5=8)(^B7=1)(^C4^F0)(^BF=12)(^C0=1)(^C1=1)(^C2=0)(^C5^9E)(^C3^EE)]
+@$$}5D}@
